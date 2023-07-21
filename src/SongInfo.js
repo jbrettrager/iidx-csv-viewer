@@ -1,0 +1,1620 @@
+ export default `-,2,3,4,-,3,4,-,-,123,DANCE POP,Dr.LOVE,baby weapon feat.Asuka.M,1st Style
+-,2,2,-,-,2,2,-,-,102,BIG BEAT,GAMBOL,SLAKE,1st Style
+-,5,6,7,-,4,9,9,-,※,DIGI-ROCK,GRADIUSIC CYBER,TAKA,1st Style
+-,4,5,6,-,4,6,8,-,157,RAVE,R3,tiger YAMATO,1st Style
+-,3,4,5,-,5,5,5,-,135,TECHNO,22DUNK,SLAKE,1st Style
+-,2,6,10,-,1,7,10,-,101,PIANO AMBIENT,5.1.1.,dj nagureo,1st Style
+-,4,4,5,-,3,4,7,-,126,DANCE POP,deep in you,dj nagureo,substream
+-,3,6,9,-,3,6,9,-,150,TRANCE,GENOM SCREAMS,L.E.D.LIGHT,substream
+-,2,4,9,-,3,5,9,-,175,DRUM'N'BASS,gentle stress,DJ Swan,substream
+-,2,3,-,-,2,3,-,-,132,DANCE POP,KEEP ON MOVIN',N.M.R.,substream
+-,2,7,10,-,3,11,11,-,125,TRIBAL HOUSE,Macho Gang,ANAL SPYDER,substream
+-,5,6,8,-,3,6,9,-,190,JUNGLE,PARANOIA MAX～DIRTY MIX～,190,substream
+-,3,3,9,11,3,4,9,12,168,FUTURE JAZZ,RUGGED ASH,SYMPHONIC DEFOGGERS,substream
+-,4,7,8,-,5,10,7,-,145,TRANCE,THE EARTH LIGHT,L.E.D.LIGHT,substream
+-,4,5,6,-,4,8,-,-,155,MINIMAL,Digital MinD(A/T Libra mix),TaQ,2nd Style
+-,4,5,6,-,6,9,-,-,125,BIG BEAT,Electro Tuned(the SubS mix),TaQ,2nd Style
+-,3,3,4,-,2,2,-,-,125,ITALO HOUSE,I Was The One,good-cool,2nd Style
+-,3,5,8,-,5,8,-,-,155,GOA TRANCE,Indigo Vision(full flavour hide around mix),TaQ,2nd Style
+-,3,6,-,-,4,7,-,-,127,JAZZ FUNK,PUT YOUR FAITH IN ME(for beatmania II),dj TAKA feat. UZI-LAY,2nd Style
+-,3,4,4,-,3,5,-,-,168,JUNGLE,SP-TRIP MACHINE(for beatmania II),dj TAKA feat. DE-SIRE,2nd Style
+-,4,6,7,-,4,6,7,-,123-135,CHILL OUT,.59,dj TAKA,2nd Style
+-,4,8,-,-,4,7,-,-,155,HYPER EUROBEAT,CAN'T STOP FALLIN'IN LOVE,NAOKI,3rd Style
+-,4,4,4,-,4,4,-,-,130,HAPPY HANDBAG,Don't Stop!,dj TAKA feat. JP Miles,3rd Style
+-,5,8,9,-,5,12,12,-,90-180,DRUM'N'BASS,era (nostalmix),TaQ,3rd Style
+-,5,7,11,-,7,10,12,-,155,HARD TECHNO,Holic,TaQ,3rd Style
+-,4,6,7,-,4,6,6,-,150,DIGI-ROCK,LEADING CYBER,dj TAKA,3rd Style
+-,3,8,8,-,3,8,-,-,136,PIANO AMBIENT,Presto,Osamu Kubota,3rd Style
+-,5,8,11,-,5,8,11,-,180,RAVE,R5,tigerYAMATO with ultrabeatbox,3rd Style
+-,4,5,7,-,4,5,7,-,145,TRANCE,REINCARNATION,dj TAKA,3rd Style
+-,4,6,8,-,4,11,11,-,125,BIG BEAT,Schlagwerk,TaQ,3rd Style
+-,4,6,7,-,4,7,-,-,135,EPIC HOUSE,Skyscraper,good-cool,3rd Style
+-,2,3,-,-,2,3,-,-,84,AMBIENT,Tangerine Stream,dj TAKA,3rd Style
+2,7,10,-,-,8,10,-,-,150,WORLD HOUSE,THE SAFARI,Lion Musashi,3rd Style
+-,6,8,10,"[HCN]11",6,8,11,"[HCN]11",60-144,EPIC TRANCE,ABSOLUTE,dj TAKA,4th Style
+-,5,9,10,-,6,8,-,-,155,SPEED RAVE,B4U,NAOKI,4th Style
+-,5,7,9,-,4,7,10,-,160,HYPER EUROBEAT,Broken My Heart,NAOKI feat.PAULA TERRY,4th Style
+-,4,4,7,-,4,4,8,-,155,EURO GROOVE,Burnin' The Floor,NAOKI,4th Style
+-,7,9,11,-,7,11,11,-,108-216,HIP HOP,CHECKING YOU OUT,good-cool feat. JP Miles,4th Style
+-,4,5,9,"[HCN]11",3,4,9,"[HCN]11",148,DUTCH TRANCE,Clione,kors k,4th Style
+-,6,9,10,-,6,12,12,-,148,TECHNO,DXY!,TaQ,4th Style
+-,5,7,8,-,4,11,-,-,※,DRUM'N'BASS,empathy,TaQ,4th Style
+-,5,8,9,-,4,8,12,-,90-180,DRUM'N'BASS,era (step mix),TaQ,4th Style
+-,2,5,-,-,5,7,-,-,70-93,AMBIENT,FLOWERS for ALBION,dj TAKA,4th Style
+-,3,4,6,-,4,6,7,-,132,DANCE POP,HIGHER,NM feat. Sunny,4th Style
+-,4,6,7,9,5,9,9,10,137,WARP HOUSE,Hitch Hiker2,good-cool,4th Style
+-,6,7,8,-,4,6,-,-,145,WARP HOUSE,Jam&Marmalade,FinalOffset,4th Style
+-,5,6,10,-,5,7,10,-,130,TECHNO,KAMIKAZE,dj nagureo,4th Style
+-,4,4,7,-,4,6,8,-,144,TRANCE,LOVE WILL・・・,riewo,4th Style
+-,3,8,9,-,3,9,12,-,141,MINIMAL,minimalian,DETROIAN,4th Style
+-,4,5,10,-,4,5,10,-,128,DANCE POP,Mr.T.(take me higher),Risky Men feat.Asuka-M,4th Style
+2,5,8,9,-,5,8,12,-,182,HAPPY HARDCORE,starmine,Ryu☆,4th Style
+-,3,6,10,-,6,10,12,-,120,LOUNGE HOUSE,SWEET LAB,DJ SIMON,4th Style
+-,5,7,8,-,5,11,-,-,30-125,BIG BEAT,Voltage (feat. Hidemaru),TaQ,4th Style
+-,5,8,10,-,4,7,9,-,250,GABBA,250bpm,AKIRA YAMAOKA,4th Style
+-,5,7,8,-,7,8,9,-,142,INTELLIGENCE,Abyss,dj TAKA,5th Style
+-,5,6,7,-,5,8,10,-,142,TRANCE,in my eyes,ric,5th Style
+-,4,5,6,-,4,5,-,-,150,HYPER EUROBEAT,LOVE AGAIN TONIGHT～for Mellisa mix～,NAOKI feat.PAULA TERRY,5th Style
+-,5,6,8,-,5,7,10,-,149,TECHNO,outer wall,sampling masters MEGA,5th Style
+-,5,8,10,-,10,12,-,-,155,TECHNO,QQQ,TaQ,5th Style
+-,5,6,7,-,6,11,10,-,114,BIG BEAT,Radical Faith,TaQ,5th Style
+-,5,8,9,-,7,9,11,-,200,DRUM'N'BASS,Real,Aya,5th Style
+-,6,9,10,-,6,10,11,-,120-128,INSTRUMENTAL,Regulus,DJ.W,5th Style
+-,4,5,8,"[HCN]10",5,8,9,"[HCN]10",180,POWER FUSION,RIDE ON THE LIGHT (HI GREAT MIX),Mr.T,5th Style
+-,4,7,-,-,4,6,-,-,130,NEW ROMANTIC,RISLIM,ric,5th Style
+-,4,6,8,-,5,8,"[CN]8",-,150,SOUND TRACK,sometime,Aya,5th Style
+-,5,7,8,-,7,10,-,-,130,HOUSE,Spin the disc,good-cool,5th Style
+-,5,7,9,-,4,6,11,-,150,HYPER EUROBEAT,STILL IN MY HEART,NAOKI,5th Style
+-,4,6,-,-,5,7,-,-,136,AMBIENT,still my words,TaQ feat. Meg,5th Style
+-,6,8,10,-,7,9,11,-,167,TRANCE,sync,OutPhase (TaQ/dj TAKA),5th Style
+-,4,6,7,-,4,6,11,-,178,DRUM'N'BASS,THE CUBE,DJ SUWAMI,5th Style
+-,5,7,8,-,6,8,-,-,147,EPIC TRANCE,THE SHINING POLARIS,L.E.D. feat. Sana,5th Style
+2,5,10,12,-,6,10,11,-,150,PROGRESSIVE,V,TAKA,5th Style
+-,4,5,7,-,5,8,-,-,65,BALLAD,BALLAD FOR YOU～想いの雨～,NM feat.Thomas Howard,6th Style
+-,5,7,8,-,7,9,10,-,138,HOUSE,Blueberry Stream,dj TAKA,6th Style
+-,5,7,10,11,4,8,10,11,108,ROCK,Buffalo,good-cool feat. Hideo Suwa,6th Style
+-,6,9,12,-,6,10,12,-,150,TRANCE,Colors (radio edit),dj TAKA,6th Style
+-,5,8,10,-,5,8,10,-,155,HYPER TRANCE EURO BEAT,DIVE ～INTO YOUR HEART～,NAOKI feat.PAULA TERRY,6th Style
+-,4,7,8,-,4,8,10,-,140,TRANCE,fly through the night,Mr.T,6th Style
+-,5,6,7,-,6,6,-,-,132,DANCE POP,Free Style,Shapes,6th Style
+-,6,9,9,-,5,9,9,-,156,TRANCE,Frozen Ray (original mix),dj TAKA,6th Style
+-,8,9,11,-,6,7,12,-,170,DRUM'N'BASS,G2,Aya,6th Style
+-,5,9,11,-,5,9,11,-,160-176,LOUNGE POP,Linus,LEGO STUDIO,6th Style
+-,5,9,11,-,7,10,12,-,164,TECHNO,NEMESIS,D.J.SETUP,6th Style
+-,5,8,10,-,5,8,-,-,200,ROTTERDAM TECHNO,rottel-da-sun,sampling masters MEGA,6th Style
+-,6,8,9,-,7,11,12,-,122,NOISY,route 80s,sampling masters MEGA,6th Style
+-,6,8,"[CN]10",-,4,8,"[CN]11",-,150,EPIC TRANCE,SOMETHING WONDERFUL,L.E.D.,6th Style
+-,6,9,-,-,9,12,-,-,135,TRIP HOP,Summer Vacation(CU mix),OutPhase,6th Style
+-,7,10,11,-,6,11,-,-,205,INSTRUMENTAL,Take It Easy,Aya,6th Style
+-,6,9,10,-,6,8,10,-,135-160,ALL MIX,VJ ARMY,good-cool,6th Style
+-,5,6,8,-,5,7,10,-,125,HOUSE,19，November,good-cool,6th Style
+-,5,6,7,-,6,9,11,-,128,SOUL,こっちを向いてよ,vivi,6th Style
+-,6,10,12,-,8,11,12,-,93-191,RENAISSANCE,A,D.J.Amuro,7th Style
+-,6,8,9,-,8,10,-,-,125,ALTERNATIVE HOUSE,AVE DE RAPINA,Shawn The Horny Master,7th Style
+-,5,7,9,-,6,7,9,-,130,FILTER HOUSE,Bad Routine,D.J. Spugna,7th Style
+-,4,5,7,-,4,5,9,-,166,12 BEAT,Burning Heat! (Full Option Mix),Mr.T with Motoaki.F,7th Style
+-,5,6,9,-,4,6,12,-,120,BIG BEAT,Cheer Train,Fuzita Blender,7th Style
+-,5,6,8,-,5,6,-,-,160,HYPER ROCK BEAT,D2R,NAOKI,7th Style
+-,5,6,8,-,4,6,-,-,155,HYPER EUROBEAT,DESTINY,NAOKI feat.Paula Terry,7th Style
+-,4,8,8,-,5,9,11,-,140,PROGRESSIVE JAZZ,foreplay,Osamu Kubota,7th Style
+-,3,5,6,-,6,7,-,-,40-83,HIP HOP&SOUL,Glorious Days,Noria,7th Style
+-,6,7,8,-,6,8,10,-,126,HOUSE,Happy Wedding,ASKA,7th Style
+-,5,8,9,-,6,10,11,-,155,EUROBEAT,Last Message,good-cool feat. Meg,7th Style
+-,4,6,7,-,6,7,-,-,130,AMBIENT POP,Let the Snow Paint Me,Sana,7th Style
+-,5,7,9,-,5,7,-,-,167,NEW WAVE,Love Me Do,AKIRA YAMAOKA,7th Style
+-,4,7,9,-,4,7,9,-,125,POPS,Somebody Like You,good-cool,7th Style
+-,4,9,11,-,3,9,12,-,128,HOUSE,Spica,D.JW,7th Style
+-,8,10,11,-,8,10,12,-,155,TECHNO,stoic,TaQ,7th Style
+-,6,9,9,-,6,10,11,-,144,TRANCE,Tomorrow Perfume,dj TAKA,7th Style
+-,6,9,10,-,7,9,10,-,152,TRANCE,traces,TaQ,7th Style
+-,5,9,10,-,5,8,10,-,160,ELECTROSHOCK,ZERO-ONE,Mr.T,7th Style
+-,6,10,10,-,7,12,12,-,83-148,ORCHESTRAL,革命,dj TAKA with NAOKI,7th Style
+-,6,9,9,-,7,9,-,-,125,BIG BEAT,abstract,TaQ,8th Style
+-,3,5,7,-,3,6,7,-,40-148,INSTRUMENTAL,airflow,Mr.T,8th Style
+-,4,8,9,-,7,8,10,-,180,DRUM'N'BASS,ALL RIGHT,RAM,8th Style
+-,5,8,9,-,5,7,9,-,145,TRANCE,Attitude,Y&Co.,8th Style
+-,4,5,8,-,5,6,-,-,148,テクノ歌謡,bit mania,AKIRA YAMAOKA,8th Style
+-,6,7,11,-,6,7,10,-,155,EUROBEAT,Blame,good-cool feat. Jeff Coote,8th Style
+-,5,6,8,-,5,7,8,-,144,EURO GROOVE,CELEBRATE NITE,N.M.R,8th Style
+-,5,9,10,-,6,10,10,-,155,EUROBEAT,Colors -Y&Co. Eurobeat Remix-,dj TAKA (remixed by 横田商会),8th Style
+-,5,7,9,-,4,8,9,-,131-140,GARAGE HOUSE,dual control,Mr.T,8th Style
+-,4,9,11,-,5,10,11,-,155,PSYCHEDELIC TECHNO,Giudecca,D.J.SETUP,8th Style
+-,4,8,11,-,5,8,10,-,140,GIRL ROCK,Halfway of promise,Yu Takami feat. Shihori Nakane,8th Style
+-,6,8,9,-,6,8,10,-,152,GOA TRANCE,HYPER BOUNDARY GATE,L.E.D.LIGHT,8th Style
+-,5,9,10,-,5,10,11,-,180,RAVE,LAB,RAM,8th Style
+-,4,6,8,10,4,5,9,11,180,HARD CHANSON,LOVE IS ORANGE,Orange Lounge,8th Style
+-,4,6,9,-,6,9,10,-,134,2 STEP,Luv 2 Feel Your Body,Shoichiro Hirata,8th Style
+-,5,9,9,-,5,10,11,-,188,BEAT ROCK,memories,TAKA,8th Style
+-,4,7,9,-,5,6,9,-,155,EUROBEAT,Monkey Dance,Y&Co.,8th Style
+-,5,9,11,-,5,10,12,-,174,CUDDLECORE,murmur twins,yu_tokiwa.djw,8th Style
+-,4,7,9,-,8,8,9,-,144,TECHNO,MUSIC TO YOUR HEAD,SLAKE,8th Style
+-,5,7,12,-,4,9,10,-,135,DISCO,PLEASE DON'T GO,ASLETICS,8th Style
+-,5,9,11,-,4,10,11,-,148,TRANCE,rainbow flyer,dj TAKA,8th Style
+-,6,9,10,-,8,10,-,-,155,TECHNO,symbolic,TaQ,8th Style
+-,6,8,9,-,5,9,11,-,135,HOUSE,thunder,Lion MUSASHI,8th Style
+-,4,8,10,-,4,7,10,-,93,HIP HOP,WAR GAME,ASLETICS,8th Style
+-,3,5,5,-,4,5,-,-,122,POPS,World Wide Love,MTO,8th Style
+-,5,9,11,-,5,8,11,-,158,ELECTROSHOCK,xenon,Mr.T,8th Style
+-,5,7,8,-,5,6,9,-,145,J-TRANCE,蒼い衝動,NAOKI feat.YUKI,8th Style
+-,7,10,12,-,8,10,12,-,13-320,SPIRITUAL,桜,Reven-G,8th Style
+3,7,10,10,-,6,9,10,-,171,TRANCE CORE,Abyss -The Heavens Remix-,dj TAKA Remixed by Ryu☆,9th Style
+-,6,9,9,-,6,9,10,-,180,RAVE,ACT,RAM,9th Style,9th Style
+-,2,5,"[HCN]9",-,2,6,"[HCN]9",-,130,ENSEMBLE,ATOMIC AGE,SHUNZZY,9th Style
+-,5,7,8,-,4,7,-,-,148,NRG,BAD BOY BASS!! (dj Remo-con MIX),Y&Co.,9th Style
+-,5,6,10,-,6,9,10,-,130,SPIRITUAL,bag,Reven-G,9th Style
+-,4,8,9,-,3,8,10,-,150,ROCOCO TEK,BRIGHTNESS DARKNESS,SPARKER,9th Style
+-,5,8,10,-,6,10,-,-,160-188,HEALIN' HARDCORE,Cradle,positive MA feat.akino,9th Style
+-,7,10,-,-,9,11,-,-,125,MIXTURE,Distress,dj TAKA Remixed by TaQ,9th Style
+-,6,8,10,-,8,10,-,-,145,TRANCE,e-motion 2003 -romantic extra-,e.o.s. Remixed by dj TAKA,9th Style
+-,4,7,10,-,4,7,10,-,100-200,FUNK SHUFFLE,fun,Mr.T,9th Style
+-,4,8,9,-,3,8,11,-,160,TURKISH PIANO'N'BASS,Golden Horn,Osamu Kubota,9th Style
+-,5,8,10,-,6,8,-,-,152,EUROBEAT,HYPER EUROBEAT (2DX style),NAOKI feat.PAULA TERRY,9th Style
+-,4,6,7,-,4,6,8,-,142,EUROBEAT,I Was The One (80's EUROBEAT STYLE),good-cool Remixed by NAOKI,9th Style
+-,6,9,10,-,8,11,12,-,※,DRUM'N'BASS,Karma,TaQ,9th Style
+-,3,6,8,-,7,9,10,-,142,SOUL,lights,flare,9th Style
+3,5,9,10,-,4,7,9,-,177,J-HAPPY HARDCORE,LOVE♡SHINE,小坂りゆ,9th Style
+-,6,9,10,-,7,10,12,-,155,TECHNO,lower world,D.J.SETUP,9th Style
+-,5,9,10,-,5,9,10,-,130,GOSPEL,Make A Difference,Lala Moore with CoCoRo*Co,9th Style
+-,4,8,9,-,4,8,9,-,158,EUROBEAT,MARIA (I believe... ),NAOKI feat.PAULA TERRY,9th Style
+-,5,10,12,-,4,11,12,-,130-160,POST ROCK,moon_child,少年ラジオ,9th Style
+-,7,10,12,-,7,8,10,12,155,HARDCORE RAVE,one or eight,sampling masters AYA,9th Style
+-,6,9,11,-,7,11,12,-,155,TRANCE,quasar,OutPhase,9th Style
+-,5,9,10,-,5,7,10,-,150,PSYCHEDELIC,Quickening,dj TAKA,9th Style
+-,4,6,10,-,4,10,-,-,100,R&B,Really Love,大部真由美,9th Style
+-,4,6,11,-,6,9,12,-,132,ELECTRO 2 STEP,RISLIM -Remix-,ric Remixed by Hisashi Nawata,9th Style
+-,6,9,10,-,6,9,11,-,200,GABBA,rottel-the-Mercury,sampling masters MEGA,9th Style
+-,4,8,9,-,7,10,11,-,129,HAPPY HANDBAG,Silvia Drive,dj TAKA feat.Noria,9th Style
+-,5,7,10,-,5,8,10,-,180,DRUM'N'BASS,SNOW,RAM,9th Style
+-,4,8,9,-,5,8,-,-,140,TRANCE,STAR FIELD,SADA,9th Style
+-,5,8,10,-,5,9,11,-,180,HAPPY HARDCORE,Sweet Sweet♥Magic,jun,9th Style
+-,4,7,11,-,6,7,11,-,114,HIPHOP,SWEETEST SAVAGE,ASLETICS,9th Style
+-,4,5,7,-,3,6,-,-,146,ボデー,ライオン好き,AKIRA YAMAOKA,9th Style
+-,4,6,"[CN]9",-,5,8,"[CN]10",-,130,HOUSE,真夏の花・真夏の夢,Sana,9th Style
+-,5,7,8,-,5,8,10,-,145,PSYCHEDELIC TRANCE,ALIEN TEMPLE,PINK PONG,10th Style
+-,5,6,9,-,5,9,10,-,136,DREAM TECHNO,ASTRAL VOYAGE,EeL,10th Style
+-,6,7,10,-,6,7,11,-,160,ITALO POP,BABY LOVE,Noria,10th Style
+-,6,7,10,-,6,9,10,-,144,2STEP POP TRANCE,Back Into The Light,Sota Fujimori,10th Style
+-,4,9,9,-,5,9,9,-,160,ROCOCO TEK,Boundary,SPARKER,10th Style
+-,5,7,9,-,5,8,10,-,158,EUROBEAT,CARRY ON NIGHT (English version),platoniX (EURO style),10th Style
+2,6,8,10,-,5,8,11,-,157,EUROBEAT,Daisuke,Y&Co.,10th Style
+-,5,9,11,-,5,8,11,-,155,ETHNO HARDCORE,Debtty Daddy,sampling masters AYA,10th Style
+-,2,4,5,-,3,4,-,-,72,PIANO BALLADE,desolation,Mr.T,10th Style
+2,5,6,7,-,6,7,9,-,170,HYPER J-POP FOUR,DoLL,TЁЯRA,10th Style
+-,4,8,10,-,4,8,-,-,158,ELECTROSHOCK,EXE,Mr.T,10th Style
+-,5,8,10,-,5,10,10,-,140,BREAK BEATS,Feedback,Audio Highs,10th Style
+-,5,9,10,-,5,9,10,-,180,DRUM'N'BASS,FEEL IT,RAM,10th Style
+-,4,6,9,-,4,8,10,-,135,NATURAL SOUND,Freezing atmosphere,Twin AmadeuS,10th Style
+-,5,9,10,-,4,9,12,-,148,GOA TRANCE,GHOST REVIVAL,L.E.D.,10th Style
+-,4,8,10,-,3,7,11,-,160-220,GAME MUSIC,GRADIUS -FULL SPEED-,Mr.T,10th Style
+-,5,9,9,-,6,9,10,-,180,RAVE,HIGH,RAM,10th Style
+-,8,12,12,-,8,10,12,-,155,TECHNO,Innocent Walls,TaQ,10th Style
+-,6,9,11,-,6,10,12,-,140,TRANCE,Love Is Eternity,kors k,10th Style
+-,4,9,11,-,4,10,-,-,156,DANCE POP,Lucy,ELE BLOCK,10th Style
+-,4,10,10,-,4,10,11,-,170,ARTCORE,Narcissus At Oasis,Ryu☆,10th Style
+-,8,10,11,-,6,10,12,-,172,PROGRESSIVE BAROQUE,No.13,TAKA respect for J.S.B.,10th Style
+-,5,9,12,-,4,10,12,-,200,HAPPY,One More Lovely,Risk Junk,10th Style
+-,5,8,9,-,7,9,11,-,148,TRANCE,pandora,dj TAKA feat.Tomomi,10th Style
+-,7,10,11,-,7,9,11,-,177,HAPPY HARDCORE,rainbow rainbow,Ryu☆,10th Style
+-,6,9,10,-,6,10,11,-,144,TRANCE,Rise'n Beauty,Sota feat. Cyborg Akemi,10th Style
+-,5,8,10,-,5,8,10,-,140,TECH HOUSE,SCORE,DJ Remo-con,10th Style
+-,7,8,9,-,6,9,11,-,140,J-POP,SHOOTING STAR,小坂りゆ,10th Style
+-,3,8,11,-,6,8,11,-,139,戦艦テクノ,SPACE FIGHT,AKIRA YAMAOKA,10th Style
+-,5,10,11,-,7,10,12,-,175-200,お江戸テクノ,1st Samurai,sampling masters MEGA,10th Style
+-,6,10,12,-,8,10,12,-,151,HARD HOUSE,雪月花,Ryu☆,10th Style
+-,4,7,8,-,4,7,-,-,148,ムートラ（ムードトランス）,システムロマンス,ヒロシ＆チー子,10th Style
+-,5,10,12,-,5,9,12,-,154,RENAISSANCE,AA,D.J.Amuro,IIDX RED
+3,5,8,9,"[CN]11",5,7,8,"[CN]11",180,HAPPY HARDCORE,AGEHA,Ryu☆,IIDX RED
+-,5,8,11,-,4,9,11,-,150,PSYCHEDELIC GOA TRANCE,ANDROMEDA,Sota Fujimori,IIDX RED
+-,5,7,10,-,5,7,9,-,143,TRANCE,awakening,AKIRA YAMAOKA,IIDX RED
+-,5,9,11,"[BSS]12",6,8,11,"[BSS]12",150,HARD DANCE,Be quiet,Ryu☆,IIDX RED
+-,5,7,11,-,4,7,12,-,141,TRANCE,BLOCKS,SPARKER,IIDX RED
+-,6,7,10,-,5,8,10,-,160,ROCOCO TEK,BREATH,SPARKER,IIDX RED
+-,5,6,11,-,4,6,10,-,137,CLICK HOUSE,Click Again,dj REMO-CON,IIDX RED
+-,5,8,9,-,5,8,11,-,132-145,AMERICA,Close my Eyes for Me,D-crew feat.DENNIS GUNN (DJ Yoshitaka SCRATCHING),IIDX RED
+-,3,5,10,-,3,5,8,-,116,J-POP,D.A.N.C.E.!,DJ Yoshitaka feat.星野奏子,IIDX RED
+-,5,9,10,-,6,9,10,-,165,J-POP,Don't be afraid myself,platoniX with ray.D,IIDX RED
+-,2,5,7,-,2,6,-,-,45-94,PIANO BALLAD,earth scape,dj TAKA,IIDX RED
+-,5,11,12,-,7,12,12,-,200,HARD ROCK,FAKE TIME,dj REMO-CON,IIDX RED
+-,3,6,7,-,4,6,-,-,133,DANCE POP,Fly Away To India,Baby Weapon feat.KAJIL,IIDX RED
+-,6,10,11,-,6,12,12,-,175,DRUM'N'BASS,GENOCIDE,dj Killer,IIDX RED
+3,9,12,12,-,10,12,12,-,173,NUSTYLE GABBA,gigadelic,teranoid feat.MC Natsack,IIDX RED
+-,5,7,8,-,5,7,9,-,171,HAPPY HARDCORE,HORIZON,LIA,IIDX RED
+-,6,8,11,-,5,8,11,-,212,BEAT ROCK,KEY,colors,IIDX RED
+-,6,9,10,-,7,9,11,-,※,PSYCHEDELIC TRANCE,NEBULA GRASPER,L.E.D.,IIDX RED
+-,5,8,9,-,6,8,10,-,160,COLORFUL HARDCORE,Raspberry♥Heart(English version),jun feat. PAULA TERRY,IIDX RED
+1,5,9,11,"[BSS]12",5,9,11,"[BSS]12",165,SPEED RAVE,RED ZONE,Tatsh&NAOKI,IIDX RED
+-,5,10,11,-,4,11,-,-,160,HARD SONATA,RESONATE 1794,KOHTA,IIDX RED
+-,5,7,11,-,5,9,-,-,162,DRUM'N'BASS,Secret of Love,D.J.SWAN,IIDX RED
+-,5,8,9,-,5,9,10,-,155,EUROBEAT,SPEEDY CAT,Y&Co.,IIDX RED
+-,5,9,10,-,5,8,12,-,160,MEDIEVAL CHOIR,Sphere,Tatsh feat. K.Nayuki,IIDX RED
+-,5,9,11,12,5,9,10,12,154,PSYCHEDELIC TECHNO,spiral galaxy,D.J.SETUP,IIDX RED
+-,5,8,10,-,6,9,10,-,144,CYBORG TRANCE,The Hope of Tomorrow,Sota Fujimori,IIDX RED
+-,5,7,9,-,4,7,-,-,180,HYPER J-POP FIVE,ULTiM∧TE,TЁЯRA,IIDX RED
+-,5,7,11,-,5,8,10,-,126,NATURAL SOUND,Wonder Bullfighter,Twin AmadeuS,IIDX RED
+-,3,6,9,-,3,6,-,-,84-168,JAPAN,大桟橋,ウッチーズ,IIDX RED
+-,5,11,12,-,5,10,12,-,165-188,DIRGE,ピアノ協奏曲第1番"蠍火",virkato,IIDX RED
+-,4,8,9,-,4,8,-,-,155,CYBER J-EURO,太陽～T・A・I・Y・O～,NAOKI feat.星野奏子,IIDX RED
+-,5,9,10,-,5,8,11,-,70-168,GOTHIC METAL,Agnus Dei,あさき,HAPPY SKY
+-,5,8,10,-,4,8,10,-,140,NATURAL SOUND,alla turca con passione,Twin AmadeuS,HAPPY SKY
+-,7,10,11,-,7,10,11,-,181,TRANCE CORE,Aurora,Ryu☆,HAPPY SKY
+-,5,9,11,-,5,9,11,-,160,NOSTALISH REQUIEM,CaptivAte～浄化～,A/I,HAPPY SKY
+-,5,8,10,-,4,9,10,-,115,ACID JAZZ,Catch Me,DJ Yoshitaka feat. ERi,HAPPY SKY
+-,4,8,9,-,4,7,10,-,160,J-POP REMIX,Don't let it go,ウッチーズ,HAPPY SKY
+-,6,10,10,-,5,10,-,-,166,BATTLE2005,double thrash,414,HAPPY SKY
+-,6,9,10,-,7,8,10,-,200,HYPER J-POP SIX,EDEN,TЁЯRA,HAPPY SKY
+-,3,5,8,-,3,5,8,-,182,E-ROCK,EMPTY OF THE SKY,AKIRA YAMAOKA,HAPPY SKY
+-,5,7,9,-,5,8,10,-,150,TECHNO RAVE,First Resolution,good-cool,HAPPY SKY
+-,4,7,10,-,4,7,12,-,220,SWING WALTZ,garden,青野りえ,HAPPY SKY
+-,5,8,10,-,5,8,-,-,145,RAVE,Get'em up to R.A.V.E,Disconation,HAPPY SKY
+-,6,8,10,-,6,9,11,-,170,BROKEN TEK,GREEN EYES,SLAKE,HAPPY SKY
+3,5,7,10,-,6,7,10,-,180,HAPPY HARDCORE,HAPPY☆ANGEL,jun with TAHIRIH,HAPPY SKY
+-,5,8,10,-,5,8,-,-,190,CYBER J-ROCK,I am,有沢みはる from BeForU,HAPPY SKY
+-,5,6,7,-,5,6,8,-,138,CLICK HOUSE,in motion,Ryu☆,HAPPY SKY
+-,5,9,11,-,6,9,12,-,148,TRANCE,INAZUMA,dj TAKA,HAPPY SKY
+-,5,8,9,-,5,7,11,-,152,HAPPY EXTREME,LESSON 5,Risk Junk feat.Erika Mochizuki,HAPPY SKY
+-,5,10,11,12,5,10,11,12,※,PUNK OPERA,Little Little Princess,SHRINE 418,HAPPY SKY
+-,5,8,10,-,4,8,-,-,170,DRUM'N'BASS,Love Magic,D.J.SWAN,HAPPY SKY
+-,5,7,9,-,6,8,9,-,98-147,UK PROGRESSIVE,mind the gap,Osamu Kubota,HAPPY SKY
+-,5,7,9,-,5,10,-,-,147,FUTURE HOUSE,MOON RACE,ELEKTEL,HAPPY SKY
+-,3,5,"[CN]8",-,3,5,"[CN]8",-,116-146,HEART,Pink Rose,Kiyommy＋Seiya,HAPPY SKY
+-,4,8,9,-,5,8,-,-,148,SYNTHESIZED TECHNO,PLASMA,Sota Fujimori,HAPPY SKY
+-,4,6,11,-,4,8,9,-,145,HARD DANCE,Pollinosis,dj REMO-CON,HAPPY SKY
+-,5,8,10,"[CN]11",5,8,11,"[CN]12",160,EUROBEAT,POODLE,Y&Co.,HAPPY SKY
+-,7,10,12,-,6,10,11,12,152,DIGI-ROCK,rage against usual,dj TAKA feat.Gt.Shintaro,HAPPY SKY
+-,7,10,12,-,6,10,12,-,220,BREAKCORE,SCREAM SQUAD,CALF,HAPPY SKY
+-,7,10,12,12,8,10,11,12,151,TECHNO,Scripted Connection⇒ A mix,DJ MURASAME,HAPPY SKY
+-,7,10,11,-,8,10,11,-,151,TECHNO,Scripted Connection⇒ H mix,DJ MURASAME,HAPPY SKY
+-,6,8,10,-,6,9,10,-,151,TECHNO,Scripted Connection⇒ N mix,DJ MURASAME,HAPPY SKY
+3,5,7,10,-,5,7,11,-,179,MAKINA,SigSig,kors k,HAPPY SKY
+-,5,9,10,-,5,10,-,-,265,MPB,Tizona d'El Cid,TOMOSUKE,HAPPY SKY
+-,6,7,10,12,6,9,9,12,160,HAPPY EURO PARADISE,Twelfth Style,Tatsh&DAYBREAKERS NEXT,HAPPY SKY
+-,5,7,9,-,4,7,9,-,170,J-EUROTRANCE,Under the Sky,南さやか(BeForU) with platoniX,HAPPY SKY
+-,4,8,10,-,4,7,9,-,160,ELECTROSHOCK,vault of heaven,Mr.T,HAPPY SKY
+-,4,9,10,-,4,11,-,-,136-147,ANTHEM TRANCE,Votum stellarum,iconoclasm,HAPPY SKY
+-,3,5,9,-,3,5,9,-,129,DISCO,We are Disっ娘よっつ打ち命,DANCE☆MAN feat. Disっ娘,HAPPY SKY
+3,5,10,11,-,5,10,11,-,170,MEDIEVAL CHOIR,Xepher,Tatsh,HAPPY SKY
+-,5,10,11,-,4,10,11,-,252,SYNTHETIC PROGRESSIVE ROCK,100% minimoo-G,Sota Fujimori,HAPPY SKY
+-,5,8,10,-,4,9,10,-,155,J-EUROBEAT,月光,Tatsh feat. 星野奏子,HAPPY SKY
+-,3,9,10,-,4,8,9,-,185,J-HAPPY HARDCORE,ヒマワリ,小坂りゆ,HAPPY SKY
+3,5,10,12,-,5,11,12,-,66-200,HUMAN SEQUENCER,冥,Amuro vs Killer,HAPPY SKY
+-,7,8,10,-,5,7,9,-,123,FUNK,オレはビートマニア！お前は何マニア？,DANCE☆MAN,HAPPY SKY
+-,4,6,11,-,4,9,11,-,99-198,REGGAE,ラクエン,Chonan Chiharu,HAPPY SKY
+-,5,8,11,-,5,9,11,-,155,HARD DANCE,合体せよ！ストロングイェーガー！！ (Ryu☆ remix),L.E.D. / Remixed by Ryu☆,HAPPY SKY
+2,5,7,10,-,6,9,10,-,170,HYPER J-POP SEVEN,ALFARSHEAR 双神威に廻る夢,TЁЯRA,DistorteD
+1,5,9,10,-,5,8,11,-,170,ORATORIO,Apocalypse ～dirge of swans～,Zektbach,DistorteD
+-,4,6,8,-,5,8,-,-,132,CELTIC REEL,BALLAD THE FEATHERS,S.S.D.FANTASICA feat.Naomi Koizumi,DistorteD
+-,5,9,10,-,5,10,11,-,170,HARD RENAISSANCE,Bloody Tears(IIDX EDITION),DJ YOSHITAKA,DistorteD
+-,5,8,10,-,5,9,10,-,155,EUROBEAT,BOOM BOOM DISCO NIGHT,Y&Co.,DistorteD
+-,5,8,11,-,4,10,11,-,140,TRANCE,Broadbanded,SADA,DistorteD
+2,5,10,12,-,5,10,12,-,103-155,PROGRESSIVE,Concertino in Blue,佐々木博史,DistorteD
+-,9,10,11,12,7,10,12,12,180,SUBLIME TECHNO,CONTRACT,朱雀,DistorteD
+-,5,9,11,-,5,8,11,-,155,TECHNO,D.C.fish,DJ MURASAME,DistorteD
+-,5,7,11,-,5,7,11,-,165,SUPER RAVE BEAT,DEEP ROAR,NAOKI&Tatsh,DistorteD
+-,3,6,9,-,4,7,10,-,138,J-POP,Double♥♥Loving Heart,Tatsh feat. Junko Hirata ＆ Sayaka Minami,DistorteD
+-,6,9,12,-,6,10,12,-,100-400,TECHNO,DUE TOMORROW,Mr.T,DistorteD
+-,5,8,10,-,5,8,11,-,161,80´s TECHNO,EURO-ROMANCE,K-MASERA,DistorteD
+-,6,10,11,12,8,11,12,12,72-82,ESOTERIC SLOWCORE,Ganymede,玄武,DistorteD
+-,4,8,11,-,5,9,11,-,135,PROGRESSIVE HOUSE,Harmony and Lovely,Ryu☆,DistorteD
+-,4,7,10,-,4,8,10,-,130,TRANCE,Heavenly Sun (IIDX VERSION),AKIRA YAMAOKA,DistorteD
+-,5,7,9,-,5,7,10,-,135,BRAZILIAN HOUSE,INFERNO,Caldeira feat.星野奏子,DistorteD
+-,4,8,10,-,4,7,10,-,145,SYMPHONIC EURO,Leaving...,"SEIYA MURAI meets "eimy",DistorteD
+-,6,10,11,-,5,10,12,-,150,ELECTRONICA,MINT,SLAKE,DistorteD
+-,5,9,10,-,5,10,-,-,156,哀愁ユーロ,MOON,dj TAKA feat.Erika Mochizuki,DistorteD
+-,5,7,10,-,4,8,10,-,135,2 STEP,Power of Love,kors k feat.PSY,DistorteD
+-,5,8,10,-,5,9,11,-,149,BUCHIAGE TRANCE,So Fabulous !!,HHH (Ryu☆ & Dai),DistorteD
+-,3,8,11,-,5,9,11,-,152,HAPPY POP,Sun Field,mh sequence,DistorteD
+-,7,10,11,-,7,10,10,-,165,SADISTIC HARDCORE,The Dirty of Loudness,Tatsh Assault X,DistorteD
+-,4,8,10,-,5,8,-,-,175,CORE POP,This is Love,D-crew feat.MAKOTO,DistorteD
+-,6,10,11,-,7,10,12,-,187,GABBA,tripping contact(teranoid&MC Natsack Remix),kors k vs teranoid,DistorteD
+-,5,9,11,-,6,10,-,-,159,PSYCHEDELIC TRANCE,TYPE MARS(G-Style Mix),L.E.D.,DistorteD
+-,7,10,11,12,7,10,11,12,191,DANCE SPEED,waxing and wanding,青龍,DistorteD
+3,5,8,10,-,5,9,11,-,160,LOVERS EUROBEAT,Why did you go away,jun with TAHIRIH,DistorteD
+-,5,8,9,-,5,8,9,-,155,EUROBEAT,WISH(EUROBEAT MIX),DJ YOSHITAKA feat.杉村ことみ,DistorteD
+-,4,6,9,-,4,7,11,-,135,FUNK´N JAZZ HOUSE,with you…,Sota Fujimori,DistorteD
+-,5,7,10,-,5,8,11,-,160,CYBER OPUS,Zenius -I- vanisher,Tatsh,DistorteD
+-,6,10,11,-,7,10,12,-,199,ASIAN MIXTURE,華蝶風雪,白虎,DistorteD
+-,6,9,12,-,6,9,12,-,140,和式電子音楽,カゴノトリ～弐式～,橙色特別室,DistorteD
+-,8,11,12,-,7,11,12,-,160,CONTEMPORARY,嘆きの樹,金獅子,DistorteD
+-,5,8,9,-,5,7,8,-,160,LOVELY TRANS POP,虹色,DJ YOSHITAKA feat. G.S.C license,DistorteD
+-,5,7,9,-,5,7,10,-,180,POPROCK,タシカナモノ,星野奏子 with the BAND,DistorteD
+-,3,8,10,-,4,7,-,-,180,DRUM´N´ROCK,罠,good-cool,DistorteD
+-,5,6,8,-,5,7,8,-,171,FLOW POP,Air Bell,D-crew,GOLD
+-,5,9,10,-,5,10,-,-,152,PSYCHEDELIC SYNTH TRANCE,ANDROMEDA II,Sota Fujimori,GOLD
+-,6,8,11,-,7,8,10,-,137-165,EPIC POETRY,Blind Justice ～Torn souls， Hurt Faiths～,Zektbach,GOLD
+-,7,10,12,-,6,8,12,12,184,HAPPY,Candy Galy,Risk Junk-G,GOLD
+-,6,9,10,-,6,9,11,-,160,NOSTALISH REQUIEM,CaptivAte～誓い～,A/I,GOLD
+3,6,8,9,-,5,9,11,-,180,NOSTALISH REQUIEM,CaptivAte～裁き～,DJ YOSHITAKA feat.A/I,GOLD
+-,5,8,10,-,6,8,10,-,170,DRAMATIC EURO TRANCE,CROSSROAD ～Left Story～,jun with TAHIRIH,GOLD
+-,5,9,10,-,6,8,8,-,146,CYBORG TRANCE,Cyber Force,Sota Fujimori feat.cyborg AKEMI,GOLD
+-,9,11,12,-,9,10,12,-,100-400,SuperNOVA BEAT,Fascination MAXX,100-200-400,GOLD
+3,7,10,12,-,7,9,11,-,150,BUCHIAGE TRANCE,FIRE FIRE,StripE,GOLD
+-,4,6,8,-,4,8,-,-,157,ROCK,four-leaf,Sis Bond Chit,GOLD
+3,7,9,11,-,6,8,10,-,162,RECKLESS RAVE,GOLD RUSH,DJ YOSHITAKA-G feat.Michael a la mode,GOLD
+-,6,8,10,12,7,8,10,12,160,ELECTRONICA,GRID KNIGHT,SAW WAVE SQUAD,GOLD
+-,5,7,9,-,5,7,9,-,132,FILTER HOUSE,heaven above,kors k,GOLD
+2,4,6,9,-,5,7,9,-,180,HIGH SPEED LOVE SONG,High School Love,DJ YOSHITAKA feat.DWP,GOLD
+-,6,10,11,-,6,9,12,-,146,MILLENNIUM TRANCE,INORI,dj TAKA feat.HAL,GOLD
+-,6,9,11,12,8,10,12,12,165,FREEFORM HARDCORE,KAMAITACHI,DJ TECHNORCH fw. GUHROOVY,GOLD
+-,7,11,12,-,7,11,12,-,152,NU-SKOOL BREAKS,LASER CRUSTER,L.E.D.,GOLD
+-,3,4,5,-,4,5,-,-,110,POPS,Love Again...,Tatsh feat. Junko Hirata,GOLD
+-,5,9,10,-,4,9,11,-,130,HOUSE,Make Me Your Own,good-cool ft. Raj Ramayya,GOLD
+-,4,8,9,-,5,7,-,-,150,OLDSKOOL HARDCORE RAVE,METALLIC MIND,DJ TECHNORCH fw. GUHROOVY,GOLD
+-,4,7,8,-,4,6,-,-,130,DANCE POP,never…,Kanako Hoshino with dj TAKA,GOLD
+-,4,9,10,-,6,11,12,-,100-350,PIANO CONCERTO,op.31 叙情,akiko,GOLD
+-,7,10,10,-,7,9,11,-,176,DRUM & BASS,PHOTONGENIC,L.E.D. fw.堀澤麻衣子,GOLD
+-,5,8,10,-,5,8,10,-,160,EUROBEAT,Roulette,Y&Co.,GOLD
+1,5,8,11,-,6,8,11,-,149,HANDZ UP,Second Heaven,Ryu☆,GOLD
+-,9,11,12,-,9,12,12,-,140,RAVE,Sense 2007,good-cool,GOLD
+-,7,9,11,-,7,9,12,-,189,ELE POP,smile,miru_maki.gjw,GOLD
+1,4,9,10,12,4,10,12,-,145,TRANCE,snow storm,dj TAKA,GOLD
+-,6,9,11,-,5,9,11,-,156,SCHRANZ,the shadow,kors k,GOLD
+-,4,7,8,-,4,6,7,-,136,POP,The Smile of You,猫叉Master feat.JESSY,GOLD
+-,5,10,11,"[CN]12",6,10,12,"[CN]12",130-190,PSG WORKS,TRANOID,T&S seq. factory,GOLD
+-,8,11,12,12,7,11,12,12,185,DECEPTIVE GABBA,VANESSA,朱雀,GOLD
+-,4,6,9,-,4,6,-,-,121,HIP HOP,Watch out!!,MAD Sequence*,GOLD
+-,4,6,8,-,4,7,8,-,135,J-HOUSE,With your Smile,Shoichiro Hirata plus Junko Hirata,GOLD
+-,4,7,9,-,4,9,10,-,140-155,HINDU SALSA,2hot2eat,Osamu Kubota,GOLD
+2,5,8,10,-,5,8,10,-,185,FUTURE POP,クルクル☆ラブ～Opioid Peptide MIX～,イオンチャンネル,GOLD
+3,7,10,12,-,7,10,12,-,165,NU-NRG,電人、暁に斃れる。,L.E.D.-G,GOLD
+-,4,6,8,-,5,7,8,-,150,JAPANESE ALTERATION,花吹雪 ～ IIDX LIMITED ～,S.S.D.FANTASICA feat.ユッコ,GOLD
+-,7,9,10,-,6,9,10,-,165,J-POP,星をこの手に,DJ YOSHITAKA feat.星野奏子,GOLD
+-,6,8,10,-,6,8,-,-,155,EURO TRANCE,リグレット,星野奏子,GOLD
+-,5,7,9,-,5,6,8,-,150,TECHNO,ヨシダさん,AKIRA YAMAOKA,GOLD
+1,6,8,9,-,6,8,10,-,180,HYPER J-POP ZERO,零 - ZERO -,TЁЯRA,GOLD
+-,6,10,11,12,6,10,12,12,185,HARD RENAISSANCE,Anisakis -somatic mutation type"Forza"-,朱雀,DJ TROOPERS
+-,4,7,10,-,5,9,10,-,130-146,CLASSICAL PIANO SOLO,avant-guerre,Osamu Kubota,DJ TROOPERS
+-,5,8,10,11,6,9,12,-,160,EUROBEAT,Be OK,good-cool ft. Florence,DJ TROOPERS
+-,5,8,9,-,5,7,10,-,165,TECH-TRONIKA,beatonic nation,Sota Fujimori,DJ TROOPERS
+2,6,8,11,12,6,7,10,12,144,TRANCE,Blue Rain,dj TAKA VS Ryu☆,DJ TROOPERS
+-,4,6,8,-,5,7,-,-,100,J-R&B,Darling my LUV,DJ Yoshitaka feat.B-Agents,DJ TROOPERS
+2,4,7,10,-,5,7,11,-,149,HANDZ UP,Dazzlin' Darlin,HHH,DJ TROOPERS
+-,6,9,11,-,5,8,10,-,128,TECH-BREAKBEATS,Digitank System,DJ Mass MAD Izm*,DJ TROOPERS
+-,8,10,11,-,5,10,12,-,300,N-BEATS,Do it!! Do it!!,Kraken,DJ TROOPERS
+-,6,9,10,-,5,10,11,-,162,FRENZY HOUSE,end of world,猫叉Master+,DJ TROOPERS
+-,4,10,12,-,5,10,12,-,138,HARD Pf,fffff,Five Hammer,DJ TROOPERS
+-,5,10,11,12,6,10,12,12,125-195,JUNGLE,four pieces of heaven,Lion,DJ TROOPERS
+2,4,7,10,-,5,8,9,-,145,TRANCE,Freeway Shuffle,dj TAKA,DJ TROOPERS
+-,7,10,12,12,7,10,12,12,126-251,NU-SKOOL BREAKBEATS HARDCORE,ICARUS,Eagle,DJ TROOPERS
+-,7,9,11,-,7,10,11,-,180,HAPPY HARDCORE,in the Sky,Ryu☆,DJ TROOPERS
+-,5,7,9,-,5,7,10,-,160,E-DANCE POP,Kick Out 仮面,"上野圭市(aka. Babyweapon,DJ SWAMI)feat.星野奏子",DJ TROOPERS
+-,6,9,10,-,7,10,11,-,178,HAPPY HARDCORE,LOVELY STORM,L.E.D.-G,DJ TROOPERS
+-,4,7,10,-,3,7,10,-,125,PROGRESSIVE HOUSE,madrugada,PINK PONG,DJ TROOPERS
+-,5,8,10,-,7,9,10,-,180,LOVELY BUCHIAGE POP,MAX LOVE,DJ YOSHITAKA feat.星野奏子,DJ TROOPERS
+-,6,11,12,-,6,10,12,-,168,IRREGULAR HI-BREAK,MENDES,Humanoid,DJ TROOPERS
+-,6,10,11,-,6,9,11,-,145,HARD HOP,MENTAL MELTDOWN,GUHROOVY fw.TECHNORCH,DJ TROOPERS
+-,5,9,10,12,6,9,11,12,165,ONLY ONE EURO BEAT,NEW GENERATION -もう、お前しか見えない-,SUPER STAR 満-MITSURU-,DJ TROOPERS
+-,7,10,12,-,7,9,12,-,162,HYMNUS,oratio,蓑舞衆,DJ TROOPERS
+-,7,11,12,-,8,11,12,-,75-300,SUPERNOVA2 BEAT #1,PARANOiA ～HADES～,αTYPE-300,DJ TROOPERS
+-,3,7,8,-,4,6,8,-,70,BALLAD,PROMISE FOR LIFE,TЁЯRA WORKS,DJ TROOPERS
+-,6,9,10,-,6,9,11,-,171,TRI EURO FANTASIA,REMINISCENCE,jun with Alison,DJ TROOPERS
+-,"[HCN]5","[HCN]9","[HCN]11",-,"[HCN]5","[HCN]9","[HCN]11",-,172,UK HARDCORE,Rising in the Sun(original mix),kors k feat.Rie,DJ TROOPERS
+-,6,9,12,-,5,8,10,11,160,OUVERTÜRE,Ristaccia,Zektbach,DJ TROOPERS
+-,6,9,11,-,8,10,12,-,154,HARD HOUSE,satellite020712 from "CODED ARMS",猫叉Master,DJ TROOPERS
+-,5,7,9,-,6,8,10,-,180,RAVE,satfinal,RAM,DJ TROOPERS
+-,4,5,8,-,4,7,9,-,141,WORLD/ELECTRONICA,scar in the earth,猫叉Master,DJ TROOPERS
+-,5,"[CN]9","[CN]10",-,4,"[CN]9","[CN]11",-,186,WALTZ BEAT,soldier's waltz,DAJI,DJ TROOPERS
+2,6,10,11,-,6,9,10,-,184,FREEFORM HARDCORE,SOUND OF GIALLARHORN,L.E.D.-G,DJ TROOPERS
+-,5,8,11,-,6,8,12,-,155,TECHNOTRONICA,State Of The Art,Sota Fujimori feat. cyborg AKEMI,DJ TROOPERS
+-,6,10,11,12,6,10,11,12,205,BREAK CORE,STEEL NEEDLE,Scorpion,DJ TROOPERS
+-,5,9,11,-,5,9,11,-,152,ULTIMATE J-POP,switch,DAISUKE ASAKURA ex.TЁЯRA,DJ TROOPERS
+2,6,10,11,12,5,10,11,12,173,NU STYLE GABBA,THE DEEP STRIKER,L.E.D.-G,DJ TROOPERS
+-,5,7,9,11,6,9,10,12,150,ETHNOTRONICA,the trigger of innocence,Seiya Murai,DJ TROOPERS
+-,6,10,11,12,7,9,11,12,191,DANCE SPEED,Time to Air,青龍,DJ TROOPERS
+-,6,9,10,-,6,9,11,-,80-160,SUPERNOVA2 BEAT #2,TRIP MACHINE PhoeniX,DE-SIRE 改,DJ TROOPERS
+-,6,10,12,-,6,10,12,-,177,ULTIMATE CORE,TROOPERS,Des-TRACT,DJ TROOPERS
+-,6,10,11,12,7,10,11,12,174,PROGRESSIVE BAROQUE,Übertreffen,TAKA respect for J.S.B.,DJ TROOPERS
+-,4,7,8,11,3,6,9,12,128,PIANO HOUSE,Wanna Party?,RAM,DJ TROOPERS
+-,5,7,11,-,5,7,10,-,140,TRIBAL,2 tribe 4 K,Remo-con,DJ TROOPERS
+2,4,6,9,-,4,6,9,-,125,80´s EURO,エコ爺,Y&Co.,DJ TROOPERS
+2,6,8,10,12,7,9,10,12,160,HYPER JAPANESQUE 2,華爛漫 -Flowers-,TЁЯRA,DJ TROOPERS
+-,5,8,9,-,5,9,10,-,150,SYMPHONIC TECHNO,高高度降下低高度開傘,Dr.Honda,DJ TROOPERS
+-,6,10,12,-,6,10,12,-,90-192,POST RENAISSANCE,少年A,Remixed by 少年ラジオ,DJ TROOPERS
+-,5,9,10,"[CN]12",6,10,12,-,144,FUSION,ミラージュ・レジデンス,Jimmy Weckl,DJ TROOPERS
+-,4,6,8,-,4,7,9,-,152,EDUCATION,マチ子の唄,AKIRA YAMAOKA,DJ TROOPERS
+-,3,4,7,-,3,5,-,-,68-85,SOLDIER´S BALLAD,走馬灯 -The Last Song-,TAKA,DJ TROOPERS
+-,5,7,9,-,6,7,9,-,145,HARD CORE,ALL I NEED YOUR LOVE,GUHROOVY fw. M-Project,EMPRESS
+-,6,9,11,-,6,9,11,-,170,ONLY ONE EURO BEAT,ALL MY TURN -このターンに、オレの全てを賭ける-,SUPER STAR 満-MITSURU-,EMPRESS
+-,6,10,11,12,6,10,11,12,180,ARABIC HARDCORE,Arabian Rave Night,dj MAX STEROID,EMPRESS
+-,6,9,11,12,7,9,11,12,170,RECKLESS RAVE,B4U(BEMANI FOR YOU MIX),Remixed by DJ YOSHITAKA with Michael a la mode,EMPRESS
+-,4,9,10,11,5,9,11,11,155,HOUSE,Bahram Attack-猫叉Master Remix-,猫叉Master feat.JUNE,EMPRESS
+-,5,10,12,-,5,10,11,-,165,JUMPSTYLE,BITTER CHOCOLATE STRIKER,L.E.D.-G,EMPRESS
+-,4,7,9,-,5,8,9,-,138,HAPPY ☆ JIG,BRIDAL FESTIVAL !!!,S.S.D. with ななっち,EMPRESS
+1,6,9,11,-,5,9,11,-,175,NOSTALISH REQUIEM,CaptivAte2～覚醒～,e-lma,EMPRESS
+3,5,10,12,-,7,10,12,-,180,HAPPY HARDCORE,Colorful Cookie,Lucky Vacuum,EMPRESS
+-,5,9,10,-,6,9,10,-,146,BUCHIAGE TRANCE,Cyber Force -DJ Yoshitaka Remix-,Remixed by DJ YOSHITAKA,EMPRESS
+-,4,8,10,11,5,8,9,10,155,MEGA MIX,Flash Back 90's,kors k as disconation,EMPRESS
+-,5,6,8,-,5,8,9,-,150,DREAM TRANCE,Fly Above,Sota Fujimori,EMPRESS
+3,6,10,12,-,6,10,12,-,200,TRANCE CORE,Go Beyond!!,Ryu☆ Vs. Sota,EMPRESS
+-,6,9,11,-,6,9,11,-,150,MORNING FULL ON,HYPERION,L.E.D.,EMPRESS
+-,4,6,7,-,5,7,9,-,147,TECHNO POP,I'm Screaming LOVE,Creative Life,EMPRESS
+-,5,7,10,-,5,8,11,-,116,MIXTURE,Jack,DesQ,EMPRESS
+-,4,8,11,-,5,8,11,-,136,NU SKOOL BREAKS,Just a Little Smile,Sota Fujimori,EMPRESS
+-,6,10,11,12,6,10,11,12,177,ASIAN JANGLE,Kung-fu Empire,飛燕流舞,EMPRESS
+-,6,9,11,12,6,9,11,11,205-248,宮廷円舞曲,Marie Antoinette,Marguerite du Pré,EMPRESS
+3,4,7,9,10,4,7,8,11,128,ELECTRO-TECH,Mind Mapping,Ryu☆,EMPRESS
+-,4,8,10,-,4,8,11,-,155,EUROBEAT,Monkey Dance '09,Y&Co. Feat. DOMINO,EMPRESS
+2,4,7,9,10,5,8,9,11,160,DANCE MUSIC OF SORROW,NΦ CRIME,C×F,EMPRESS
+-,5,9,11,11,5,8,10,11,145,TECH-BREAKBEATS,naughty girl@Queen's Palace,DJ Mass MAD Izm*,EMPRESS
+-,4,6,9,-,5,7,9,-,151,ENERGETIC TRANCE,neogenesis,DM Ashura,EMPRESS
+-,5,9,11,-,5,10,11,-,153,PSY TRANCE(FULL ON),Programmed World,kors k as StripE,EMPRESS
+-,5,8,10,-,6,9,10,-,172,E-DANCE POP,Punch Love♡仮面,"上野圭市(aka. Babyweapon,DJ SWAMI)feat.星野奏子",EMPRESS
+-,4,8,10,-,4,8,9,-,152,BIGBEAT,Queen's Tragedy,猫叉Master+,EMPRESS
+-,6,9,11,12,5,10,11,12,150,TECH-PARA,Secrets,good-cool ft. CHiCO,EMPRESS
+2,4,8,10,-,5,8,10,-,177,CANDY RAVE,smooooch・∀・,kors k,EMPRESS
+-,6,9,10,-,7,10,11,-,152,TECHNO,SOLITON BEAM,L.E.D.,EMPRESS
+-,5,9,10,12,5,8,10,11,45-170,ONLY ONE EPILOGUE,THANK YOU FOR PLAYING,SUPER STAR 満-MITSURU-,EMPRESS
+-,6,9,11,-,6,9,11,-,172,UK HARD CORE,THE SHINING POLARIS(kors k mix),Remixed by kors k,EMPRESS
+-,5,7,9,12,5,8,10,12,128,HOUSE,thunder HOUSE NATION Remix,Remix by Sunset In Ibiza (SII),EMPRESS
+2,4,9,10,-,4,8,10,-,148,ELEMENTAL CHANT,Turii ～Panta rhei～,Zektbach,EMPRESS
+3,6,10,11,-,5,10,11,-,150,PROGRESSIVE,V2,TAKA,EMPRESS
+-,5,9,12,-,5,10,12,-,145-876,90's RAVE,Y&Co. is dead or alive,Y&Co.,EMPRESS
+-,6,10,11,-,7,10,11,-,155,ONLY ONE TECHNO,You'll say "Now!",BLACK STAR 幸広-YUKIHIRO-,EMPRESS
+3,7,10,12,-,8,10,12,-,191,DANCE SPEED,3y3s,青龍,EMPRESS
+-,4,7,10,-,5,8,10,-,148,ポップス,山岡晃の「クイズ！家事都合！」,AKIRA YAMAOKA feat.喜屋武ちあき,EMPRESS
+3,6,9,12,-,6,9,11,-,188,HARDCORE,不沈艦CANDY,Risk Junk,EMPRESS
+-,5,8,10,-,5,8,10,-,143,HOU-ROCK,ハリツヤランデヴー,Des-MASTERS,EMPRESS
+-,6,11,12,-,7,11,12,-,83-185,ESOTERIC SPEEDCORE,卑弥呼,朱雀 VS 玄武,EMPRESS
+-,5,7,9,-,5,8,11,-,149,J-DANCE POP,まほろば,HHH+H,EMPRESS
+-,5,7,11,-,5,8,12,-,150,TRENDY TECHNO,ミッドナイト堕天使,Dr. Honda,EMPRESS
+-,5,10,11,-,5,10,11,-,150,RAGE AGAINST EMPRESS,天空脳番長危機十六連打,D.J.SETUP,EMPRESS
+2,6,9,10,11,6,9,10,12,163,撫子ロック,凛として咲く花の如く,紅色リトマス,EMPRESS
+-,4,7,10,-,5,9,10,-,160,IRON CONCERTO,鉄甲乙女-under the steel-,Seiya Murai,EMPRESS
+-,4,7,9,10,5,8,9,11,148,J-TRANCE,翼,小林ゆう,EMPRESS
+3,7,9,11,12,6,9,11,12,180,SPEEDCORE,AIR RAID FROM THA UNDAGROUND,GUHROOVY,SIRIUS
+-,"[CN][BSS]7","[CN][BSS]11","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]11","[CN][BSS]12",-,178,AKASHIC RECORDS,Almagest,Galdeira,SIRIUS
+-,7,10,12,-,7,10,12,-,195,INDUSTRIAL,Bad Maniacs,kors k as teranoid,SIRIUS
+1,4,7,10,-,5,7,10,-,140,BUBBLEGUM DANCE,bass 2 bass,Ryu☆,SIRIUS
+-,5,8,9,-,5,8,10,-,175,E-DANCE POP,beatchic☆仮面～好き、でいさせて～,上野圭市(transforming into Masao♥Lovely)feat.星野奏子,SIRIUS
+-,4,8,10,-,5,8,10,-,172,DRUM'N'BASS,BEAUTIFUL ANGEL,DJ SWAN,SIRIUS
+-,4,7,10,-,3,7,9,-,102,ELECTRO POP,being torn the sky,猫叉Master+ feat.JUNE,SIRIUS
+2,"[CN]7","[CN]9","[CN]11",-,"[CN]6","[CN]10","[CN]11",-,181,HAPPY HARDCORE,bloomin' feeling,Ryu☆,SIRIUS
+-,6,8,10,-,5,8,10,-,180,SUBLIME TECHNO,CaptivAte～裁き～(SUBLIME TECHNO MIX),Remixed by DJ YOSHITAKA,SIRIUS
+-,"[CN]8","[CN]10","[CN]11",-,"[CN]6","[CN]10","[CN]11",-,30-240,NEXT SKOOL BREAKBEATS HARDCORE,D,Eagle,SIRIUS
+-,7,9,11,-,8,9,10,-,183,DRUM & BASS,DAWN -THE NEXT ENDEAVOUR-,L.E.D. fw.堀澤麻衣子,SIRIUS
+-,4,8,10,-,5,8,11,-,160,EUROBEAT,Dazzlin' Darlin-秋葉工房mix-,Remixed by DJ Command,SIRIUS
+-,5,9,11,-,5,8,10,-,175,UK HARDCORE,DESIRE,M-Project fw. GUHROOVY,SIRIUS
+-,"[MSS]4","[MSS]7","[MSS]10",-,"[MSS]5","[MSS]9","[CN][MSS]10",-,136,ELECTRO,Do Back Burn,PRASTIK DANCEFLOOR,SIRIUS
+-,7,10,12,-,5,10,12,-,196,HARDCORE,DOMINION,L.E.D.-G,SIRIUS
+-,4,9,11,-,4,8,11,-,152,WHITE SEQUENCE,DROP,dj TAKA feat.Kanako Hoshino,SIRIUS
+2,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,185,TRANCE CORE,Elisha,DJ YOSHITAKA,SIRIUS
+-,6,9,11,-,6,10,11,-,173,CYBERPUNK,Empire State Glory,Dirty Androids,SIRIUS
+-,7,10,12,-,8,10,12,-,135-270,HARDCORE,eRAseRmOToRpHAntOM,L.E.D.-G VS GUHROOVY,SIRIUS
+3,6,11,12,-,7,10,12,-,185,HARD RENAISSANCE,Evans,DJ YOSHITAKA,SIRIUS
+-,6,10,12,-,8,10,12,-,188,HARDCORE,EXUSIA,L.E.D.-G,SIRIUS
+-,7,10,12,-,6,11,12,-,170,EXPERIMENTAL MUSIC,G59,怒れる金の獅子,SIRIUS
+-,6,10,11,-,7,10,12,-,165,HARDCORE TECHNO,GALGALIM,L.E.D.,SIRIUS
+-,5,9,12,-,6,8,12,-,150,TECHNO,GOLDEN CROSS,dj REMO-CON VS dj TAKA,SIRIUS
+-,5,8,10,11,5,8,10,11,143,TECH DANCE,Hydrogen Blueback,MAD CHILD,SIRIUS
+3,4,7,9,-,4,8,10,-,155,EUROBEAT,IN THE NAME OF LOVE,Y&Co.feat.Erica,SIRIUS
+-,5,9,10,-,5,9,11,-,166,EUROBEAT,Keep it-秋葉工房mix-,DJ Command feat. NAGISA,SIRIUS
+-,5,7,10,-,4,7,9,-,130,ELECTRO,Last Burning,Dirty Androids,SIRIUS
+-,"[CN]5","[CN]7","[CN]10",-,"[CN]5","[CN]9","[CN]11",-,140,BUBBLEGUM DANCE,Light Shine,Ryu☆,SIRIUS
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]10",-,160,BUCHIAGE TRANCE,MIRACLE MEETS,Lucky Vacuum,SIRIUS
+-,7,10,12,-,7,8,11,-,188,TECHNO POP SPEED,mosaic,Auridy,SIRIUS
+-,"[CN]6","[CN]10","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,200,ONLY ONE IDOL SONG,NEW SENSATION -もう、あなたしか見えない-,SUPER HEROINE 彩香-AYAKA-,SIRIUS
+-,4,7,10,-,4,7,9,-,160,TECHNO POP,NoN-Fiction Story!,Creative Life,SIRIUS
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]4","[CN]9","[CN]10",-,144,PSY TRANCE(MORNING),Programmed Sun,kors k,SIRIUS
+-,4,9,12,-,7,9,12,-,※,TRANCE,quell～the seventh slave～,dj TAKA Vs. DJ YOSHITAKA,SIRIUS
+-,5,10,11,-,6,10,12,-,155-175,ASTRAL CHOIR,Raison d'être～交差する宿命～,Zektbach,SIRIUS
+-,6,10,12,-,6,9,12,-,158,TECH-BREAKBEATS,Red. by Full Metal Jacket,DJ Mass MAD Izm*,SIRIUS
+-,4,7,9,-,5,7,9,-,158,ACTRESS,Roots of my way!,ナイア,SIRIUS
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]8","[CN]9","[CN]11",-,79-178,ELECTRIC FUSION,Session 1 -Genesis-,PRASTIK DANCEFLOOR,SIRIUS
+3,5,9,10,-,5,9,10,-,85-170,ONLY ONE BALLAD,She is my wife,SUPER STAR 満-MITSURU-,SIRIUS
+-,5,10,12,"[HCN]12",5,11,12,"[HCN]12",155,HARDSTYLE,SOLID STATE SQUAD,kors k Vs. L.E.D.,SIRIUS
+-,5,8,10,-,5,8,11,-,185,EMO,Sorrows,Asako Yoshihiro,SIRIUS
+-,5,7,9,-,5,8,9,-,128,J-HOUSE,Special One,kors k feat. Suzuyo Miyamoto,SIRIUS
+-,6,8,11,-,6,8,10,-,185,DRUM & BASS,THE LAST STRIKER,L.E.D.,SIRIUS
+-,4,8,10,-,6,9,11,-,150,EPIC TRANCE,The Story Begins,SADA & Sota,SIRIUS
+-,4,7,8,-,4,6,8,-,164,DISTORTED NEW AGE,バビロニア,劇団レコード,SIRIUS
+-,5,8,9,-,5,8,9,-,148,J-POP,コスモス,TSU-NA,SIRIUS
+-,3,"[CN]6","[CN]8",-,"[CN]4","[CN]7","[CN]9",-,170,INSANIO,かずあそび,CULTVOICE by S.S.D.PRODUCTS,SIRIUS
+-,"[CN]4","[CN]7","[CN]9",-,"[CN]4","[CN]8","[CN]10",-,132,STARPOP,未来のプリズム,星野奏子,SIRIUS
+2,4,6,8,-,6,7,8,-,111,WORLD/ELECTRONICA,サヨナラ・ヘヴン,猫叉Master,SIRIUS
+-,4,8,10,-,3,9,10,-,140,WORLD/ELECTRONICA,水上の提督(Short mix from "幻想水滸伝V"),猫叉Master,SIRIUS
+-,6,8,9,-,5,7,10,-,182,POPS,たからもの,セリカ＆エリカ,SIRIUS
+-,6,10,12,-,6,10,12,-,※,VALSE,ワルツ第17番 ト短調"大犬のワルツ",virkato,SIRIUS
+-,"[CN]6","[CN]8","[CN]11",-,"[CN]5","[CN]8","[CN]10",-,162,TECHNO,Aegis,IT medalion,Resort Anthem
+3,6,10,12,-,6,9,11,-,185,HARD RENAISSANCE,ALBIDA,DJ YOSHITAKA,Resort Anthem
+-,4,7,10,-,5,7,9,-,156,STARPOP,Answer,星野奏子,Resort Anthem
+-,5,9,11,-,6,10,11,-,151,LATIN TEK,ANTHEM LANDING,DJムラサメ,Resort Anthem
+-,5,9,11,-,5,9,11,-,170,HARDCORE,Believe In Me,Uraken feat. Calyn Tsukishima,Resort Anthem
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,145,CROSSOVER HOUSE,BLUST OF WIND,Anemo=Aspel by MLREC.,Resort Anthem
+-,5,9,11,-,5,9,11,-,116,DANCEHALL,Bounce Bounce Bounce,kors k feat.Kanata Okajima＆楽天斎,Resort Anthem
+-,5,8,10,-,5,8,10,-,166,HARDCORE,Breaking the ground,Art of Fighters,Resort Anthem
+-,5,9,12,-,5,9,12,-,148,TRANCE,Broken,dj TAKA feat.AiMEE,Resort Anthem
+-,6,9,11,-,6,10,11,-,162,SYMPHONIC-TEK,BROKEN EDEN,MYTHOLOGIA by MLREC.,Resort Anthem
+-,7,10,12,-,7,10,12,-,154,トレンディートランス,Dances with Snow Fairies,Dr.Honda,Resort Anthem
+-,6,8,10,-,6,8,10,-,195,GIRLY ROCK,DAYDREAMER,ピンクターボ,Resort Anthem
+-,5,9,11,-,5,9,11,-,155,ELECTRIC STEP,Destiny Sword,CAPACITY GATE,Resort Anthem
+-,6,9,10,-,6,9,11,-,155,SPEED RAVE,DM STAR～関西 energy style～,NAOKI,Resort Anthem
+-,"[CN][BSS]6","[CN][BSS]8","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]8","[CN][BSS]11",-,170,HARDCORE,Energy Drive,kevin energy,Resort Anthem
+-,2,5,7,-,2,5,7,-,84,WINTER BALLADE,Eternal Tears,ツガル,Resort Anthem
+-,"[CN][BSS]4","[CN][BSS]7","[CN][BSS]10",-,"[CN][BSS]5","[CN][BSS]7","[CN][BSS]10",-,148,ONLY ONE ANTHEM,Everlasting Resort,SUPER STAR 満-MITSURU-,Resort Anthem
+1,3,8,10,-,4,8,10,-,165,HYPER FANTASIA,Fantasia,TЁЯRA,Resort Anthem
+-,"[CN]5","[CN]8","[CN]10","[HCN][HBSS]11","[CN]5","[CN]9","[CN]10","[HCN][HBSS]11",130,NU DISCO,Golden Palms,Dirty Androids,Resort Anthem
+-,3,7,9,-,4,7,10,-,175,DRUM & BASS,I FIGHT ME,kobo feat. Marsha,Resort Anthem
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]4","[CN]9","[CN]12",-,146,ENERGETIC HAWAIIAN TRANCE,Kailua,kors k,Resort Anthem
+-,6,9,11,-,5,8,11,-,175,UK HARDCORE,Let The Track Flow,Brisk & Ham,Resort Anthem
+-,4,6,9,-,4,6,9,-,173,MAGICAL POP,Medicine of love,イロハ＆リリナ,Resort Anthem
+3,5,8,10,-,6,8,10,-,140,BUBBLEGUM DANCE,Mermaid girl,Cream puff,Resort Anthem
+-,4,8,11,-,5,9,11,-,170,IIDX HANDZ UP!!,Never Fade Away,Sota Fujimori feat. dj MAX STEROID,Resort Anthem
+-,6,"[CN]10","[CN]12",-,6,10,12,-,120-180,DYSTOPIA,New Castle Legions,Dirty Androids,Resort Anthem
+-,"[CN]7","[CN]11","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,200,TRANCE CORE,PARADISE LOST,Ryu☆ Vs. L.E.D.-G,Resort Anthem
+-,6,8,10,-,6,9,11,-,149,HANDZ UP,passionate fate,Ryu☆,Resort Anthem
+-,"[CN]7","[CN]11","[CN]12",-,"[CN]7","[CN]11","[CN]12",-,172,ANTHEM CORE,perditus†paradisus,iconoclasm,Resort Anthem
+-,6,9,10,-,6,9,11,-,145,PSY TRANCE(FULL ON),Programmed Life,kors k,Resort Anthem
+3,8,11,12,-,8,11,12,-,184,CYBER WALTZ,reunion,Tatsh,Resort Anthem
+-,5,9,11,-,5,8,10,-,175,UK HARDCORE,Rock Da House,M-Project fw. GUHROOVY,Resort Anthem
+-,5,9,11,-,5,9,12,-,37-444,SHOOTING WALTZ,SABER WING,TAG,Resort Anthem
+-,3,"[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,181,HAPPY HARDCORE,Sakura Reflection,Ryu☆,Resort Anthem
+-,5,"[CN]8","[CN]12",-,6,"[CN]10","[CN]12",-,184,HAPPY HARDCORE,sakura storm,Ryu☆,Resort Anthem
+-,5,10,12,-,5,10,12,-,182-189,ROCKIN´ DRUM´N´BASS,Session 9 -Chronicles-,PRASTIK DANCEFLOOR,Resort Anthem
+-,4,8,10,-,4,8,11,-,143,ENERGETIC TRANCE,Space Time,NISH,Resort Anthem
+-,4,8,12,-,6,10,12,-,168,BUCHIAGE TRANCE,SPECIAL SUMMER CAMPAIGN!,Lucky Vacuum,Resort Anthem
+-,"[CN]4","[CN]6","[CN]8",-,"[CN]4","[CN]6","[CN]7",-,100,R&B,Stay my side,DJ Yoshitaka feat.RINA,Resort Anthem
+2,4,9,11,-,5,9,11,-,162,HARD DANCE,STELLAR WIND,L.E.D.,Resort Anthem
+-,"[CN]5","[CN]10","[CN]11",-,"[CN]6","[CN]10","[CN]12",-,154,GOA TRANCE,THE BLACK KNIGHT,L.E.D.,Resort Anthem
+-,"[CN][BSS]4","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]4","[CN][BSS]9","[CN][BSS]11",-,155,TRANCE,THE DOOR INTO RAINBOW,L.E.D.,Resort Anthem
+-,5,8,11,-,5,9,11,-,167,GOTH NU-STYLE GABBA,THE FALLEN,L.E.D.-G,Resort Anthem
+-,8,10,11,-,6,9,11,-,182,VACATION DANCE,Tropical April,Risk Junk,Resort Anthem
+-,"[CN]5","[CN]7",10,-,"[CN]5","[CN]8",10,-,152,PSYCHE FUSION,Vermillion,Mystic Moon,Resort Anthem
+-,6,9,12,-,6,9,11,-,148,TECH-BREAKBEATS,Watch Out Pt.2,DJ Mass MAD Izm* VS.DJ Yoshitaka,Resort Anthem
+2,3,7,9,11,3,6,9,11,127,RESORT HOUSE,WISE UP!,木之下慶行 feat.星野奏子,Resort Anthem
+-,3,8,10,-,7,9,11,-,173,CANDY RAVE,Wuv U,kors k,Resort Anthem
+-,5,8,10,-,5,8,10,-,160,DANCE POP,XANADU OF TWO,T.Kakuta With Starving Trancer＋森永真由美,Resort Anthem
+2,4,9,11,-,6,10,12,-,90-180,IDM,ZETA～素数の世界と超越者～,Zektbach,Resort Anthem
+-,2,8,10,-,5,8,10,-,171,HAPPY HARDCORE,中華急行,Ryu☆,Resort Anthem
+"[CN]3","[CN]5","[CN]7","[CN]9",-,"[CN]5","[CN]7","[CN]10",-,186,NATSU MATSURI,かげぬい ～ Ver.BENIBOTAN ～,CULTVOICE by S.S.D.PRODUCTS,Resort Anthem
+-,4,9,12,-,5,10,12,-,150,撫子メタル,黒髪乱れし修羅となりて,村正クオリア,Resort Anthem
+-,3,5,7,"[CN]10",3,5,7,"[CN]10",100,WORLD/POPS,おおきなこえで,猫叉Master feat.Sana,Resort Anthem
+3,7,10,12,-,6,10,12,-,153,BROKEN SAMBA BREAK,灼熱Beach Side Bunny,DJ Mass MAD Izm*,Resort Anthem
+-,6,9,11,-,6,10,12,-,155,ELECLORE,旅人リラン,XOGO BRYKK,Resort Anthem
+-,5,9,11,-,5,9,11,-,174,AURAL ADRENALINE,夕焼け ～Fading Day～,JAKAZiD,Resort Anthem
+-,"[BSS]4","[CN][BSS]8","[CN][BSS]10",-,4,"[CN][BSS]8","[CN][BSS]11",-,172,TECHNO,Almace,Qrispy Joybox,Lincle
+-,4,7,9,-,4,8,9,-,165,DANCE POP,ANAGRAMS I to Y,Mayumi Morinaga,Lincle
+-,6,10,12,-,6,10,12,-,163,TECH-BREAKBEATS,BLACK.by X-Cross Fade,DJ Mass MAD Izm*,Lincle
+-,2,5,8,-,2,8,8,-,158,WORLD/ELECTRONICA,CALL,猫叉Master,Lincle
+1,4,9,11,-,4,9,11,-,191,DANCE SPEED,Castle on the Moon,青龍,Lincle
+-,5,7,9,-,6,9,11,-,286,SPEED POP,Change the World,Tatsh feat.小田ユウ,Lincle
+-,6,9,12,-,7,10,12,-,160,TRANSCENDENTAL ETUDES,DIAVOLO,度胸兄弟,Lincle
+-,4,7,10,-,4,7,10,-,180,AKIBA RAVE,Drive Me Crazy,kors k feat.古川未鈴,Lincle
+-,4,6,10,-,4,6,9,-,182,J-CORE,Express Emotion,REDALiCE feat. Shihori,Lincle
+-,5,10,12,-,5,"[CN]10",12,-,154,RENAISSANCE,F,D.J.Amuro,Lincle
+2,3,7,9,-,4,8,10,-,180,DRUM'N'BASS,Far east nightbird,猫叉Master,Lincle
+-,4,10,12,-,5,10,12,-,138,HARD Pf,ƒƒƒƒƒ,Five Hammer,Lincle
+1,3,7,10,-,"[BSS]3","[BSS]7","[BSS]10",-,175,CANDY HANDZ UP,Flip Flap,kors k,Lincle
+-,4,8,10,-,4,8,10,-,140,J-DANCE POP,Follow Tomorrow,HHH×MM×ST,Lincle
+-,"[CN]3","[CN]6","[CN]9","[CN]11","[CN]3","[CN]7","[CN]10","[CN]12",140,MARCHING ROCK,GIGANT,seiya-murai,Lincle
+-,5,10,12,-,5,10,12,-,208,ECCENTRIC,HAERETICUS,D.J.Amuro Vs MAX MAXIMIZER,Lincle
+2,3,8,11,-,5,9,11,-,181,HAPPY HARDCORE,I'm so Happy,Ryu☆,Lincle
+-,6,9,10,-,8,10,12,-,190,DRUM'N'BASS,Infinite cave,猫叉Master+,Lincle
+-,5,8,11,-,5,8,11,-,177,PROGRESSIVE ROCK,In the Blackest Den,Bulluvegola,Lincle
+-,6,9,10,-,6,9,10,-,190,LOUD TECH,LAX5 feat.Ryota Yoshinari,Katana Sounds,Lincle
+-,5,8,10,-,5,8,10,-,165,PLATINUM J-POP ONE,LETHEBOLG ～双神威に斬り咲けり～,TЁЯRA,Lincle
+-,2,6,9,-,2,6,9,-,134,ELECTRO,Liquid Crystal Girl feat. echo,kmp,Lincle
+-,4,8,10,-,4,8,10,-,173,DRUM'N'BASS,LOVE B.B.B,SWAN K feat. Asuka M,Lincle
+-,4,8,10,-,4,8,10,-,160,DREAM TRANCE,Lucky Days,Sota Fujimori feat. Kanako Hoshino,Lincle
+-,4,6,9,-,4,7,9,-,150,EUROBEAT,Mermaid girl-秋葉工房 MIX-,Remixed by DJ Command,Lincle
+-,"[CN]4","[CN]6","[CN]9",-,"[CN]4","[CN]7","[CN]10",-,131,80's ELECTRO HOUSE,Miami Sunset Drive,Dirty Androids,Lincle
+-,6,10,12,-,6,10,12,-,101-202,ELECTRO GOTHIC,NNRT,Levaslater,Lincle
+-,5,7,10,"[BSS]12",5,8,11,"[BSS]12",176,HARD NRG,Phoenix,Hommarju,Lincle
+-,5,8,11,-,5,8,11,-,198,NU PROGRESSIVE,prompt,w×s ft.*spiLa*,Lincle
+-,7,10,11,12,7,10,12,12,152,TECHNO,QUANTUM TELEPORTATION,L.E.D.,Lincle
+1,4,9,12,-,4,9,12,-,182-186,HAPPY,quaver♪,Risk Junk,Lincle
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,172,RAVE FUSION,Quick Silver,Mystic Moon,Lincle
+-,4,7,10,-,4,7,10,-,146,TECH DANCE,Release The Music,kors k,Lincle
+-,3,7,10,-,3,7,10,-,184,MYSTERIOUS ROCK,RESISTANCE,セリカ,Lincle
+-,4,6,9,-,3,6,10,-,145,HYPER ELECTRO,Round and Round,Masayoshi Minoshima feat. 綾倉盟,Lincle
+-,"[BSS]4","[BSS]8","[BSS]10",-,"[BSS]5","[BSS]9","[BSS]11",-,85-170,ONLY ONE FINALE,SA.YO.NA.RA. SUPER STAR,SUPER STAR 満-MITSURU-,Lincle
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,217,HARD ROCK,Scharfrichter,Ashemu,Lincle
+-,"[CN]4","[CN]8","[CN]10",-,"[CN]4","[CN]8","[CN]10",-,180,VALIANT BEAT,Several Words,CAPACITY GATE,Lincle
+-,5,9,11,-,5,10,11,-,151,TECHNO,SHADE,DJ MURASAME vs dj Killer,Lincle
+-,6,10,12,-,6,10,12,-,145,TECH-BREAKBEATS,Snake Stick,DJ Yoshitaka VS. DJ Mass MAD Izm*,Lincle
+2,3,8,11,-,4,9,11,-,200,ELECTRIC POMP,Snow Goose,Mutsuhiko Izumi,Lincle
+-,4,7,10,-,4,7,10,-,148,TRANCE,Star Trail,Nhato,Lincle
+-,6,10,12,12,6,10,12,12,200,CYBER PUNK,The Limbo,STN,Lincle
+-,"[BSS]5","[CN][BSS]9","[CN][BSS]12",-,"[BSS]5","[CN][BSS]10","[CN][BSS]12",-,150,HARD TRANCE,The Sampling Paradise,Mamonis,Lincle
+-,5,9,12,-,5,9,11,-,188,RAVERS DANCE SPEED,Thunderbolt,雷龍,Lincle
+2,4,8,11,"[HCN][HBSS]12",4,8,11,"[HCN][HBSS]12",※,DRUMSTEP,TITANS RETURN,L.E.D.,Lincle
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]9","[CN]12",-,185,SACRED TRANCE,Todestrieb,Rche,Lincle
+-,3,7,9,-,3,7,9,-,140,TECH DANCE,Voxane,Remo-con,Lincle
+-,5,9,12,-,5,9,12,-,165,HARD TRANCE,WONDER WALKER,L.E.D.,Lincle
+-,6,10,12,-,6,11,12,-,190,TERROR CORE,YAKSHA,Neulakyussra,Lincle
+-,4,8,10,-,4,9,12,-,187,TEK-TRANCE,yellow head joe,S-C-U,Lincle
+-,4,7,10,-,4,8,11,-,174,DRUM'N'BASS,Yellow Sunrise,xac,Lincle
+-,5,9,11,-,5,9,11,-,168,EURO RAVE,24th Century BOY,Tatsh,Lincle
+-,3,7,11,-,4,7,11,-,177,HARDCORE,532nm,Ryu☆,Lincle
+1,3,8,10,-,4,9,11,-,196,HAPPY HARDCORE,ビューティフルレシート,Lucky Vacuum,Lincle
+-,6,10,12,-,7,10,12,-,280,PROGRESSIVE,子供の落書き帳,佐々木博史,Lincle
+2,"[CN]4","[CN]8","[CN]11",-,"[CN]4","[CN]8","[CN]11",-,170,ORIENTAL MYTHOLOGY,蛇神,Zektbach,Lincle
+-,3,6,9,-,3,6,10,-,140,POP,陽炎,星野奏子,Lincle
+-,4,9,11,12,4,8,12,-,260,トレンディーフュージョン,君のハートにロックオン,Dr.Honda,Lincle
+2,5,8,12,-,4,8,12,-,200,Hi-BLEEP,恋する☆宇宙戦争っ!!,Prim,Lincle
+-,4,7,"[CN][BSS]10",-,4,8,"[CN][BSS]10",-,185,電波,突撃!ガラスのニーソ姫!,山本椛 (monotone),Lincle
+-,6,10,12,-,6,10,12,-,97-194,BATTLE TRACK,聖人の塔,Beridzebeth,Lincle
+-,4,7,10,-,4,7,10,-,139,NEO CLASSICAL DANCE,衰色小町メランコリア,iNO,Lincle
+-,7,10,12,-,7,11,12,-,150,ANTHEM,天空の夜明け,Cuvelia,Lincle
+-,3,7,11,-,5,8,11,-,164,SYMPHONIC-TEK,ユミル,MYTHOLOGIA by MLREC.,Lincle
+-,5,8,10,-,6,9,11,-,185,ELECTRO POP,Ascalon,Qrispy Joybox,tricoro
+-,3,7,11,-,3,7,11,-,190,SPEEDCORE,Beastie Starter,GUHROOVY,tricoro
+-,4,7,10,-,4,8,10,-,160,HARD DANCE,BLUE STRAGGLER,L.E.D.,tricoro
+-,4,8,10,-,4,8,10,-,160,SPACY TRANCE,BRAVE GLOW,SOUND HOLIC feat. Nana Takahashi,tricoro
+-,5,7,11,-,5,8,11,-,198,HARD REVOLUTION,CONCEPTUAL,Sota Fujimori 2nd Season,tricoro
+-,5,10,12,-,5,10,12,-,185,HARD ELECTRIC POP,Confiserie,L.E.D. vs S-C-U,tricoro
+-,2,6,8,-,2,6,8,-,128,LOUNGE POP,connective,猫叉Master feat.*spiLa*,tricoro
+-,5,9,11,-,7,10,11,-,205,BREAK CORE,Cookie Bouquets,L.E.D. vs TOMOSUKE fw.crimm,tricoro
+-,5,10,12,-,6,10,12,-,80-300,DARK PROGRESSIVE,DAY DREAM,Mutsuhiko Izumi,tricoro
+-,3,"[CN]10","[CN]12",-,4,"[CN]10","[CN]12",-,185,SYMPHONIC BREAK BEATS,Devilz Staircase,OSTER project,tricoro
+1,7,10,12,-,8,10,"[CN]12",-,212,HARD RENAISSANCE,Elemental Creation,dj TAKA meets DJ YOSHITAKA,tricoro
+-,6,9,11,-,6,10,11,-,180,VACATION DANCE,examination leave,dj razzle dazzle,tricoro
+"[CN]2","[CN]6","[CN][BSS]9","[CN][BSS]11",-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,173,TRANCE CORE,FLOWER,DJ YOSHITAKA,tricoro
+-,4,8,10,-,4,8,11,-,141,HANDZ UP,Fly you to the star,Another Infinity feat. Mayumi Morinaga,tricoro
+-,5,10,12,-,5,10,12,-,180,SPEED DANCE,GAIA,猫叉L.E.D.Master+,tricoro
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]11",-,180,KONAMI REMIX,GRADIUS 2012,Sota Fujimori,tricoro
+-,5,"[CN]10","[CN]12",-,6,"[CN]9","[CN]12",-,186,DRUM'N'BASS,Hollywood Galaxy,dj TAKA,tricoro
+-,4,7,9,10,4,7,10,11,155,NU RAVE,Howling,PON,tricoro
+-,3,6,9,-,3,6,9,-,136,NEW 80's,I know You know,Suke+Suke feat.Ribbon,tricoro
+-,4,7,10,-,4,8,10,-,142,HYPER ELECTRO,ILIAS,Masayoshi Minoshima feat. 坂上なち,tricoro
+-,5,9,11,12,5,10,11,12,260,ORBITALIC CORE,Illegal Function Call,U1-ASAMi,tricoro
+-,4,7,9,-,5,7,9,-,149,HEAVENLY TRANCE,In Heaven,Sota Fujimori,tricoro
+1,"[BSS]6","[BSS]10",12,-,"[BSS]6","[BSS]10",12,-,90-300,HARD RENAISSANCE,JOMANDA,DJ YOSHITAKA,tricoro
+-,6,9,12,-,6,10,12,-,150,TRANCE,Liberation,dj TAKA,tricoro
+-,5,9,11,-,5,9,11,-,181,HAPPY HARDCORE,Light and Cyber･･･,Tatsh,tricoro
+-,5,8,12,-,5,8,12,-,183,J-CORE,Little Star,REDALiCE feat. Ayumi Nomiya,tricoro
+-,3,7,9,"[CN]10",3,6,10,11,140,NEO 80's EURO ELECTRO,LUV CAN SAVE U,HIDEKI NAGANUMA,tricoro
+-,4,5,8,-,5,8,9,-,111,JAZZ HOUSE,mnemoniq,youhei shimizu,tricoro
+-,4,8,10,-,4,10,11,-,145,TECH DANCE,Neonlights,DJ Noriken,tricoro
+1,6,10,12,-,6,10,12,-,※,NIENTE,neu,少年ラジオ,tricoro
+1,5,9,11,-,5,9,11,-,200,SPEED DANCE CORE,New Decade IIDX Edition,Sota F.,tricoro
+-,6,9,10,-,6,9,10,-,175,HARDCORE,New Lights,kors k,tricoro
+-,6,10,12,-,6,10,12,-,212,HAPPY GABBA,Plan 8,Ryu☆,tricoro
+-,4,8,10,-,4,8,11,-,164,ELECTRIC POP,planarian,S-C-U,tricoro
+-,4,7,10,-,4,7,10,-,188,DRUM'N'BASS,POINT ZERO,猫叉Master+,tricoro
+-,4,8,10,-,4,8,11,-,152,CLASSICAL PIANO,Präludium,Yuko Takahashi,tricoro
+-,6,10,12,-,6,10,12,-,170,HARD ELECTRONICA,Proof of the existence,猫叉Master+,tricoro
+-,4,7,10,-,5,8,10,-,179,DRUM'N'BASS,Rainbow after snow,猫叉Master feat.林ももこ,tricoro
+1,5,8,10,-,5,8,11,-,176,EMOTIONAL SENTENCE,Re:GENERATION,TAG feat. ERi,tricoro
+-,5,10,11,-,5,10,12,-,192,LOUNGECORE,rumrum triplets,yu_tokiwa.djw,tricoro
+-,5,"[CN][BSS]8","[CN][BSS]11",-,5,"[CN][BSS]9","[CN][BSS]11",-,177,DRUMSTEP,S!ck,Eagle,tricoro
+-,7,10,11,-,6,10,11,-,155,PROGRESSIVE TRIBAL,Saturn,Mr.Saturn,tricoro
+-,6,8,9,-,4,7,9,-,150,ELECTRO POP,Shining World,DJ Genki feat. Yukacco,tricoro
+-,4,7,10,-,4,7,11,-,179,HI-SPEED FANTASY TUNE,SHION,DJ YOSHITAKA,tricoro
+-,"[BSS]6","[BSS]9","[BSS]12",-,"[BSS]6","[BSS]11","[BSS]12",-,190-200,FREEFORM HARDCORE,Sol Cosine Job 2,DJ TECHNORCH,tricoro
+-,5,10,12,-,5,10,12,-,90-182,GRAVIOL,STULTI,MAX MAXIMIZER VS DJ TOTTO,tricoro
+-,5,10,12,-,6,10,12,-,160-166,LATIN EURO,SYNC-ANTHEM,Tatsh feat. 星野奏子,tricoro
+-,"[CN]4",8,11,-,"[CN]4","[CN]8",11,-,160,ORBITALIC REVOLUTION,Synergy For Angels,TAG×U1-ASAMi,tricoro
+-,5,8,11,-,5,9,11,-,175,EUROBEAT,Take My Life,Y&Co.,tricoro
+-,5,10,12,-,5,10,12,-,150,TRANSCENDENTAL ETUDES,Thor's Hammer,ユニバーサル度胸兄弟,tricoro
+-,5,10,12,-,6,11,12,-,287,PROGRESSIVE ROCK,Timepiece phase II,佐々木博史,tricoro
+-,"[CN]6","[CN]10","[CN]12",-,"[CN][BSS]6","[CN][BSS]11","[CN][BSS]12",-,287,PROGRESSIVE ROCK,Timepiece phase II (CN Ver.),佐々木博史,tricoro
+-,4,9,10,-,7,9,11,-,148,TRANCE,Time to Empress,dj TAKA feat.wac & secret K,tricoro
+-,5,10,12,-,5,10,12,-,164,ESSENTIALLY,True Blue,dj TAKA feat.AiMEE,tricoro
+-,"[CN]7","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,186,ART CORE,Valanga,DJ TOTTO,tricoro
+1,"[CN]6","[CN][BSS]10","[CN][BSS]11",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]11",-,185,TRANCE CORE,VALLIS-NERIA,DJ YOSHITAKA,tricoro
+-,5,"[BSS]9","[BSS]11",-,5,"[BSS]9","[BSS]11",-,191,UNIVERSAL J-CORE,VEGA,REDALiCE,tricoro
+-,5,8,11,-,5,8,11,-,190,DUB STEP,ZED,USAO,tricoro
+-,5,10,12,-,5,10,12,-,210,SPACE REQUIEM,Zirkfied,iconoclasm,tricoro
+-,5,9,11,-,5,9,11,-,177,HARDCORE,405nm (Ryu☆mix),Another Infinity,tricoro
+-,3,6,10,-,3,6,10,-,150,CHIPTUNE,8bit Princess,seiya-murai feat. ALT,tricoro
+-,"[CN]4","[CN]9","[CN]12",-,"[CN]5","[CN]9","[CN]12",-,173,ZODIAC ORACLE 7,アストライアの双皿,ZODIACSYNDICATE,tricoro
+-,4,8,"[CN][BSS]11",-,4,8,"[CN][BSS]12",-,230,電波,カジノファイヤーことみちゃん,ARM feat. 山本椛＋Brasscapsule,tricoro
+-,5,8,11,"[CN]12",5,9,11,"[CN]12",165,EPIC TECHNO,龍と少女とデコヒーレンス,黒猫ダンジョン,tricoro
+-,6,10,12,"[CN]12",6,10,12,"[CN]12",175,ROMANTIC SCHOOL VARIATIONS,ΕΛΠΙΣ,dj TAKA,tricoro
+-,4,9,11,-,4,9,11,-,200,CREATOR,創世ノート,PON+wac,tricoro
+-,5,8,10,12,5,9,10,12,190,お米タル,お米の美味しい炊き方、そしてお米を食べることによるその効果。,大日本鉄倶楽部【あさき＆96】,tricoro
+-,5,7,9,-,5,7,9,-,166,NEO CLASSICAL DANCE,下弦の月,iNO,tricoro
+-,6,10,12,-,6,10,12,-,206,Hi-GOTH,狂イ咲ケ焔ノ華,覚醒ノPrim,tricoro
+-,6,10,12,-,6,10,12,-,196,Hi-ν BLEEP,キャトられ♥恋はモ～モク,ギュ～っとしたい♥Prim,tricoro
+-,4,8,10,-,4,7,11,-,157,CYBER SYMPHONIC POP,メイメツ、フラグメンツ,中山真斗(Elements Garden)feat.桜川めぐ,tricoro
+1,3,9,12,-,3,9,12,-,190,Hi-CORE,†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT),夏色ビキニのPrim,tricoro
+1,4,7,10,11,4,7,10,11,149,FASCINATION,朧,HHH×MM×ST,tricoro
+-,5,10,12,-,5,10,12,-,210-360,SILENT,音楽,弁士カンタビレオ,tricoro
+-,4,8,10,-,4,8,10,-,165,LUCKY TECHNO,ラキラキ,Mutsuhiko Izumi & S-C-U,tricoro
+-,6,10,12,-,7,10,12,-,187,TOY CONTEMPORARY,シュレーディンガーの猫,Cait Sith,tricoro
+-,6,10,12,-,6,9,12,-,197,AKIBA-POP,即席！脳直★ミュージックシステム,MOSAIC.WAV,tricoro
+-,7,10,12,-,6,10,12,-,180,PROGRESSIVE,たまゆら,佐々木博史,tricoro
+-,5,9,11,12,5,8,11,12,151,TECHNO,仮想空間の旅人たち,DJ MURASAME,tricoro
+-,"[CN]6","[CN]9","[CN]12",-,"[CN]6","[CN]9",12,-,185,歌謡 DRUM & BASS,トリカゴノ鳳凰,L.E.D. Vs. 幽閉サテライト,tricoro
+-,5,7,10,-,5,8,10,-,167,想歌 梅,梅雪夜,Qrispy Joybox feat.mao,tricoro
+1,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,180,ARTCORE,Adularia,DJ TOTTO,SPADA
+-,"[CN]5","[CN][BSS]8","[CN][BSS]11",-,"[CN]4","[CN][BSS]8","[CN]11",-,165,HYPER GOTHIC BEAT,ALBA -黎明-,SOUND HOLIC feat. Nana Takahashi,SPADA
+-,6,10,12,12,6,10,12,12,178,DYNASTIC FREEFORM,Ancient Scapes,Durandal,SPADA
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]11",-,188,RAVERS DANCE SPEED,BLUE DRAGON(雷龍RemixIIDX),青龍,SPADA
+-,4,10,11,-,6,10,12,-,180,TRANCECORE MEETS GABBA,BRAINSTORM,Hardcore United Tokyo(teranoid & DJ TECHNORCH),SPADA
+-,5,8,10,-,5,9,11,-,150,ELECTRANCE,BRAVE OUT,nomico / DOWNFORCE,SPADA
+-,2,6,9,-,2,8,10,-,165,ILUZIO,Claiomh Solais,DJ Yoshitaka VS S.S.D.,SPADA
+-,4,8,11,-,4,9,11,-,190,PHARAO BEAM STEP,Cleopatrysm,ピラミッ℃,SPADA
+-,5,10,12,12,"[CN]5","[CN]9","[CN]12","[CN]12",188,J-CORE,Close the World feat.a☆ru,天叢雲剣,SPADA
+1,"[CN]6","[CN]8","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,191,DANCE SPEED,Critical Crystal,青龍,SPADA
+-,"[CN]5","[CN]8","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,202,MASSIVE DANCE SPEED,Dark Fall,黒龍,SPADA
+-,6,9,12,-,7,9,12,-,196,DARK ELEMENT,DARK LEGACY,BaSTeT,SPADA
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,175,SYMPHONIC BREAK BEATS,Devilz Sacrifice -贖罪の羊-,OSTER project,SPADA
+-,3,7,11,-,4,7,11,-,112,GLITCH HOP,diagram,Expander,SPADA
+-,6,9,11,"[HCN]12",5,8,12,"[HCN]12",180,UK HARDCORE,Elektrick U-Phoria,DJ Noriken,SPADA
+-,3,7,9,11,3,6,9,11,170,HEALING POP,Element of SPADA,猫叉Master feat.霜月はるか,SPADA
+-,4,8,11,-,4,8,11,-,188,HAPPY SAD CORE,Engraved Mark,Ryu☆ ∞ Des-ROW,SPADA
+-,"[BSS]5","[BSS]8","[BSS]11",-,"[BSS]5","[BSS]9","[BSS]10",-,148,TECHNO,EXTREME MACH COLLIDER,L.E.D.,SPADA
+-,7,10,12,12,6,9,11,12,175,HARDCORE RAVE,Feel The Beat,Falsion,SPADA
+-,3,6,11,-,4,7,11,-,115,JAG GLITCH,Funny shuffle,猫叉Master+,SPADA
+-,6,9,11,-,5,8,11,-,178,BIG BEAT,HYENA,Hommarju,SPADA
+-,5,8,10,-,5,8,11,-,175,DRUM&BASS,Hypersonik,Eagle,SPADA
+-,"[BSS]6","[BSS]9","[BSS]11",-,"[BSS]6","[BSS]10","[CN][BSS]12",-,172,ONLY ONE MOMENT,I will be back -オレは帰ってきた-,SUPER STAR 満-MITSURU-,SPADA
+-,6,10,12,-,6,10,12,-,201,REPLICANT CORE,Idola,iconoclasm feat.GUMI,SPADA
+-,4,7,11,-,4,8,10,-,146,Hi-TECH FULL ON,Insane Techniques,kors k,SPADA
+-,4,8,12,-,4,8,12,-,195,FUNKOT,INSOMNIA,ジャカルタファンクブラザーズ,SPADA
+-,4,8,10,-,5,7,10,-,180,SYMPHONIC BREAKS,into the battlefield,the wandering bard,SPADA
+-,5,9,12,12,6,10,12,12,195,TRIBE CORE,invoker,Caladborg,SPADA
+-,7,10,12,12,6,10,11,12,170,HEAVY METAL,KAISER PHOENIX,96,SPADA
+-,"[BSS]3","[BSS]7","[BSS]11",-,"[BSS]3","[BSS]8","[BSS]10",-,180,PROGRESSIVE GOSPEL,KHAMEN BREAK,くふおー,SPADA
+-,"[CN][BSS]6","[BSS]10","[BSS]12",-,"[CN][BSS]6","[BSS]10","[CN][BSS]12",-,150,HARD STACC,Last Dance,dj TAKA,SPADA
+-,4,7,11,-,4,7,11,-,162,TRANCE POP,Lighting Shower,TAG,SPADA
+-,3,6,10,-,5,8,11,-,202,PIECED DOWNBEAT,M.D.Injection,Project B-,SPADA
+-,6,9,11,-,6,9,11,-,205,TOKYO STYLE SPEEDCORE,m1dy Deluxe,m1dy,SPADA
+-,3,6,9,-,3,6,10,-,140,UPBEAT,MAD ATTACK,HALFBY,SPADA
+-,5,9,11,-,4,8,11,-,185,HAPPY CORE,MAGIC & LOVE,DJ Genki feat. Yukacco,SPADA
+-,"[CN]5","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,210,FRENCHCORE,Miracle 5ympho X,USAO,SPADA
+-,5,8,10,-,5,9,10,-,165,ELECTRO POP,NPC World,PON,SPADA
+-,4,7,10,-,5,7,10,-,160-180,GABBER,Odin,Noizenecio,SPADA
+-,5,8,11,-,6,9,11,-,175,HARDCORE RAVE,Overload Frontier,DJ Shimamura,SPADA
+-,3,8,11,-,3,8,9,-,180,ANCIENT CIVILIZATION,Pharaoh,劇団レコード,SPADA
+-,5,9,12,-,5,9,12,-,180,VARIANT RAVE,PUNISHER,TAG×PON,SPADA
+-,"[CN][BSS]8","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,111-222,RAVERS DANCE SPEED,ra'am,雷龍,SPADA
+-,5,9,11,-,6,9,12,-,156,BRIGHTNESS,rainbow guitar weeps,dj TAKA,SPADA
+-,5,7,9,-,6,7,8,-,182,POPS,Recollection,Noria,SPADA
+-,3,7,11,-,4,7,11,-,154,PSYCHEDELIC TRANCE,refractive index,Sota Fujimori,SPADA
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,182,DRUMSTEP,RISE,Dirty Androids,SPADA
+-,6,9,10,-,8,10,12,-,177,HAPPY HARDCORE,RIZING YOU UP,Ryu☆,SPADA
+-,6,9,11,-,7,9,11,-,150,FULL ON,SCHWARZSCHILD FIELD,L.E.D.,SPADA
+-,7,"[CN]10","[CN]12","[CN]12",7,"[CN]10","[CN]12","[CN]12",200,REQUIEM PSY,Sigmund,Gram,SPADA
+-,5,8,11,-,5,8,11,-,173,WITHOUT YOU TONIGHT -VI-,Squeeze,VENUS feat. Mutsuhiko Izumi,SPADA
+-,7,10,11,-,8,9,10,-,173,NU STYLE GABBA,THE DETONATOR,teranoid VS L.E.D.-G,SPADA
+-,5,9,11,-,5,9,12,-,170,BREAKBEATS TRANCE,Unicorn tail,DJ YOSHITAKA,SPADA
+-,4,7,11,-,4,7,11,-,175,MAINSTREAM HARDCORE,Valgus,DJ Myosuke feat.yukacco,SPADA
+-,6,10,12,"[CN][BSS]12",7,10,12,12,180,HARD NRG,Verflucht,Tyrfing,SPADA
+-,8,11,12,-,7,11,12,-,202,ROTTERDAM TECHNO,VOX UP,sampling masters MEGA vs 青龍,SPADA
+-,4,6,11,-,5,7,10,-,160,EUROBEAT,Wonder Girl feat. Kanae Asaba,Y&Co.,SPADA
+-,5,8,11,-,5,8,11,-,192,ASTRAL HARDCORE,ÆTHER,TAG underground,SPADA
+-,4,8,11,-,4,8,11,-,157,ZODIAC ORACLE X,牧神笛吹きて,楽士ゾディアック,SPADA
+1,5,8,10,-,5,8,10,-,144,BLOOM FUSION,アルストロメリア,TAG,SPADA
+1,5,9,11,-,5,10,12,-,208,J-SPEEDMETAL,バンブーソード・ガール,cosMo@暴走P,SPADA
+-,3,7,10,-,4,7,11,-,130,乙女EDM,超!!遠距離らぶ♡メ～ル,ななひら,SPADA
+-,7,10,12,-,7,10,12,-,183,HARD SYMPHONIC,煉獄のエルフェリア,猫叉Master+,SPADA
+1,4,7,10,-,4,7,11,-,193,J-POP,幻想系世界修復少女,Last Note.,SPADA
+-,3,9,11,-,4,9,11,-,145,ELECTRIC MANOUSH SWING,デッドボヲルdeホームラン,猫叉Masterβ2,SPADA
+-,6,10,12,"[CN]12",6,10,12,"[CN]12",180,ORIENTAL CORE,疾風迅雷,KUMOKIRI,SPADA
+-,"[CN][BSS]6","[CN][BSS]11","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]11","[CN][BSS]12",-,198,BLOOD METAL,IX,dj TAKA VS DJ TOTTO feat.藍,SPADA
+-,5,8,10,-,5,8,10,-,143,CYBER SYMPHONIC POP,お願いアインシュタイン,中山真斗 feat.桜川めぐ,SPADA
+-,"[BSS]6","[BSS]10","[BSS]12",-,"[BSS]6","[BSS]10","[BSS]12",-,192,JUVENILE DRUM & BASS,旋律のドグマ～Misérables～,楓璃夢=ジークフリード=ファイエルローゼン,SPADA
+-,6,10,12,-,6,10,12,-,180,ベースボールヒロイン,轟け！恋のビーンボール！！,ダイナミック野球兄弟 v.s. クロスファイヤーPrim,SPADA
+-,5,7,10,-,6,8,10,-,144,HYPER J-POP,罪と罰,Xceon feat. Mayumi Morinaga,SPADA
+-,5,8,10,12,5,8,10,12,120-160,新世紀進歩的羽扇子音楽,廿,DJ TECHNORCH,SPADA
+-,"[CN][BSS]7","[CN]10","[CN]12",-,"[CN][BSS]7","[CN][BSS]10","[CN]12",-,159,HYDRO CORE,海神,兎々,SPADA
+-,5,8,11,-,5,9,11,-,145,AFRO-SAMBA,AFRO KNUCKLE,猫叉Master+,PENDUAL
+-,5,8,10,12,5,8,10,12,192,NEO CLASSICAL DANCE,Beat Radiance,iNO,PENDUAL
+-,5,10,11,-,6,9,"[CN]11",-,140,WORLD/ELECTRONICA,Beyond The Earth,猫叉Master,PENDUAL
+-,5,8,"[CN]11",-,5,8,"[CN]11",-,175,HARDCORE RAVE,Blaze it UP!,DJ Shimamura,PENDUAL
+-,5,10,12,-,5,9,11,-,170,NU STYLE GABBA,BLUE MIRAGE,DJ CHUCKY,PENDUAL
+-,7,10,12,-,6,9,12,-,160,DUAL ANTIQUE,Broken Sword,金獅子 VS 麒麟,PENDUAL
+-,4,8,10,-,7,9,11,-,153,FULL ON,Chain of pain,kors k VS 猫叉Master+,PENDUAL
+-,3,6,9,10,3,6,9,10,185,HEALING DRUM'N'BASS,chrono diver -fragment-,猫叉Master feat.三澤 秋,PENDUAL
+-,5,9,11,"[BSS]12",5,9,11,"[BSS]12",185,CYBER DRUM & BASS,CHRONO DIVER -NORNIR-,L.E.D.,PENDUAL
+3,7,11,12,-,7,11,12,-,196,CHRONO BREAKS,Chrono Diver -PENDULUMs-,猫叉L.E.D.Master＋,PENDUAL
+-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]11","[CN]11","[CN][BSS]5","[CN][BSS]9","[CN][BSS]11","[CN]11",128,PROGRESSIVE,Chronos,TAG,PENDUAL
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,216,MAELSTROM,cinder,PHQUASE,PENDUAL
+-,4,7,11,-,4,8,10,-,140,LOST GROUND,COLOSSEUM,劇団レコード,PENDUAL
+-,6,9,11,"[CN]12",6,8,10,"[CN]12",160,FUTURE BASS,Cosmic Cat,8bit Moonside,PENDUAL
+-,7,10,12,-,7,10,12,-,205,HARD IRISH SYMPHONIC,Despair of ELFERIA,猫叉Master,PENDUAL
+-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,"[CN]6",9,11,-,128-145,Hi-TECH PSYTRANCE,Discloze,lapix,PENDUAL
+-,6,9,12,"[CN]12",6,9,12,"[CN]12",※,RAGTIME CHIPTUNE,EBONY & IVORY,OSTER project,PENDUAL
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,185,SACRED TRANCE,entelecheia,Rche,PENDUAL
+-,4,8,11,-,4,8,11,-,192,FALLIN APART CORE,Erosion Mark,kors k REASM Des-ROW,PENDUAL
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]9","[CN]12",-,165,WORLD/ELECTRONICA,fallen leaves -IIDX edition-,猫叉Master,PENDUAL
+-,7,10,12,-,7,"[CN]10",12,-,185,DUB COMEDY,FANTASTIC THREE,ジャカルタファンクブラザーズ
+-,6,"[CN][BSS]9","[CN][BSS]12",-,6,9,12,-,180,DRUM'N'BASS,Flashes,Dollscythe,PENDUAL
+-,5,10,"[BSS]12",-,5,9,12,-,160,PROGRESSIVE SCHRANZ,Gravigazer,DJ TOTTO,PENDUAL
+-,5,8,11,-,6,9,11,-,180,GABBAH,HELL SCAPER -Last Escape Remix-,Remixed by DJ TECHNORCH fw.GUHROOVY,PENDUAL
+-,5,9,11,-,5,8,11,-,182,HAPPY HARDCORE,Hello Happiness,P*Light feat. mow*2,PENDUAL
+-,"[BSS]3","[BSS]8","[BSS]10",-,"[BSS]3","[BSS]9","[BSS]11",-,146,SYNTHETIC EDM,illuminate,Sota Fujimori,PENDUAL
+-,5,10,12,-,5,9,11,-,145,GOA TRANCE,IMPLANTATION,TOMOSUKE,PENDUAL
+-,4,7,9,-,5,8,10,-,123-142,HYBRID,In The Breeze,96 & Sota ft. Mayumi Morinaga,PENDUAL
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]9","[CN][BSS]12",-,230,HOLIC,Invitation from Mr.C,C-Show,PENDUAL
+-,5,8,9,-,5,8,11,-,150,PSYCHEDELIC TRANCE,IXION,L.E.D.,PENDUAL
+-,4,9,11,-,6,9,11,-,141,ELECTRO TECH,Line 4 Ruin,Ryu☆,PENDUAL
+-,"[BSS]4","[CN][BSS]8","[CN][BSS]12",-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]11",-,201,ARTCORE ROCK,Monopole.,cosMo＠暴走P,PENDUAL
+-,5,9,12,-,6,10,11,-,182,MAINSTREAM HARDCORE,NEO GENERATOR SEVEN,L.E.D.-G,PENDUAL
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]12",-,192,PUMPCORE,Night sky,USAO,PENDUAL
+-,6,9,11,-,6,9,10,-,170,HARD EDM,No Tears,RoughSketch feat.Aikapin,PENDUAL
+-,5,7,10,-,5,7,10,-,150,HARDSTYLE,On My Wings(Hardstyle IIDX),kors k,PENDUAL
+-,"[BSS]5","[BSS]8","[BSS]11",-,4,8,"[BSS]10",-,150-160,SYSTEM BGM,PENDUAL TALISMAN,猫叉L.E.D.Master,PENDUAL
+-,6,9,"[CN]12",-,6,"[CN]9","[CN]12",-,282,EDM SPEED,Rave*it!! Rave*it!!,機龍,PENDUAL
+-,6,9,11,-,6,9,11,-,149,SOLITUDE,Realize Maze,movies (moimoi×Xceon×Dai.),PENDUAL
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,150,TRANCESTEP,Reflux,Eagle,PENDUAL
+-,6,8,"[CN][BSS]11",-,6,8,"[CN][BSS]10",-,187,CHIPCORE,Sakura Mirage,Ryu☆,PENDUAL
+-,4,7,10,-,4,7,10,-,164,DIMENSION WAVE,SAMSARA,SOUND HOLIC feat. Nana Takahashi,PENDUAL
+-,6,9,12,-,6,10,12,-,135,EDM,Say YEEEAHH,kors k,PENDUAL
+-,6,"[CN]9","[CN][BSS]11",-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,180,J-CORE,Scarlet Moon,REDALiCE feat. Ayumi Nomiya,PENDUAL
+-,"[CN]5","[CN]8","[CN]11",-,"[CN]5","[CN]8","[CN]11",-,165,WORLD/ELECTRONICA,Scars of FAUNA,猫叉Master,PENDUAL
+-,6,10,12,-,6,10,12,-,160,MUSIC GAME TRADITIONAL,Shooting Fireball,dj TAKA,PENDUAL
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]9","[CN]12",-,175,UK HARDCORE,Sounds Of Summer,Hommarju,PENDUAL
+-,6,9,12,-,6,9,12,-,172,RAGTIME FUTURE POP,SpaceLand☆TOYBOX,OSTER project,PENDUAL
+-,4,7,10,-,4,6,10,-,150,ELECTRO POP,Sweet Radar,DJ Genki feat. Yukacco,PENDUAL
+-,6,10,12,-,6,9,11,-,163,EPIC ELECTRONICA,Symmetry,猫叉Master,PENDUAL
+-,5,8,"[CN][BSS]10",-,5,"[CN][BSS]8","[CN][BSS]10",-,160,EUROBEAT,TA・DA☆YO・SHI,Y&Co.,PENDUAL
+-,5,9,12,-,6,9,12,-,200-264,PROGRESSIVE,The Least 100sec,Sasaki Hirofumi,PENDUAL
+-,6,9,12,-,6,9,12,-,165,DEEP SPECTRUM,TIEFSEE,SOUND HOLIC Vs. dj TAKA feat. YURiCa,PENDUAL
+-,7,10,12,-,7,10,12,-,197,MELODIC SPEED METAL,TOXIC VIBRATION,SOUND HOLIC Vs. T.Kakuta feat. YURiCa,PENDUAL
+-,5,9,11,-,5,9,11,-,205,GYPSYCORE,Vulkan,Hommarju,PENDUAL
+-,6,10,12,-,6,10,12,-,185,HAPPY HARDCORE,We're so Happy (P*Light Remix) IIDX ver.,Remixed by P*Light,PENDUAL
+1,6,10,"[CN]12",-,6,"[CN]10",12,-,154,INTELLIGENCE,ZZ,D.J.Amuro,PENDUAL
+-,5,9,10,-,6,8,11,-,85,DRUM'N'WALTZ,妖隠し -あやかしかくし-,DJ TOTTO feat.3L,PENDUAL
+-,"[BSS]4","[BSS]7","[CN][BSS]10","[CN][MSS]11","[BSS]4","[CN][BSS]7","[CN][BSS]11","[CN][MSS]11",179,A-STYLE DRUMSTEP,ベィスドロップ・フリークス,かめりあ feat. ななひら,PENDUAL
+3,6,9,12,-,6,9,11,-,181,J-CORE,紅牡丹,DJ NAGAI feat. a☆ru,PENDUAL
+1,"[BSS]5","[BSS]8","[BSS]11",-,"[BSS]5","[BSS]9","[BSS]11",-,156,JAPANESE TRADITIONAL,打打打打打打打打打打,ヒゲドライバー join. SELEN,PENDUAL
+-,5,8,11,-,6,9,11,-,180,ドタバタ☆夏休み,ドッキン☆サマーあばんちゅーる,L.E.D.-G + Qrispy Joybox + ARM feat. ななひら,PENDUAL
+-,"[BSS]6",10,12,-,"[CN][BSS]6",10,12,-,165,Hi-FUNK BREAKS,表裏一体！？怪盗いいんちょの悩み♥,◇◆噂の怪盗少女 ぷらずま★彡Prim◇◆,PENDUAL
+-,5,7,"[CN]10",-,"[CN]6","[CN]8","[CN]10",-,160,HYPER J-POP,十六夜セツナ,Xceon feat.Mayumi Morinaga,PENDUAL
+-,6,9,11,-,6,9,11,-,234,TIME TRIP JAZZ,時空トラベローグ,SWING HOLIC feat. A～YA,PENDUAL
+-,3,6,9,"[BSS]11",4,6,9,"[BSS]11",175,KANA-POP,恋は白帯、サンシロー,星野奏子,PENDUAL
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,190,ASTRAL DRUM & BASS,共鳴遊戯の華,アイテール魔導士隊,PENDUAL
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,200,OLDSTYLE GAMEMUSIC,リリーゼと炎龍レーヴァテイン,黒猫ダンジョン,PENDUAL
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6",9,11,-,185,きらめきコア,もっと！モット！ときめき feat. 松下,シャイニング度胸兄弟,PENDUAL
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,190,HAPPY SUMMER CORE,夏色DIARY - L.E.D.-G STYLE MIX -,猫叉王子 feat.L.E.D.-G,PENDUAL
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]10","[CN]12",-,161,ASURA TEK CORE,鬼天,兎々,PENDUAL
+2,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,160,電波ソング,パ→ピ→プ→Yeah!,ヒゲドライバー join. shully & Nimo,PENDUAL
+-,5,7,11,-,4,7,10,-,175,ぷろぐれっしぶ電波,ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！,ARM(IOSYS) feat. 山本椛,PENDUAL
+-,6,9,12,"[CN]12",6,9,12,"[CN]12",153,WORLD/ELECTRONICA,千年ノ理,猫叉Master,PENDUAL
+-,2,6,9,-,2,6,9,-,166,想歌 風,白露の風,Qrispy Joybox feat. 常盤ゆう,PENDUAL
+-,6,"[CN]10","[CN][BSS]12",-,7,"[CN]10","[CN]12",-,140,ムラクモ,少年は空を辿る,Power Of Nature,PENDUAL
+3,6,10,12,-,7,10,12,-,182,Hi-歌謡コア,それは花火のような恋,夏色バーニングラブ☆Prim,PENDUAL
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]5","[CN]9",11,-,170,DUBCORE,#The_Relentless,DJ Noriken,PENDUAL
+1,5,8,10,-,5,8,10,-,160,HYPER J-POP,取り残された美術(Arranged:HiZuMi),幽閉サテライト feat. senya,PENDUAL
+-,5,8,11,-,6,9,11,-,120,TROPICAL,とろぴかる倶楽部,HALFBY,PENDUAL
+-,6,9,11,12,6,8,12,12,150,PIECED EUPHORIA,超青少年ノ為ノ超多幸ナ超古典的超舞曲,Project B-,PENDUAL
+-,5,8,11,-,5,9,12,-,172,新世紀進歩的羽扇子音楽,Ｘ↑Ｘ↓,DJ TECHNORCH,PENDUAL
+-,"[HCN]4","[HCN][HBSS]9","[HCN][HBSS]11",-,"[HCN][HBSS]5","[HCN][HBSS]9","[HCN][HBSS]11",-,150,HARD DANCE,Acid Pumper,ni-21,copula
+-,6,9,11,-,6,9,11,-,200,HAPPY で HARDCORE,Angelic Jelly,t+pazolite,copula
+-,7,"[CN]10","[CN]12",-,7,"[CN]10","[CN]12",-,195,DANCE EXPRESS,AO-1,電龍,copula
+-,6,8,"[HCN]10",-,6,8,"[HCN]10",-,143,UPLIFTING TRANCE,Arcana,Maozon,copula
+-,5,"[CN]8","[CN]11",-,5,"[CN]8","[CN]11",-,156,POST J-TRADITIONAL,Aublia,onoken feat. ALIAKE,copula
+-,4,10,11,-,6,9,12,-,160,HARD DANCE,Battle Train -IIDX Edition-,Sota Fujimori,copula
+-,7,10,12,-,6,10,12,-,172,DREAM CORE,Blue Spring Express,DJ Scratch & Bend,copula
+-,5,8,10,-,4,8,10,-,158,FUTURE BASS,Central Station,Recycle,copula
+-,5,9,11,-,7,9,12,-,210,HARD STEP,chaos eater -IIDX edition-,猫叉Master+,copula
+-,5,9,12,-,5,9,12,-,145,TECHNO,CODE:1 [revision1.0.1],HEXA,copula
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,205,ラッキーハードコア,Daily Lunch Special,Lucky Vacuum,copula
+-,"[CN]4","[CN]7","[CN]9","[CN]10",4,7,"[CN]10","[CN]11",177,CYBER DRUMSTEP,Damage Per Second,Maozon,copula
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]10","[CN]11",-,150,HARD DANCE,Derelict Star feat. Ryu*,Remo-con,copula
+-,6,10,12,-,6,10,12,-,180,MAINSTREAM HARDCORE,Devil's Gear,DJ Myosuke,copula
+-,"[HCN]7","[HCN]10","[HCN]12",-,"[HCN]7","[HCN]10","[HCN]12",-,180,HARD ELECTRIC POP,DIAMOND CROSSING,S-C-U vs L.E.D.,copula
+-,3,8,10,-,3,8,10,-,135,EDM,do the thing feat. Kanae Asaba,MK,copula
+-,"[HCN]6","[HCN]9","[HCN]10",-,"[HCN]6","[HCN]9","[HCN]11",-,155,DONK,Donkey Donk,Ryu☆,copula
+3,"[CN]7","[CN]10","[CN][BSS]12",-,"[CN][BSS]8","[CN][BSS]10","[CN][BSS]12",-,100,HYBRID TWERK,Dynamite,USAO,copula
+-,4,8,10,-,5,8,10,-,140,J-DANCE POP,Everlasting Last,HHH×MM×ST,copula
+-,4,7,9,-,4,7,9,-,142,FUTURE JERSEY,Exchange Place,Dirty Androids,copula
+-,5,8,10,-,5,8,10,-,145,ELECTRONIC DANCE,GENERATE feat.綾倉盟,Masayoshi Minoshima,copula
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]9","[CN]11",-,140,GAMER'S ELECTRO/COMPLEXTRO,Glitch Nerds,かめりあ,copula
+-,5,7,10,-,5,9,11,-,150,TRAPSTYLE,Go Faraway,DJ Noriken feat. Yukacco,copula
+-,4,7,11,-,7,12,11,-,160,CANTERBURY&BEAT,GOBBLE,Kimitaka Matsumae,copula
+-,"[HCN]7","[HCN]10","[HCN]12",-,"[HCN]7","[HCN]10","[HCN]12",-,165,JOINT WORK,Godspeed,dj TAKA xxx 猫叉Master xxx L.E.D.,copula
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,191,HARD ART CORE,Grand Chariot,xi,copula
+-,"[HCN]6","[HCN]10","[HCN]12",-,"[HCN]6","[HCN]10","[HCN]12",-,200,BEMANIZED DIGITAL ROCK,Highcharge Divolt,HuΣeR,copula
+-,5,9,11,-,5,8,11,-,146,HiTECH FULLON,Inner Spirit,lapix,copula
+-,3,6,9,11,4,7,9,11,112,WORLD/ELECTRONICA,Journey,猫叉Master,copula
+-,6,10,12,-,7,10,11,-,160,JUNGLE CLASSIC,Konzert V,Remo-con vs. dj TAKA,copula
+-,4,8,"[CN]10",-,5,8,"[CN]11",-,220,PRIMAVERA JAZZ WALTZ,La dolce primavera,OSTER project,copula
+-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,150,HDM,M4K3 1T B0UNC3,kors k,copula
+-,5,7,10,-,5,7,10,-,150,HARDSTYLE,Musik LoverZ,RoughSketch,copula
+-,5,9,10,-,5,9,10,-,192,METAL POPS,NANAIRO,LIQU@。,copula
+-,7,10,12,-,7,10,12,-,190,SORROW STEP,Nightmare before oversleep,猫叉Master,copula
+-,6,9,12,-,6,9,12,-,111-222,SHINOBI SPEED,NINJA IS DEAD IIDX ver.,P*Light,copula
+-,4,6,10,-,4,6,10,-,150,ONLY ONE DANCE MUSIC,NO LIMIT -オレ達に限界は無い-,SUPER STAR 満-MITSURU- vs. 伝説のダンサー マイク,copula
+-,4,8,10,-,5,9,11,-,140,ELECTRO TRANCE,Nowhere,Nhato,copula
+-,"[HCN]6","[HCN]9","[HCN]12",-,"[HCN]6","[HCN]10","[HCN]12",-,190,END ROLL,NZM,The 4th,copula
+-,"[CN]6","[CN][BSS]8","[CN][BSS]11",-,"[CN]6","[CN][BSS]8","[CN]11",-,200,RADIO SHOWCASE,On the FM,C-Show,copula
+-,6,9,11,-,6,9,11,-,195,FRENCHCORE,Outbreak,USAO,copula
+3,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,23-185,PSYCHIC FLASH,POSSESSION,TAG underground,copula
+-,1,3,5,-,1,5,6,-,145,J-TEKNO,quick master (reform version),youhei shimizu,copula
+-,6,10,12,-,6,10,12,-,158,TRANCE,refrain,dj TAKA feat.AiMEE,copula
+-,5,8,11,-,5,9,11,-,170,HARDCORE,Rock It,Hommarju,copula
+-,6,9,11,-,7,9,11,-,144,JAZZY-ELECTRO,Routing,かめりあ,copula
+-,4,7,11,-,4,7,11,-,273,CHAOTIC SPEEDCORE,SEITEN NO TERIYAKI,Kobaryo,copula
+-,5,8,10,-,5,8,10,-,154,TRANCE,Sephirot,SHIKI,copula
+-,4,8,10,-,4,8,11,-,140,HARD TRANCE,Set U Free feat. Kanae Asaba,Y&Co.,copula
+-,6,9,11,-,6,9,11,-,185,ROCKIN´ DRUM&BASS,SHELTER OF THE MIND,YURiCa/花たん,copula
+-,5,9,11,-,5,9,11,-,199,DANCE SPEED GOLD,STARLiGHT,星龍,copula
+-,6,9,11,12,7,9,11,12,177,HAPPY EMOTION,STARLIGHT DANCEHALL,P*Light,copula
+-,6,10,12,-,6,9,12,-,303,FANTASY,StrayedCatz,削除,copula
+-,4,8,10,-,5,8,10,-,170,HARDCORE,Super Duper Racers,kors k & Numb'n'dub,copula
+-,4,7,9,-,5,7,10,-,150,GRAVITY POP,SURVIVOR,SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi,copula
+-,1,6,10,-,3,7,11,-,132,WORLD/ELECTRONICA,Tori-no-kimochi,猫叉Master+,copula
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,216,RISK + VACUUM,Triple Counter,DJ YOSHITAKA meets dj TAKA,copula
+-,5,8,11,-,5,8,10,-,175,CANDY RAVE,Uh-Oh,kors k,copula
+-,2,8,10,-,2,8,10,-,134,GLITCH ELECTRO,Violet Pulse,G.K,copula
+-,7,9,11,-,7,10,11,-,152,LATIN JAZZ TRIO,Violet Rose,OSTER project,copula
+-,4,10,11,"[HCN][HBSS]12",7,9,11,"[HCN][HBSS]12",170,HARDCORE,Welcome,Uraken,copula
+-,7,10,12,-,7,10,12,-,180,RENAISSANCE,X,D.J.Amuro,copula
+-,5,9,11,"[CN]12",5,9,11,"[CN]12",180,BLOOM CORE,ZEPHYRANTHES,TAG,copula
+-,5,10,12,-,5,10,12,-,143,TECH BREAKBEATS,199024club -Re:BounceKiller-,DJ Mass MAD Izm*,copula
+-,"[HCN]5","[HCN]8","[HCN]10",-,"[HCN]5","[HCN]9","[HCN]11",-,134,空想ファンタジーシリーズ,少女アリスと箱庭幻想コンチェルト,DJ TOTTO,copula
+-,4,7,10,-,4,7,10,-,162,HYPER J-POP,オルタネイトβ,Xceon feat. Mayumi Morinaga,copula
+-,"[BSS]5","[BSS]9","[BSS]11",-,"[BSS]5","[BSS]9","[BSS]11",-,100-218,ARTCORE ROCK,朝焼けから始まるボクらの小さな旅,cosMo＠暴走P,copula
+2,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,155,ORIENTAL TECHDANCE,紫陽花 -AZISAI-,Camellia Vs. Expander,copula
+-,6,10,12,-,6,10,12,-,282,にゃんコア,駅猫のワルツ,ミニョンヌ鉄道兄弟,copula
+-,"[CN]4","[CN]8",10,-,"[CN]4","[CN]8",10,-,169,Hi-RESORT電波,ギョギョっと人魚♨爆婚ブライダル,海の底からマーメイド♨Prim by ARM×狐夢想,copula
+-,6,9,11,-,6,9,11,-,175,SUMMER WORKOUT,か・し・ま・し☆PUMP UP！,miko,copula
+-,6,"[CN]9","[CN]11",-,6,"[CN]10","[CN]11",-,280,エピックプログレ,量子の海のリントヴルム,黒猫ダンジョン,copula
+-,5,9,11,-,"[HCN]5","[HCN]9","[HCN]11",-,208-290,禅ジャズ,明鏡止水,TOMOSUKE feat. あさき,copula
+-,7,10,12,-,7,10,12,-,160,電波デステクノ,めいさいアイドル☆あいむちゃん♪,DJ SHARPNEL feat. みらい,copula
+-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,150,ORBITALICTRO,セロトニン,U1 overground,copula
+-,"[BSS]7","[BSS]11","[BSS]12",-,"[BSS]7","[BSS]11","[BSS]12",-,165,BROKEN SAMBA BREAK,灼熱 Pt.2 Long Train Running,DJ Mass MAD Izm*,copula
+-,4,6,10,-,4,6,10,-,110,GLITCH JAZZ,星屑ディスタンシア,ARM feat. 普透明度 + Brasscapsule,copula
+-,6,10,11,-,6,10,11,-,170,FUTURE E-POP,追想快晴テーマパーク,PHQUASE,copula
+-,5,8,10,-,5,8,10,-,182,KANA-POP,シュッパツシンコウ・シサカンコ,星野奏子,copula
+-,"[HCN][HBSS]7","[HCN][HBSS]10","[HCN][HBSS]12",-,"[HCN][HBSS]7","[HCN][HBSS]11","[HCN][HBSS]12",-,165,新世紀進歩的羽扇子音楽,真 地獄超特急 -HELL or HELL-,DJ TECHNORCH Vs. L.E.D.Light-G,copula
+1,5,9,11,-,6,10,11,-,155,WINTER GLOW,麗 ～うらら～,SOUND HOLIC feat. Nana Takahashi,copula
+2,"[CN]5","[CN][BSS]9","[CN][BSS]11","[CN][BSS]12","[CN]5","[CN]9","[CN]11","[CN][BSS]12",153,HiTECH FULLON,Amazing Mirage,lapix,SINOBUZ
+-,6,9,10,-,6,9,10,-,191,DANCE SPEED,AO-∞,青龍,SINOBUZ
+-,5,9,"[CN]12",-,5,9,12,-,165,EPIC D'N'B,Apocalypse,Morrigan feat. リリィ,SINOBUZ
+-,5,9,11,-,7,10,11,-,145,UPLIFTING TRANCE,Around The Galaxy,NISH,SINOBUZ
+-,5,8,11,-,6,9,11,-,132-157,WORLD,AsiaN distractive,猫叉劇団,SINOBUZ
+-,"[CN]6","[CN]10","[CN]11",-,"[CN]7","[CN]10","[CN]12",-,163,SPIRAL STAIRS,BabeL ～Grand Story～,Ako Atak,SINOBUZ
+-,4,9,11,-,5,8,11,-,174,ALTERNATIVE TECHNO POP,Be A Star,PHQUASE feat.ぁゅ,SINOBUZ
+-,6,9,11,-,6,9,11,-,66-198,DJ BATTLE,Beat Juggling Mix,Hommarju,SINOBUZ
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]6","[CN]8","[CN]10",-,175,HARDCORE RAVE,Believe in you,DJ Shimamura feat. Renna,SINOBUZ
+-,4,7,11,-,4,8,11,-,142,TRANCE,Beyond The Seven,Nhato,SINOBUZ
+-,5,9,11,-,5,8,11,-,106-150,FESTIVAL SOUND,BREAK OVER,MASAYOSHI IIMORI,SINOBUZ
+-,"[CN]4","[CN][BSS]8","[CN][BSS]10",-,"[CN]5","[CN][BSS]8","[CN][BSS]11",-,206,MOOMBAHCORE,Breakin' Chain,REDALiCE feat. MONICO,SINOBUZ
+-,7,9,11,12,7,9,11,12,207,SUPER ULTIMATE HYPER CORE,BroGamer,USAO,SINOBUZ
+-,6,10,12,-,6,10,12,-,170,HARD TRAP,Caterpillar,Eagle,SINOBUZ
+-,3,8,11,-,4,9,11,-,※,ANTHEM,crew,beatnation Records,SINOBUZ
+-,5,9,11,-,5,9,11,-,150,DREAM COLLABORATION,Cyber True Color,kors k vs Sota Fujimori,SINOBUZ
+-,6,10,12,-,7,10,12,-,169,ARCHAIC TALE EP1,DORNWALD ～Junge～,DJ TOTTO,SINOBUZ
+-,"[HCN]6","[HCN]10","[HCN]12",-,"[HCN]7","[HCN]10","[HCN]12",-,146,HYBRID BUCHIAGE TRANCE,ECHIDNA,HuΣeR,SINOBUZ
+-,6,8,11,-,6,8,11,-,196,FUTURE BEATS,Egret and Willow,Dirty Androids,SINOBUZ
+-,3,6,8,-,3,6,8,-,135,EDM,elemental bender feat. Kanae Asaba,MK,SINOBUZ
+-,5,9,12,-,6,9,12,-,190,HYPER DIGIMETAL,FUZIN RIZIN,SOUND HOLIC feat. Nana Takahashi & 709sec.,SINOBUZ
+-,7,"[CN]10","[CN]12",-,7,"[CN]10","[CN]12",-,200,TRANCE CORE,Go Ahead!!,Ryu☆ Vs. Sota,SINOBUZ
+-,"[CN]7","[CN]11","[CN][BSS]12","[CN][BSS]12","[CN]7","[CN]10","[CN]12","[CN]12",222,REQUIEM PSY,GuNGNiR,Gram,SINOBUZ
+2,5,9,12,-,5,9,12,-,155,HARDSTYLE,HADES,Massive New Krew,SINOBUZ
+-,"[CN]4",9,11,-,"[CN]5","[CN]9","[CN][BSS]11",-,185,HAPPY,HAPPY★RUSH,P*Light,SINOBUZ
+-,5,8,11,-,5,8,11,-,160,HYPER TRAP,Honey Trap,Expander,SINOBUZ
+-,6,10,11,-,7,10,11,-,184,NEUROFUNK,INVISIBLE STRIX,L.E.D.,SINOBUZ
+-,5,8,"[CN]11",-,4,8,11,-,185,DRUM'N'BASS,Lost wing at.0,猫叉Master+,SINOBUZ
+3,7,10,11,-,7,10,11,-,148,PIANO CONTEMPORARY,Macuilxochitl,TOMOSUKE,SINOBUZ
+-,4,6,10,-,4,6,10,-,174,KAWAII FUTURE BASS,Magical,Snail's House,SINOBUZ
+-,"[BSS]7","[BSS]11","[BSS]12",-,"[BSS]7","[BSS]10","[BSS]12",-,256,EXPERIMENTAL,Mare Nectaris,神楽,SINOBUZ
+-,6,10,11,-,6,10,11,-,170,TECHNO,Modular Technology,Sota Fujimori,SINOBUZ
+-,4,8,10,-,4,8,10,-,128,TURBOFUNK,Music is The Answer,C-Show,SINOBUZ
+-,5,8,11,-,5,9,11,-,86-144,NOSTALGIA,nostos,Setaria Virtuoso,SINOBUZ
+-,3,7,10,-,3,7,10,-,140,BUBBLEGUM DANCE,OOO,Ryu☆ feat.moimoi,SINOBUZ
+-,6,10,"[CN]12",-,6,10,12,-,215,POP BREAKCORE,OTENAMI Hurricane,t+pazolite,SINOBUZ
+-,5,8,11,-,5,8,11,-,147,MONDO-GROOVE BASSHOUSE,PAPAYAPA BASS,かめりあ feat. ななひら,SINOBUZ
+-,5,9,10,-,5,9,10,-,170,BEAT PIANO MUSIC,Piano Samurai,maras k(marasy＋kors k),SINOBUZ
+-,"[CN]6","[CN]10","[HCN]12",-,"[CN]7","[CN]10","[HCN]12",-,190,HARD BREAK BEATS,Quakes,dj Hellix,SINOBUZ
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,159,TRANCE,RAIN,dj TAKA,SINOBUZ
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,160,SPEED RAVE,Rave Cannon,kors k,SINOBUZ
+-,5,8,10,-,5,8,10,-,165,哀愁EUROBEAT,Remedy feat. Kanae Asaba,Y&Co.,SINOBUZ
+-,5,8,11,-,5,8,11,-,157,HARDSTYLE,RISING FIRE HAWK,L.E.D.-G,SINOBUZ
+3,"[BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[BSS]6","[CN][BSS]9","[CN][BSS]11",-,199,RDM,ROTTERDAM SHOGUN,ABDI from ジャカルタファンクブラザーズ,SINOBUZ
+-,5,9,11,12,6,9,11,12,150,TECH BREAKBEATS,SAMURAI-Scramble,DJ Mass MAD Izm*,SINOBUZ
+-,6,9,11,-,6,9,11,-,130-195,PIECED MAKIBISHI,Sarutobi Champion is 拙者,Project B-,SINOBUZ
+-,"[CN]5","[CN]8","[CN][BSS]12",-,"[CN]5","[CN][BSS]9","[CN][BSS]11",-,165,SHINOBI RAVE,SAY BAY,P*Light,SINOBUZ
+-,4,7,9,-,4,6,9,-,136,80's SYNTH FUNK,Seaside Labyrinth,Dirty Androids,SINOBUZ
+-,3,5,9,-,3,6,9,-,135,R&B,Selfish Sweet,OSTER project feat. かなたん,SINOBUZ
+-,5,10,11,-,6,10,12,-,145,TECHNO,SEQUENCE CAT,SLEDLAKE (SLAKE & L.E.D.),SINOBUZ
+-,"[CN]4","[CN]6","[CN]10",-,"[CN]4","[CN]8","[CN]11",-,160,CHIPTUNE,shuriken,ヒゲドライバー,SINOBUZ
+-,6,9,10,-,6,9,10,-,190,CANDY ROCK,SINOBUZ Fantasy,Noria,SINOBUZ
+3,6,10,12,-,6,10,12,-,153,ANTHEM,Sky High,Cuvelia,SINOBUZ
+-,"[HCN]6","[HCN]10","[HCN]12",-,"[HCN]6","[HCN]10","[HCN]12",-,156,ASIAN CONTEMPORARY,Snakey Kung-fu,金獅子 vs 麒麟 feat. 獏,SINOBUZ
+-,"[HCN]5","[HCN]8","[HCN][HBSS]12",-,"[HCN]5","[HCN]9","[HCN]11",-,177,DRUM&BASS,Steel Edge,Maozon,SINOBUZ
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,175,HARDCORE RAVE,Summerlights(IIDX Edition),DJ Noriken,SINOBUZ
+-,6,9,"[CN]12",-,6,9,"[CN]12",-,190,HARDTEK,Super Rush,kors k,SINOBUZ
+-,"[CN]4","[CN]8","[CN]10",-,"[CN]4","[CN]8","[CN]10",-,60-160,ELECTRO FUSION,Surf on the Light,Tomoyuki Uchida,SINOBUZ
+-,3,7,10,12,3,7,10,12,162,J-POP,Sweet Clapper,livetune+,SINOBUZ
+-,5,8,10,-,5,8,11,-,150,HARDSTYLE,The Commanders,USAO,SINOBUZ
+-,4,8,11,-,5,8,11,-,33-130,BIG BEAT/BREAKBEATS,(This Is Not) The Angels,Hommarju,SINOBUZ
+-,"[HCN]5","[HCN]10","[HCN]12",-,"[HCN]5","[HCN]10","[HCN]12",-,152,HARD TRANCE,TOGAKUSHI,SETUP,SINOBUZ
+-,3,7,10,"[HCN]12",3,7,10,"[HCN]12",138,UPLIFTING TRANCE,Umbral,Maozon,SINOBUZ
+-,6,10,12,-,7,10,11,-,190,JUMP UP/HARDCORE,Venom,kors k vs L.E.D.-G,SINOBUZ
+-,5,8,10,-,5,8,10,-,143,HARD HOUSE,Vermilion,Remo-con,SINOBUZ
+-,5,8,"[CN]10",-,5,9,"[CN]10",-,175,MAINSTREAM HARDCORE,Warrior,DJ CHUCKY feat. Jonjo,SINOBUZ
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,164,CYBER JAZZSTEP,XINOBIKILL,SOUND HOLIC feat. Nana Takahashi,SINOBUZ
+-,"[BSS]5","[BSS]8","[BSS]11",-,"[BSS]5","[BSS]8","[BSS]11",-,154,夏の夕暮れと、DUBSTEP。,yamabiko (SINOBUZ Edition),かめりあ,SINOBUZ
+-,4,"[CN]9","[CN]11",-,4,"[CN]9","[CN]11",-,176,ALTERNATIVE ELECTRO,Yellow Sketch(RX-Ver.S.P.L.),高田雅史,SINOBUZ
+-,6,10,12,-,6,10,12,-,165,LAST ARTS,刃図羅,猫叉Master vs HuΣeR,SINOBUZ
+-,3,5,7,-,2,5,7,-,180,ACEDIA,ちらちら・はらはら,NU-KO,SINOBUZ
+-,3,7,11,-,4,7,11,-,210,ネオスカ電波,ディッシュウォッシャー◎彡おいわちゃん,ARM×狐夢想 feat. 山本椛,SINOBUZ
+-,5,9,12,-,5,9,12,-,262,空想ファンタジーシリーズ,童話回廊,DJ TOTTO,SINOBUZ
+-,6,10,12,-,7,10,12,-,192,HARDCORE,焔極OVERKILL,RoughSketch Vs. L.E.D.-G,SINOBUZ
+1,5,7,10,11,5,7,10,11,155,HYPER ENKA POP,冬椿 ft. Kanae Asaba,Xceon,SINOBUZ
+-,5,9,12,-,6,9,12,-,136,HIP HOP,焱影,RoughSkreamZ feat.楽天斎,SINOBUZ
+-,"[CN]6","[CN]9","[CN]12",-,"[CN]6","[CN]9","[CN]12",-,195,WORLD/ELECTRONICA,イザナミノナゲキ,猫叉Master,SINOBUZ
+-,4,"[CN]8","[CN]10",-,4,"[CN]8","[CN]10",-,180,POP ROCK,次葉 -turn the page-,小寺可南子,SINOBUZ
+-,7,10,11,-,7,10,11,-,190,CROSSBREED,鴉,L.E.D.-G,SINOBUZ
+-,5,8,10,-,5,8,10,-,128,理系ポップ,恋はどう？モロ◎波動OK☆方程式!!,あべにゅうぷろじぇくと feat. 佐倉紗織 produced by ave;new,SINOBUZ
+-,5,9,12,-,5,9,12,-,145,ORIENTAL FUSION,九尾狐夜行,天狐,SINOBUZ
+-,6,9,"[CN]12",-,6,9,11,-,100,NEON/TWERKCORE,#MAGiCVLGiRL_TRVP_B3VTZ,DJ Noriken,SINOBUZ
+-,"[BSS]6","[BSS]9","[BSS]12",-,"[BSS]6","[BSS]10","[BSS]12",-,160,HiTECH,〆,lapix,SINOBUZ
+-,5,9,11,-,5,9,11,-,189,忍歌,忍恋花,黒脛,SINOBUZ
+-,"[HCN]4","[HCN]6","[HCN]9",-,"[HCN]3","[HCN]6","[HCN]9",-,100,DRAMATIC WALTZ,獅子霞麗ノ舞,HuΣeR,SINOBUZ
+-,5,9,11,-,5,9,11,-,170,ORBITALIC FUTURE BASS,禍根,U1 overground,SINOBUZ
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,160,MICHINOKU,津軽雪,罠師 VS 安室,SINOBUZ
+-,"[CN]5","[CN]7","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,70-125,FOREST SNOW,月雪に舞う華のように,猫叉Master,SINOBUZ
+-,"[CN]5","[CN]8","[CN]10",-,4,9,"[CN]11",-,135,TRIBAL HOUSE,¡Viva!,Ryu*,CANNON BALLERS
+-,7,10,12,-,7,10,12,-,174,RENAISSANCE,AA -rebuild-,D.J.Amuro,CANNON BALLERS
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,165,DUBSTEP,Abraxas,SYUNN,CANNON BALLERS
+-,6,8,10,-,5,8,10,-,153,SYNTH-TECH,ACCELERATE,Sota Fujimori,CANNON BALLERS
+-,2,5,9,-,3,5,"[CN]9",-,154,PIANO TRANCE,Alpheratz,Xceon,CANNON BALLERS
+-,4,8,11,-,5,8,11,-,138,熱帯 THE BASS,Amor De Verão,かめりあ feat. ななひら,CANNON BALLERS
+-,5,8,10,-,5,8,10,-,150,PSY TECH DANCE,ANAGMA,C-Show,CANNON BALLERS
+-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,180,STYLISH CROSSOVER,ANCHOR,BEMANI Sound Team "HuΣeR Vs. SYUNN",CANNON BALLERS
+-,"[HCN][HBSS]6","[HCN][HBSS]10","[HCN][HBSS]12",-,"[HCN][HBSS]6","[HCN][HBSS]9","[HCN][HBSS]12",-,222,HARDCORE DANCE SPEED,Antigravity,t+pazolite,CANNON BALLERS
+-,5,9,12,-,5,9,12,-,185,GENESIS,Arca,BEMANI Sound Team "Akhuta Works",CANNON BALLERS
+-,6,9,11,-,6,9,11,-,162,CYBERCORE,Around the Future,Maozon vs. C-Show,CANNON BALLERS
+-,"[BSS]6","[HCN][HBSS]9","[HCN][HBSS]11",-,"[BSS]6","[HCN][HBSS]9","[HCN][HBSS]11",-,155,WAGON WHEEL TRANCE,Back Spin Sweeper,DJ TOTTO,CANNON BALLERS
+-,6,9,11,-,6,9,11,-,165,SCHRANZ,Battleground,kors k,CANNON BALLERS
+-,4,9,11,-,5,9,11,-,190,DIGITAL THRASH PUNK,Be a Hero!,中島由貴,CANNON BALLERS
+-,"[HCN]6","[HCN]9","[HCN]11",-,"[HCN]6","[HCN]9","[HCN]11",-,195,SPEED EURO,Beast mode,BEMANI Sound Team "TAG",CANNON BALLERS
+-,4,8,10,-,4,8,"[CN]10",-,177,CYBER LIQUID FUNK,Best of Me,Maozon,CANNON BALLERS
+2,6,"[CN][BSS]9","[CN][BSS]12",-,6,"[CN][BSS]9","[CN][BSS]12",-,174,NEO JUNGLE,Boomy and The Boost,Eagle,CANNON BALLERS
+-,"[CN]6","[CN]9","[CN]10",-,"[CN]6","[CN]9","[CN]10",-,184,DRUMSTEP/HARDCORE,Break Stasis,Hommarju & Akira Complex,CANNON BALLERS
+-,6,9,11,-,6,9,11,-,140,CYBERNETICS PIANO HOUSE,ChaserXX,HuΣeR,CANNON BALLERS
+-,5,8,10,-,5,8,11,-,180,FUTURE BASS,Chemical Cookie,YUC'e,CANNON BALLERS
+-,"[CN]7","[CN]9","[CN]11",-,"[CN]7","[CN]9","[CN]11",-,178,DRUM&BASS,City Never Sleeps (IIDX Edition),Dirty Androids,CANNON BALLERS
+-,4,7,9,-,5,7,9,-,152,COSMIC POP,COSMIC☆WONDER☆REVOLUTION,猫叉Master+,CANNON BALLERS
+-,6,10,12,-,7,10,12,-,200,HARDCORE,DEADHEAT,DJ Myosuke,CANNON BALLERS
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,200,世紀末コア,DEATH†ZIGOQ～怒りの高速爆走野郎～,L.E.D.ALiCE(DJ NAGAI Vs. BEMANI Sound Team "L.E.D.-G"),CANNON BALLERS
+-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,50-400,PUMPCORE,DropZ-Line-,Getty vs. DJ DiA,CANNON BALLERS
+-,5,8,11,-,5,9,12,-,170,VELLUM,Eine Haube ～聖地の果てにあるもの～,AIKO OI,CANNON BALLERS
+"[HCN]3","[HCN][HBSS]7","[HCN][HBSS]11","[HCN][HBSS]12",-,"[HCN][HBSS]7","[HCN][HBSS]11","[HCN][HBSS]12",-,88-176,IRREGULAR DJENT STEP,EMERALDAS,BEMANI Sound Team "HuΣeR vs dj Hellix",CANNON BALLERS
+-,5,9,12,-,5,9,12,-,190,DRUM'N'BASS,encounter,猫叉Master+,CANNON BALLERS
+-,5,9,11,-,5,9,11,-,147,HARD BASS HOUSE,Exhaust Hype,DJ Noriken,CANNON BALLERS
+-,4,8,10,-,4,8,10,-,200,MIDDLE EASTERN TWERK,Expanded !!,BEMANI Sound Team "Expander",CANNON BALLERS
+-,5,9,11,-,5,9,11,-,191,ARTCORE,Fervidex,Feryquitous,CANNON BALLERS
+-,5,8,11,-,5,8,11,-,150,HYPER DUBSTEP,FREEDOM,USAO,CANNON BALLERS
+-,4,9,10,-,4,10,11,-,140,TECH HOUSE,From Time To Time,sanodg,CANNON BALLERS
+-,5,8,11,-,5,8,11,-,※,HOLIC,FUTURE is Dead,C-Show,CANNON BALLERS
+-,3,"[CN]7","[CN]9",-,4,"[CN]7","[CN]9",-,130,TROPICAL HOUSE,Get Up! feat. Kanae Asaba,MK,CANNON BALLERS
+-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,150,HANDZ STYLE,HAT TRICK,P*Light,CANNON BALLERS
+-,"[BSS]4","[BSS]7","[CN][BSS]10",-,"[BSS]4","[BSS]8","[CN][BSS]10",-,132-150,FREE STYLE,Hella Deep,MASAYOSHI IIMORI,CANNON BALLERS
+-,6,10,11,-,7,10,12,-,190,GABBA,HYPE THE CORE,DJ CHUCKY,CANNON BALLERS
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,170,EURO TRANCE,I Love You,O/iviA,CANNON BALLERS
+-,"[CN]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,180,EMOTIONAL RAVE EUPHORIA,Illusionary Waterlily,DJ Noriken,CANNON BALLERS
+"[HCN]3","[HCN]7","[HCN]10","[HCN][HBSS]12",-,"[HCN]7","[HCN]10","[HCN]12",-,160,00's TECHNO,Initiation,BEMANI Sound Team "謎の勢力",CANNON BALLERS
+-,6,10,12,-,7,10,12,-,195,UPTEMPO HARDCORE,Life Is A Game ft.DD"ナカタ"Metal,RoughSketch,CANNON BALLERS
+-,"[CN]5","[CN]7","[CN]10",-,"[CN]5","[CN]7","[CN]10",-,188,POPCORE,LUV DRIVE,RoughSketch feat.Aikapin,CANNON BALLERS
+-,5,9,"[CN]11",-,5,9,"[CN]11",-,154,ADMIRABLE,MAXIVCORD,BEMANI Sound Team "dj TAKA",CANNON BALLERS
+-,"[CN]4","[CN]6","[CN]9",-,"[CN]4","[CN]6","[CN]9",-,128,NU 80's DISCO FUNK,Midnight Lady,Dirty Androids,CANNON BALLERS
+-,4,"[CN][BSS]8","[CN][BSS]11",-,5,"[BSS]8","[CN][BSS]11",-,300,FUTURE TERROR,n'pa pa BBQ,YUC'e,CANNON BALLERS
+-,"[CN]7","[CN]10",12,-,"[CN]7","[CN]10","[CN]12",-,169,MACHINEGUN PSYSTYLE,NITROUS CANNON,かめりあ,CANNON BALLERS
+-,5,8,11,-,5,8,11,-,155,HYPER TECHNO,No Limit 2 dAnce feat. 大山愛未,Y&Co.,CANNON BALLERS
+-,5,8,11,-,6,9,11,-,160,ULTRA JAZZFUNKTION,Nothing but Theory,lapix,CANNON BALLERS
+-,6,"[CN]8","[CN]10",-,6,"[CN]10","[CN]11",-,155,TECHNO,O/D*20,Ryu*,CANNON BALLERS
+-,4,8,10,-,5,8,10,-,150,PSYCHDELIC TRANCE,Only for now,RINA SOUND PRODUCE:KAZUYA TAKASE,CANNON BALLERS
+-,7,"[CN]10","[CN]12",-,7,10,"[CN]12",-,180,DRUMSTEP,Papilio ulysses,BEMANI Sound Team "SYUNN",CANNON BALLERS
+-,6,9,12,-,6,10,12,-,155,HARDSTYLE,Persephone,Massive New Krew,CANNON BALLERS
+-,6,"[BSS]10","[CN][BSS]12",-,7,"[BSS]10","[BSS]12",-,195,HARDCORE,Rampage,USAO,CANNON BALLERS
+-,7,10,12,-,7,10,12,-,142,PANIC FUSION,Raspberry Railgun,OSTER project,CANNON BALLERS
+-,5,8,11,"[CN][BSS]12",5,8,11,"[CN][BSS]12",160,Hi-TECHDANCE,REVOLVER,sky_delta,CANNON BALLERS
+-,4,6,9,-,4,6,9,-,188,THE WORLD EVOLVE,Sleepless days,猫叉Master feat.Mayumi Morinaga,CANNON BALLERS
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]9","[CN]12",-,175,FUTURE CORE,Slipstream,lapix,CANNON BALLERS
+-,"[CN]5","[CN][BSS]8","[CN][BSS]10",-,"[CN]5","[CN][BSS]8","[CN][BSS]11",-,190,HARDTEK,SPEED DEMON,GUHROOVY feat. NO+CHIN,CANNON BALLERS
+-,4,8,10,-,4,8,10,-,160,HEAV'NLY TRANCE,STARLIGHT JUNCTION,SOUND HOLIC feat. Nana Takahashi,CANNON BALLERS
+-,"[CN]6","[CN]9","[CN]10",-,"[CN]6","[CN]9","[CN]10",-,138,ELECTRO TRANCE,Static State,Nhato,CANNON BALLERS
+-,"[CN]5","[CN]8","[CN][BSS]11",-,"[CN]5","[CN]8","[CN][BSS]11",-,155,PSYSTYLE,Temple of Anubis,Massive New Krew,CANNON BALLERS
+2,6,10,11,-,6,10,11,-,170,EUROBEAT,THE CANNONBALLER,L.E.D. feat. YURiCa/花たん,CANNON BALLERS
+-,"[CN][BSS]5","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]5","[CN][BSS]10","[CN][BSS]12",-,142,TECH BREAKS,The Chase,DJ Mass MAD Izm*,CANNON BALLERS
+2,6,"[CN]10","[CN][BSS]11",-,"[CN]7","[CN]10","[CN][BSS]11",-,180,OSHARave,UMMU,t+pazolite,CANNON BALLERS
+-,5,9,11,-,7,10,12,-,139,DANCE POP,Usual Days-remix,ota2,CANNON BALLERS
+"[CN]3","[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,200,HYBRID HARDCORE,Xperanza,aran,CANNON BALLERS
+-,5,8,10,-,5,8,10,-,147,JAZZ ROCK,1001 -ESCAPE-,SOUND HOLIC feat. Nana Takahashi,CANNON BALLERS
+-,"[CN]6","[CN]9","[CN]10",-,"[CN]6","[CN]9","[CN]10",-,129-220,BEAT PIANO MUSIC,2 Player,maras k/marasy×kors k,CANNON BALLERS
+-,6,9,12,-,6,9,12,-,255,HYPER SPEED RAVE,255,255,CANNON BALLERS
+-,"[CN][BSS]5","[CN]9","[CN][BSS]11",-,"[CN][BSS]5","[CN]8","[CN][BSS]11",-,175,電波ソング,バ→ビ→ブ→Bomb!,ヒゲドライバー join. 新菜まこ & 松平なな,CANNON BALLERS
+-,5,8,10,-,5,8,10,-,155,CLASSIC MOTIF,バスルーム ロマンス,BEMANI Sound Team "Saori Watanabe",CANNON BALLERS
+-,7,10,12,-,7,10,12,-,190,NATURE,シムルグの目醒め,BEMANI Sound Team "DJ TOTTO" feat.rionos,CANNON BALLERS
+-,4,8,11,-,4,8,11,-,183,STRANGE WORLD MUSIC,命の標本,志方あきこ,CANNON BALLERS
+-,4,8,10,-,4,8,10,-,180,HARD FRENCH,エディブルフラワーの独白,OSTER project feat. 常盤ゆう,CANNON BALLERS
+-,4,7,10,-,5,8,10,-,157,YANKEE CAR J TRANCE,ハイ*ビスカス ft. Kanae Asaba,Xceon,CANNON BALLERS
+1,4,8,10,-,4,8,10,-,182,EMOTIONAL ROCK,純真可憐デザイア,BEMANI Sound Team "HuΣeR" feat.Fernweh,CANNON BALLERS
+-,3,7,10,-,3,7,10,-,219,ELEGANT SWING,共犯ヘヴンズコード,D-Evoke(与那嶺雅人/小日向翔),CANNON BALLERS
+-,"[CN]5","[HCN]8","[HCN]10",-,"[CN]5","[HCN]8","[HCN]11",-,170,FUTURE J-POP,ラストセンチュリーメランコリック,DJ Taku aka ☆Taku Takahashi (m-flo),CANNON BALLERS
+-,5,7,9,-,5,7,9,-,170,歌謡ニューウェーブ,ナイトシティー・アヴァンチュール,森永真由美,CANNON BALLERS
+-,5,9,11,-,5,9,11,-,188,AKIBA-POP,パラドキシカル・タイムリープトライアル(Short Ver.),MOSAIC.WAV,CANNON BALLERS
+-,3,7,10,-,4,8,10,-,142,JOURNEY SCENE,草原の王女-軌跡を辿って-,劇団レコード,CANNON BALLERS
+-,7,10,12,-,7,10,12,-,180,Hi-MYTH,神謳 -RESONANCE-,SOUND HOLIC feat. Nana Takahashi Vs.GOD PHOENIX Prim,CANNON BALLERS
+2,6,9,12,-,6,9,12,-,196,ORBITALIC GABBER STEP,東京神話,"DJ TECHNORCH feat.宇宙★海月 vs BEMANI Sound Team "U1-ASAMi",CANNON BALLERS
+-,6,8,11,-,6,8,11,-,210,プログレッシブ徒競走,うさ☆かめ 大戦争！,ARM×狐夢想 feat. I've:柚子乃 & RINA,CANNON BALLERS
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]12",-,232,ASYMMETRY ART,Afterimage d'automne,BEMANI Sound Team "猫叉劇団",Rootage
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,150,DANCE MUSIC,BLACK JACKAL,Akira Complex,Rootage
+-,5,8,"[CN]10",-,5,8,"[CN]10",-,158,BLOOM TRANCE,BLO§OM,BEMANI Sound Team "TAG",Rootage
+3,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN]6","[CN][BSS]10","[CN]12",-,195,SYMPHONIC TRANCECORE,Carmina,CANVAS feat. Quimär,Rootage
+3,"[CN]7","[CN]9","[CN][BSS]12",-,"[CN]6","[CN]9","[CN][BSS]12",-,175,FUTURE CORE,Carry Me Away,lapix,Rootage
+-,6,10,12,-,6,10,12,-,190,MARVELOUS CHEER,Catch Our Fire!,中島由貴,Rootage
+-,5,9,11,-,6,10,11,-,125,BIG BEAT,CODE:Ø,BEMANI Sound Team "HEXA",Rootage
+-,6,9,10,-,6,10,10,-,150,UPLIFTING ETHNIC,CoMAAAAAAA,Ryu☆,Rootage
+-,5,9,11,-,6,9,11,-,170,BIGCORE,COSMIC CYBER,BEMANI Sound Team "Captain Sonic",Rootage
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,138,GARAGE,Cranberry City ft. Luschel,lapix,Rootage
+-,6,10,12,-,6,10,12,-,166,HARDER DANCE MUSIC,dAuntl3ss,DJ Noriken,Rootage
+-,5,9,12,-,5,9,12,-,165,INDUSTRIAL TECHNO,Dr. Chemical & Killing Machine,Hommarju,Rootage
+-,7,10,12,-,7,10,12,-,166,8BARS,Drastic Dramatic,KING & Princess,Rootage
+-,7,10,12,-,7,9,11,-,145,MINIMAL,DRUNK MONKY,DJ ODDBALL,Rootage
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,148,FUSION TRANCE,Ember Lights,Nhato,Rootage
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,127-165,PROGRESSIVE ROCK,EVANESCENT,SOUND HOLIC feat. Nana Takahashi,Rootage
+-,5,"[CN]9","[CN]11",-,6,"[CN]9","[CN]11",-,160,JUKE/FOOTWORK,Garuda,kors k,Rootage
+-,"[CN]5","[CN]8","[CN][BSS]10",-,"[CN]5","[CN]8","[CN][BSS]10",-,177,CYBER DRUMSTEP,Geirskögul,Maozon,Rootage
+-,7,"[CN]10",12,-,7,"[CN]9",12,-,163,TECHNO GRAFFITI,GENE,VINCENT GANATCH,Rootage
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]7","[CN]9","[CN]12",-,150,DUBSTEP,GIGA THRASH,Blacklolita,Rootage
+-,4,7,9,-,4,7,10,-,134,EDM,Glory,kradness,Rootage
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,170,HARDSTYLE,GO OVER WITH GLARE -ROOTAGE 26-,BEMANI Sound Team "L.E.D.-G",Rootage
+-,"[CN]6","[CN]9","[CN]12",-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,155,HARD TECHNO,HARD BRAIN,AJURIKA,Rootage
+2,"[CN]6","[CN]10","[CN]11",-,"[CN]6","[CN]10","[CN]11",-,152,ELETRONIC RHAPSODY,HEISEI,BEMANI Sound Team "dj TAKA",Rootage
+2,5,9,10,-,5,9,10,-,170,IIDX EDITION,HOT LIMIT,Remixed by BEMANI Sound Team "HuΣeR feat.PON",Rootage
+-,4,6,9,-,4,6,9,-,160,RAVE SXXX,Hurry Hurry,Masayoshi Iimori,Rootage
+-,"[BSS]7","[BSS]9","[BSS]11",-,"[BSS]7","[BSS]10","[BSS]11",-,140,TECH-BREAKS,IDC feat.REVERBEE (Mo'Cuts Ver),DJ Mass MAD Izm*,Rootage
+-,"[CN]4","[CN]7","[CN]10",-,"[CN]4","[CN]7","[CN]10",-,145,PSYCHEDELIC ROCK,IDOL syndrome.,RINA,Rootage
+-,7,10,12,-,7,10,12,-,162,PSYSTYLE,KILL EACH OTHER,BEMANI Sound Team "L.E.D. VS. L.E.D.-G",Rootage
+-,5,"[BSS]9","[BSS]12",-,5,"[BSS]9","[BSS]12",-,180,UK HARDCORE,L.F.O,aran,Rootage
+-,7,9,"[BSS]11",-,7,"[BSS]9","[BSS]11",-,230,GLITCH HOP,LADYBIRD,YUC'e,Rootage
+-,5,7,10,-,5,8,10,-,192,ELECTRIC DANCE ROCK,Let me be your cure,Pizuya's Cell,Rootage
+-,6,"[CN]9","[CN][BSS]12",-,6,"[CN]9","[CN][BSS]12",-,90-180,RECKLESS HARDCORE,Lethal Weapon,BEMANI Sound Team "HuΣeR",Rootage
+-,"[CN]6","[CN][BSS]10","[CN][BSS]12",-,"[CN]7","[CN][BSS]10","[CN][BSS]12",-,173,Drumstep / DnB,Level One,Yamato,Rootage
+-,5,8,10,-,5,8,10,-,150,MELODIC TRANCE,Lift Us High,BEMANI Sound Team "Sota Fujimori",Rootage
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]9","[CN]12",-,157,TECHNO,LOST TECHNOLOGIE,かめりあ,Rootage
+-,"[BSS]6","[BSS]10","[BSS]12",-,"[BSS]6","[BSS]10","[BSS]12",-,150,JUNGLE TERROR,Mächö Mönky,kors k,Rootage
+-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,"[CN]6","[CN]9","[CN][BSS]12",-,150,GLITCH DUBSTEP,Necroxis Girl,BEMANI Sound Team "HuΣeR",Rootage
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]8","[CN]11",-,180,THEME SONG,Next Tales 2 Oath (IIDX 20th Anniv "Ring" Theme),Hommarju,Rootage
+-,6,9,11,-,6,9,12,-,165,EURO DYNAMITE,Night! Night! Night!,MM,Rootage
+-,"[CN][BSS]6","[CN][BSS]10","[HCN][HBSS]12",-,"[CN][BSS]6","[CN][BSS]10","[HCN][HBSS]12",-,400,TOKYO STYLE SPEEDCORE,ONIGOROSHI,m1dy,Rootage
+-,3,5,8,-,3,6,9,-,134,ELECTRO POP,OVER TIME,空中分解feat.アンテナガール,Rootage
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,192,DRUM'N'BASS,Painful Fate,BEMANI Sound Team "猫叉Master",Rootage
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,160,SPEED RAVE,Playing With Fire,kors k,Rootage
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,230,JAZZY HOLIC,Please Welcome Mr.C,C-Show,Rootage
+-,3,"[CN]7","[CN][BSS]9","[CN][MSS]11",3,"[CN]7","[CN][BSS]9","[CN][MSS]11",150,RIDDIM DUBSTEP,Psycho Sheep Riddim,BEMANI Sound Team "SYUNN",Rootage
+-,"[BSS]7","[BSS]10","[BSS]12",-,"[BSS]7","[BSS]10","[BSS]12",-,160,TECH-BREAKS,Red. by Jack Trance,DJ Mass MAD Izm*,Rootage
+-,4,8,10,-,6,9,11,-,140,TECHNO,REPLAY,SLAKE,Rootage
+-,"[CN]7","[CN]9","[CN]11",-,"[CN]7","[CN]9","[CN]11",-,150,TRANCE,ROCK女 feat. 大山愛未， Ken,Y&Co.,Rootage
+"[CN]3","[CN]5","[CN]8",11,-,"[CN]5",8,11,-,150,NEO J-TEKNO,R∞tAge,BEMANI Sound Team HuΣeR+,Rootage
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,220-390,IRIDESCENCE JAZZ ETUDE,ruin of opals,上ノ瀬つかさ,Rootage
+-,3,7,10,-,3,7,11,-,150,FESTIVAL TRAP,Serious?,KSUKE,Rootage
+-,"[CN]4","[CN]9","[CN]10",-,"[CN]4","[CN]9","[CN]10",-,145,PSYCHEDELIC TRANCE,SPEED ROCKER,AJURIKA,Rootage
+-,5,"[CN]8","[CN]10",-,5,"[CN]8",10,-,170,HDM,Technicolour Dreams,DUNE & M-Project & GUHROOVY,Rootage
+-,3,"[CN]8","[CN]10",-,3,"[CN]8","[CN]10",-,160,EUROTRAPBEAT,The Best of Both Worlds,"☆Taku Takahashi (m-flo, block.fm)",Rootage
+-,7,10,"[CN]12",-,7,"[CN]10","[CN]12",-,181,HARD ELECTRIC POP,THE DAY OF JUBILATIONS,BEMANI Sound Team "S-C-U vs L.E.D.",Rootage
+-,"[BSS]7","[CN][BSS]10","[CN][BSS]12",-,"[BSS]7","[CN][BSS]10","[CN][BSS]12",-,300,DJENTCORE,The Rebellion of Sequencer,DJ Myosuke,Rootage
+-,4,7,10,-,4,7,10,-,137-205,ELEMENTAL JIG,The Sealer ～ア・ミリアとミリアの民～,Zektbach,Rootage
+-,4,8,10,-,4,8,10,-,190,BOXINGCORE,toy boxer,BEMANI Sound Team "S-C-U & SYUNN",Rootage
+-,4,7,9,-,7,9,11,-,137-180,NEW AGE,ToyCube Pf.(RX-Ver.S.P.L.),高田雅史,Rootage
+-,6,10,12,-,6,10,12,-,188,MUSIC GAMES HARDCORE,Trill auf G,BEMANI Sound Team "dj TAKA",Rootage
+-,4,7,9,-,4,7,9,-,145,CYBER DANCE MUSIC,Twilight Warp,Maozon feat. Kyte,Rootage
+3,6,"[BSS]9","[BSS]11",-,6,"[BSS]9","[BSS]11",-,177,IIDX EDITION,U.S.A.,Remixed by BEMANI Sound Team "PHQUASE feat.TRANDER Jr.",Rootage
+-,"[CN]5","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,135,METAL,Unbelief,BEMANI Sound Team "Anonymous",Rootage
+-,5,9,11,-,5,9,11,-,187,DRUM & BASS,UNDERWORLD HOLOGRAPHY,BEMANI Sound Team "L.E.D." feat. KOTOKO",Rootage
+-,"[CN]4","[CN]8","[CN]11",-,"[CN]4","[CN]8","[CN]11",-,167,JAZZY FOOTWORK JUNGLE,Urban Constellations,Dirty Androids,Rootage
+-,"[CN]6","[CN]10","[CN][BSS]12",-,"[CN]6","[CN]10","[CN][BSS]12",-,191,REBIRTH OUT,Visterhv,Feryquitous,Rootage
+-,"[CN]6","[CN]10","[CN][BSS]12",-,"[CN]6","[CN]10","[CN]12",-,225,VVV,voltississimo,BEMANI Sound Team "PHQUASE",Rootage
+-,5,"[CN]8","[CN]10",-,5,"[CN]8","[CN]11",-,187,HYPER HANDS UP,Wing of Hearts,USAO & DJ Nanashi,Rootage
+-,"[CN]4","[CN][BSS]8","[CN][BSS]11",-,"[CN]5","[CN][BSS]9","[CN][BSS]11",-,173,PIANO TRANCE,Wolf 1061,Xceon,Rootage
+1,5,8,10,-,5,8,10,-,160,IIDX EDITION,Won(*3*)Chu KissMe!,Remixed by BEMANI Sound Team "L.E.D" & IOSYS,Rootage
+-,5,9,11,-,5,9,11,-,180,CANDY RAVE GABBER,Wonderland,kors k,Rootage
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,160,ELECTRO SHOCK,XENON II ～TOMOYUKIの野望～,Mr.T,Rootage
+-,7,"[CN]10",12,-,7,10,12,-,165,NEUTRONIKA,Xlø,sasakure.UK,Rootage
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,180,FUTURE BASS,Yum Yum Jelly,YUC'e,Rootage
+-,6,9,11,-,6,9,11,-,160,ORBITALIC ORIENTAL ELECTRO,ZENDEGI DANCE,"ARM×BEMANI Sound Team "U1 overground",Rootage
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,160,MEGA MIX,& Intelligence,lapix,Rootage
+-,"[CN]4","[CN]8","[CN]10",-,"[CN]4","[CN]8","[CN]11",-,135,ANNIVERSARY,50th Memorial Songs -Beginning Story-,BEMANI Sound Team,Rootage
+-,5,8,10,-,5,8,10,-,135-175,ANNIVERSARY,50th Memorial Songs -Flagship medley-,BEMANI Sound Team,Rootage
+-,5,"[CN]9","[CN]11",-,6,"[CN]9","[CN]11",-,136,ANNIVERSARY,50th Memorial Songs -The BEMANI History-,BEMANI Sound Team,Rootage
+-,5,8,10,-,5,8,10,-,160,ANNIVERSARY,50th Memorial Songs -二人の時 ～under the cherry blossoms～-,BEMANI Sound Team,Rootage
+-,6,9,11,-,6,9,11,-,195,勤労☆電波,爆ゼニ☆がってんワーカー,ARM×狐夢想 feat. ななひら,Rootage
+-,3,6,8,-,3,6,8,-,135,ELECTRONICA,ミストレス・アンに花束を,soejima takuma feat. BEMANI Sound Team "猫叉Master",Rootage
+-,7,10,12,-,7,10,12,-,190,SPEED CANDY,お菓子の王国,Snail's House,Rootage
+-,"[CN]5","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,190,Hi-歌謡コア,抱きしめてモナムール,冬色AMOUR☆Prim,Rootage
+-,5,8,10,-,5,7,10,-,130,SPANISH GUITAR,グラナダの風,BEMANI Sound Team "劇団レコード",Rootage
+-,6,9,11,-,6,9,11,-,83-180,SOCA,花冠 feat.Aikapin,RoughSkreamZ,Rootage
+-,6,9,11,-,6,9,11,-,158,A-STYLE RUSSIAN HARDBASS,ハードベース・フェスタ,かめりあ feat. ななひら,Rootage
+-,"[CN]8","[CN]11","[CN]12",-,"[CN]8","[CN]11","[CN]12",-,200,ULTIΣATE COLLARBORATION,X-DEN,T.Σ.Generation,Rootage
+-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,225,音ゲー賛美歌,金野火織の金色提言,DJ TECHNORCH feat. 宇宙★海月,Rootage
+-,"[CN]6","[CN]10","[CN]11","[CN]12","[CN]5","[CN]10","[CN]11","[CN]12",144,RETROSPECTIVE EPIC MUSIC,龍王の霊廟(Mausoleum Of The Primal Dragon),BEMANI Sound Team "黒猫ダンジョン",Rootage
+-,"[CN]5","[CN]8","[CN][BSS]11",-,"[CN]5","[CN]9","[CN][BSS]11",-,156,BEMANIZED ROCKCORE,ミッドナイト☆WAR,いちか,Rootage
+-,4,8,10,-,4,8,10,-,161,Re 90's J-DANCE POP,夏の匂い。キミの残像。 ft. Kanae Asaba,Xceon,Rootage
+-,5,9,11,-,6,9,11,-,170,LOVELY YOUTH,おーまい！らぶりー！すうぃーてぃ！だーりん！,BEMANI Sound Team "PON" feat.NU-KO",Rootage
+1,3,7,9,-,3,7,9,-,140,IIDX EDITION,サクラあっぱれーしょん,Remixed by BEMANI Sound Team "TAG" feat. 柊木りお",Rootage
+-,3,6,9,-,3,6,9,-,138,GIRLS ROCK,セカンドピアス,OSTER project feat. echo,Rootage
+-,"[CN]4","[CN]7","[CN]10",-,"[CN]4","[CN]7","[CN]9",-,145,PIANO J TRANCE POP,深愛のリグレット,Xceon feat.Mayumi Morinaga,Rootage
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]10","[CN]12",-,220,ピタゴラス的不完全性破壊衝動音律(ハンマーによる),最小三倍完全数,DJ TECHNORCH,Rootage
+-,3,6,11,-,3,6,12,-,180,JAPANESE POPS,泰東ノ翠霞,bermei.inazawa/feat.霜月はるか,Rootage
+-,"[HCN]5","[HCN]8","[HCN][HBSS]11",-,"[HCN]5","[HCN]8","[HCN][HBSS]11",-,150,NEO DIGITAL FUTURE,Advent Infamous,Blacklolita,HEROIC VERSE
+-,6,10,12,-,7,10,12,-,205,LAPLACE CORE,AKASHIC BREAK,BEMANI Sound Team "TAG",HEROIC VERSE
+-,"[CN]4","[CN]7","[CN]9",-,"[CN]4","[CN]7","[CN]9",-,173,J-POP,And-RoiD,Fujishiro feat.KNA,HEROIC VERSE
+-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,165,MYSTICAL HARD DANCE,Artist,CANVAS feat. Quimär,HEROIC VERSE
+-,6,9,10,-,6,9,11,-,175,FUTURE BASS,Backyard Stars,TAKU INOUE,HEROIC VERSE
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,190,BEAT MUSIC,beatAffection,ビートまりお,HEROIC VERSE
+-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,"[CN]7","[CN]9","[CN][BSS]12",-,155,PRIME BIG BEAT,BEAT PRISONER,AJURIKA,HEROIC VERSE
+-,5,8,10,-,5,8,11,-,135,PROGRESSIVE TRANCE,Beautiful Harmony (IIDX Mix),Ryu☆,HEROIC VERSE
+-,4,9,11,-,4,9,11,-,165,JAZZ PIANO TRANCE,Bow shock!!,Xceon,HEROIC VERSE
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,220,JAZZ ROCK,Calvados Queen,OSTER project feat. かなたん,HEROIC VERSE
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,155,TRANCE,Change Yourself,ARM × kradness,HEROIC VERSE
+-,4,7,9,-,4,7,9,-,160,BASS HOUSE,Crank It,Crayvxn,HEROIC VERSE
+-,7,10,12,-,7,10,12,-,244,POLONAISE,Dans la nuit de l'éternité,BEMANI Sound Team "レ・度胸兄弟",HEROIC VERSE
+-,6,10,12,-,"[CN]6","[CN]10",12,-,210,FUNKY GABBER,Double Dribble,lapix,HEROIC VERSE
+-,"[CN]4","[CN]7","[CN][BSS]10",-,"[CN]4","[CN]7","[CN][BSS]10",-,160,FUTURE BASS,Do What You Want,BEMANI Sound Team "SYUNN",HEROIC VERSE
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,155,DRUMSTEP/MMETAL/DJENT,Drop It,Dazsta,HEROIC VERSE
+-,"[HCN]7","[HCN]10","[HCN]12",-,"[HCN]7","[HCN]10","[HCN]12",-,200,VERSE,EROICA,BEMANI Sound Team "HERO",HEROIC VERSE
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]11","[CN][BSS]12",-,230,EPIC ORCHESTRA,Everlasting Message,ぺのれり,HEROIC VERSE
+-,"[CN]3","[CN]6","[CN]8",-,"[CN]3","[CN]6","[CN]8",-,134,エレクトロニック/エレクトロニカ/ポップ,fairy cocktail,Tomggg,HEROIC VERSE
+-,4,7,10,-,4,8,10,-,180,DREAM DRUM'N'BASS,Fly Above (Vicissitude Remix),Remixed by BEMANI Sound Team "PHQUASE",HEROIC VERSE
+-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,174,DRUM'N'BASS,Forgetting Machine,TAKU INOUE,HEROIC VERSE
+-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,150,PROGRES BEAT,Friction[!]Function,Feryquitous,HEROIC VERSE
+-,5,8,11,-,5,8,11,-,150-180,FREEFORM HARDCORE,GHOST,Hommarju,HEROIC VERSE
+-,"[CN]6","[CN]8","[CN]11",-,"[CN]6","[CN]8","[CN]11",-,150,EDM-DUBSTYLE,GIGA VIOLATE,Blacklolita,HEROIC VERSE
+-,5,8,10,-,5,8,10,-,154,MELODIC DANCE MUSIC,Hold My Hand,BEMANI Sound Team "Sota Fujimori",HEROIC VERSE
+-,4,"[CN]7","[CN]10",-,4,"[CN]7","[CN]10",-,180,ALTANATIVE ROCK,Horizons of Promise,BEMANI Sound Team "SPIRITUAL RIDE",HEROIC VERSE
+-,3,7,9,-,3,7,9,-,130,DANCE POP,Hyper Drive feat. ぷにぷに電機,パソコン音楽クラブ,HEROIC VERSE
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,170,FUTURE BASS,If,Pa's Lam System,HEROIC VERSE
+-,"[CN][BSS]5","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,150,DJENT STEP,Inferno of Fomalhaut,fallen shepherd ft. ricono,HEROIC VERSE
+-,"[HCN]5","[HCN]8","[HCN]10",-,"[HCN]5","[HCN]8","[HCN]10",-,148,NEO 90's CINEMATIC TECHNO,Infinity Mirror,Dirty Androids,HEROIC VERSE
+-,"[CN]5","[CN]8","[CN][BSS]11",-,"[CN]6","[CN]9","[CN][BSS]11",-,155,SPOOKY,Into The Madness,Yuta Imai,HEROIC VERSE
+-,4,7,10,-,4,7,10,-,268,GIRLY POP,Jetcoaster Windy,BEMANI Sound Team "dj TAKA" feat.のの,HEROIC VERSE
+-,"[CN]4","[CN]8","[CN][BSS]12",-,"[CN]5","[CN]8","[CN][BSS]12",-,174,DRUM & BASS / HYBRID TRAP,LASER CRUSTER (IGNITE REMIX),"Remixed by BEMANI Sound Team "HuΣeR",HEROIC VERSE
+-,"[BSS]6","[BSS]9","[BSS]12",-,"[BSS]5","[BSS]10","[BSS]12",-,150,BIGBEAT / DUBSTEP,Level 2,Yamato,HEROIC VERSE
+2,"[CN]5","[CN]9","[CN][BSS]12",-,"[CN]5","[CN]9","[CN][BSS]12",-,174,Hi-GAIN ENERGY,LIGHTNING STRIKES,BEMANI Sound Team "HuΣeR",HEROIC VERSE
+-,6,9,11,-,6,9,11,-,165,EUROBEAT,Like+it!,Ryu☆,HEROIC VERSE
+-,6,"[HCN][HBSS]10","[HCN][HBSS]12",-,6,"[HCN]10","[HCN][HBSS]12",-,174,PIANO BEAT MUSIC,Lords Of The Roundtable,DJ Mass MAD Izm* feat.REO,HEROIC VERSE
+-,4,9,11,-,4,9,11,-,185,DARKSTEP,Lost Souls,BEMANI Sound Team "SYUNN",HEROIC VERSE
+-,6,9,12,-,6,9,12,-,146,TECHSTYLE,Matt Silver,Remo-con,HEROIC VERSE
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,180,DRUMSTEP,Megalara Garuda,SYUNN,HEROIC VERSE
+-,"[BSS]4","[BSS]7","[BSS]9",-,"[BSS]4","[BSS]7","[BSS]9",-,178,DRUM'N'BASS,Mel,Applekid,HEROIC VERSE
+-,5,8,11,-,5,8,11,-,153,PSYCHEDELIC TRANCE,Moving on,AJURIKA feat.矢吹真央,HEROIC VERSE
+-,"[CN]5","[CN]9","[CN][BSS]11",-,"[CN]5","[CN]9","[CN][BSS]11",-,150,Hi-TECH FULL ON,Nasty Techniques,kors k,HEROIC VERSE
+-,"[BSS]4","[CN][BSS]7","[CN][BSS]9",-,"[CN]4","[CN][BSS]7","[CN][BSS]9",-,110,INDUSTRIAL BASS,NEWALONE,Masayoshi Iimori,HEROIC VERSE
+-,5,8,10,-,5,8,10,-,145,Hi-NRG,NRG STAR '86 feat. 大山愛未,Y&Co.,HEROIC VERSE
+-,7,"[CN]10","[CN][BSS]12",-,7,"[CN][BSS]10","[CN][BSS]12",-,155,CETACEA HDM,ORCA,かめりあ,HEROIC VERSE
+-,"[CN]4","[CN]7","[CN]10",-,"[CN]4","[CN]7","[CN]10",-,140,EPIC STORY,OUTER PLANETS,BEMANI Sound Team "劇団レコード",HEROIC VERSE
+-,5,8,11,12,5,8,11,12,175,EUPHORIC HARDCORE,Override,Nhato,HEROIC VERSE
+-,6,"[CN][BSS]9","[CN][BSS]11",-,6,"[CN][BSS]9","[CN][BSS]11",-,163,PSYSTYLE,PHASE SHIFT MANEUVER,BEMANI Sound Team "L.E.D.",HEROIC VERSE
+3,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]12",-,150,TRIBAL FRONTIER,Primitive Vibes,lapix,HEROIC VERSE
+-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,200,ORBITALIC MOON MIXTURE,Queen Kaguya,BEMANI Sound Team "U1 overground",HEROIC VERSE
+-,5,8,10,-,5,8,10,-,140,UPLIFTING TRANCE,Rainstorm,Maozon feat. Chica,HEROIC VERSE
+-,7,10,12,-,7,10,12,-,175,FUTURE SKOOL BREAKBEATS HARDCORE,Rave Patroller,Eagle,HEROIC VERSE
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,175,HARD D&B,rough percussionythm,BEMANI Sound Team "setup VS 謎の勢力",HEROIC VERSE
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,174,HARDCORE,S!ck (Nhato Remix),Remixed by Nhato,HEROIC VERSE
+-,6,"[CN][BSS]9","[CN][BSS]12",-,6,"[CN][BSS]9","[CN][BSS]12",-,114,TWERKCORE // uwu // BEATJUGGLE,SCREW // owo // SCREW,かめりあ,HEROIC VERSE
+-,"[CN]4","[CN]8","[CN][BSS]11",-,"[CN][BSS]4","[CN][BSS]8","[CN][BSS]11",-,150,HARD PSY,Shiva,Relect,HEROIC VERSE
+1,"[CN]4","[CN]8","[CN]10",-,"[CN]4","[CN]8","[CN]10",-,124-153,ELECTRO NU DISCO,Silly Love,DÉ DÉ MOUSE,HEROIC VERSE
+-,4,"[CN]7","[CN]10",-,4,"[CN]7","[CN]10",-,183,"A-STYLE NEURO+"スカ"+FUNK DRUMSTEP",Ska-sh All Neurons!!,かめりあ feat. ななひら,HEROIC VERSE
+-,5,10,"[BSS]12",-,5,"[BSS]10","[BSS]12",-,215,HARDCORE,Smashing Wedge,nora2r,HEROIC VERSE
+-,"[CN]4","[CN]8","[CN]11",-,"[CN]4","[CN]8","[CN]11",-,180,TWINKLE POP,Sparkle Smilin',BEMANI Sound Team "Qrispy Joybox" feat.いちか,HEROIC VERSE
+-,6,9,11,-,6,9,11,-,170,RIDDIM CORE,STOIC HYPOTHESIS,BEMANI Sound Team "Expander",HEROIC VERSE
+-,"[CN]4",7,9,-,"[CN]4",7,10,-,135,GARAGE,Sugar Drippin',kors k,HEROIC VERSE
+-,"[CN]7","[CN]9","[CN]12",-,"[CN]7","[CN]9","[CN]12",-,200,RAVECORE,T-REX vs Velociraptor (In the Far east euphoria),RoughSketch & TARACHINE,HEROIC VERSE
+-,4,"[CN][BSS]7","[CN][BSS]10",-,4,"[CN][BSS]8","[CN][BSS]10",-,140,FUTURE JERSEY,take me higher,KOTONOHOUSE,HEROIC VERSE
+-,"[CN]6","[CN]9","[CN]12",-,"[CN]6","[CN]9","[CN]12",-,154,TECHNO,TECHNO Style Essentials,BEMANI Sound Team "SETUP from Berlin",HEROIC VERSE
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,215,HARDCORE,THE BRAVE MUST DIE,BEMANI Sound Team "L.E.D.-G",HEROIC VERSE
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,170,PIERROT CORE,THE F∀UST,Masqed Pierrot,HEROIC VERSE
+-,5,8,11,-,5,8,11,-,102-146,TRAP,Theory,YUTO,HEROIC VERSE
+-,4,8,10,-,5,8,11,-,138,WORLD/CONTEMPORARY,The Sky of Sadness,猫叉Master,HEROIC VERSE
+-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,183,UK HARDCORE,TRIUMPH,AJURIKA,HEROIC VERSE
+-,7,10,11,-,7,10,11,-,185,DANCE POP DUET,UNITE THE HEART,BEMANI Sound Team "T.Kakuta" feat. 709sec./花たん",HEROIC VERSE
+2,6,9,11,-,6,9,"[CN]11",-,184,HEROIC VALHALLA ROCK,VALKYRIAS -英雄誕生-,BEMANI Sound Team "HuΣeR" feat.Fernweh,HEROIC VERSE
+-,"[CN][BSS]5","[CN][BSS]7","[CN][BSS]10",-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,176,EMO STEP,VIBRΛ,Nhato Vs. MK,HEROIC VERSE
+-,5,10,"[CN]12",-,5,10,"[CN]12",-,160,ANTHEM TRANCE,Vinculum stellarum,iconoclasm,HEROIC VERSE
+-,"[HCN]4","[HCN]7","[HCN]10",-,"[HCN]5","[HCN]7","[HCN][HBSS]10",-,132,PROGRESSIVE DISCO,Virus Funk,Nhato,HEROIC VERSE
+-,6,8,"[CN][BSS]11",-,6,8,"[CN][BSS]11",-,175,HARDCORE RAVE,Volcanic Dragon,DJ Shimamura,HEROIC VERSE
+-,5,8,10,-,5,7,10,-,137,TRIBAL DANCE,Voo Doo Bamboleo,SOUND HOLIC Vs. ZYTOKINE feat. CALEN,HEROIC VERSE
+-,6,9,11,12,6,9,11,12,160,HARD STACC,Ypsilon,BEMANI Sound Team "setup",HEROIC VERSE
+-,5,9,11,-,5,8,11,-,150,HIP HOP,27th style,三代目 "dj TAKA & DAYBREAKERS",HEROIC VERSE
+-,5,8,11,-,5,9,11,-,126,PIANO CHRONICLE,バッドエンド・シンドローム,アリスシャッハと魔法の楽団,HEROIC VERSE
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]9","[CN]12",-,208,TWINKLE POP,魅惑のYUMMYスイーツ,BEMANI Sound Team "TATSUYA",HEROIC VERSE
+"[CN]3","[CN][BSS]5","[CN]9","[CN][BSS]11",-,"[CN][BSS]5","[CN]9","[CN][BSS]11",-,88-170,IIDX EDITION,ガヴリールドロップキック,Remixed by かめりあ,HEROIC VERSE
+-,7,10,12,-,7,10,12,-,185,Hi-メランコリックコア,がっつり陰キャ!? 怪盗いいんちょの億劫^^;,噂の怪盗少女ぷらずま★彡Prim@休業中～( _ _ ).。,HEROIC VERSE
+-,5,9,11,-,5,10,11,-,200,CHARACTER SONG,開きたまえ！Next stAge！,"librarians of Rootage (Ripnte, Stampa and Cleep)",HEROIC VERSE
+-,5,9,"[CN]11",-,5,9,11,-,160,STYLISH CROSSOVER,狂水一華,BEMANI Sound Team HuΣeR Vs. SYUNN" feat.いちか,HEROIC VERSE
+-,5,8,10,-,5,8,10,-,152,HYPER POP,ラブキラ☆スプラッシュ,BEMANI Sound Team "Sota F." feat.いちか,HEROIC VERSE
+-,6,9,11,-,"[CN]6","[CN]9","[CN]11",-,198,GOTHIC CORE,曼荼羅恋々,BEMANI Sound Team "Akhuta Works" feat. Nana Takahashi",HEROIC VERSE
+1,4,7,10,-,4,7,10,-,110-150,IIDX EDITION,俺ら東京さ行ぐだ,Remixed by すわひでお & uno(IOSYS),HEROIC VERSE
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,160,PDM,ピアノ協奏曲第1番"蠍火" (BlackY Remix),Remixed by BlackY,HEROIC VERSE
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,200,KILLER PUNK,ランカーキラーガール,中島由貴×いちか,HEROIC VERSE
+-,5,8,11,-,5,8,11,-,190,特撮ハードコア,錬成人間トリコロイダー,DJ SHARPNEL feat. ￥Cuスタ平,HEROIC VERSE
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]9","[CN]12",-,175,CYBER REQUIEM,深淵に捧ぐレクイエム,OSTER project,HEROIC VERSE
+2,"[CN][BSS]4","[CN][BSS]7","[CN]10",-,"[CN][BSS]4","[CN][BSS]7","[CN][BSS]10",-,158,MS J TRANCE POP,セピアの軌跡 ft. 天宮みや(少女フラクタル),Xceon,HEROIC VERSE
+-,4,7,"[BSS]10",-,4,7,"[BSS]10",-,150,NRG,灼熱Beach Side Bunny (Masayoshi Iimori Remix),Remixed by Masayoshi Iimori,HEROIC VERSE
+-,4,8,11,-,4,8,11,-,100-155,バトルダンス,シャムシールの舞,Zektbach,HEROIC VERSE
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,193,空想ファンタジーシリーズ,眠りの国のステラ,BEMANI Sound Team "DJ TOTTO",HEROIC VERSE
+-,7,10,12,-,7,10,12,-,60-147,CINEMATIC VALSE,華麗なる大犬円舞曲,Wiktoria,HEROIC VERSE
+-,"[CN]5","[CN]8","[CN]11",-,"[CN]5","[CN]8","[CN]11",-,160,IIDX ANTHEM REVIVAL,ABSOLUTE (kors k Remix),Remixed by kors k,BISTROVER
+-,4,8,11,-,4,8,11,-,115-230,UPTEMPO RAW,Ah Hah Yeah,Masayoshi Iimori,BISTROVER
+-,"[CN]4","[CN]8","[CN]11",-,"[CN]4","[CN]8","[CN]11",-,152,ORIENTAL TRANCE,AMRITA -不滅ノ花-,SOUND HOLIC feat. Nana Takahashi,BISTROVER
+-,5,9,11,-,5,9,11,-,200,HARDCORE,apo:llioth,Juggernaut.,BISTROVER
+-,"[CN]4","[CN]8","[CN]10",-,"[CN]4","[CN]8","[CN]10",-,177,CYBER LIQUID FUNK,As You Want,Maozon,BISTROVER
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,150,BIG BEAT,ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS),かめりあ,BISTROVER
+-,4,7,9,-,5,7,9,-,134,BPL EDM,BEMANI PRO LEAGUE Theme,BEMANI Sound Team "Sota F.",BISTROVER
+3,"[CN]7","[CN]9","[CN][BSS]12",-,"[CN]7","[CN]10","[CN][BSS]12",-,187,DRUMSTEP,BIGソムタム,AJURIKA,BISTROVER
+-,6,8,11,-,6,8,11,-,400,TOKYO STYLE SPEEDCORE,Brahma,m1dy,BISTROVER
+-,6,9,11,-,7,10,12,-,170,CYBER PUNK,Breakin' Rules,BEMANI Sound Team "Sota Fujimori",BISTROVER
+-,6,9,11,12,6,9,11,12,165,HYPER TECHNO,Burning Flame,AJURIKA feat.SAK.,BISTROVER
+1,4,7,10,-,4,7,10,-,190,CHIP RAVE,Chewingood!!!,TORIENA,BISTROVER
+-,5,9,11,-,5,9,11,-,150,EPIC TRANCE,CONNECT-,BEMANI Sound Team "Sota Fujimori",BISTROVER
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,195,BIGCORE,COSMIC RAY,BEMANI Sound Team "Captain Sonic",BISTROVER
+-,5,9,11,-,5,9,11,-,170,UK HARDCORE,Crazy Jackpot,Hommarju,BISTROVER
+-,5,8,11,-,5,8,11,-,150,CONTEMPORARY SALSA,Danza Aestas,Feryquitous,BISTROVER
+-,"[HCN]5","[HCN]9","[HCN]11",-,"[HCN]5","[HCN]9","[HCN]12",-,185,CELTIC TRANCE STEP,Dawn Saga,Nhato,BISTROVER
+-,4,9,10,-,4,10,11,-,150,TECHNO,DENIM,BISTROVER
+-,3,6,9,-,3,6,9,-,132,ELECTRO FUNK,Don't Stop The Music feat. Kanae Asaba,Nhato,BISTROVER
+-,7,10,12,-,7,10,12,-,204,JUNGLE TERROR,Empire of Fury,kors k,BISTROVER
+-,5,8,10,-,5,8,10,-,149,J-DANCE FUSION,Euphoric Lagoon,BEMANI Sound Team "TAG",BISTROVER
+-,4,7,10,-,5,7,10,-,131,DANCE POP,Explorer feat. ぷにぷに電機,パソコン音楽クラブ,BISTROVER
+-,5,8,11,-,5,8,11,-,144,MOROCCAN CROSSOVER,Farewell to Marrakech,Dirty Androids,BISTROVER
+-,4,8,10,-,4,8,10,-,185,MAKINA,Frisk And Squeak,nora2r,BISTROVER
+-,"[CN]5","[CN]9","[CN][BSS]11",-,"[CN]5","[CN]9","[CN][BSS]11",-,150,NEO RUSSIAN FUTURE,GIGA RAID,Blacklolita,BISTROVER
+-,6,9,10,-,6,8,11,-,172,THE 4TH,Hands Up feat. kradness BEMANI Sound Team "Sota Fujimori" Remix,BEMANI Sound Team "Sota Fujimori",BISTROVER
+2,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,175,J-CORE,Here We Are,The 4th feat.ここなつ,BISTROVER
+-,"[HCN]4","[HCN]7","[HCN][HBSS]10",-,"[HCN]4","[HCN]7","[HCN][HBSS]10",-,155,HARDSTYLE,HIGH VOLTAGE,Yuta Imai,BISTROVER
+-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,188-191,X,Ignis†Iræ,BEMANI Sound Team "神",BISTROVER
+-,"[CN]4","[CN]7","[CN]9",-,"[CN]4","[CN]8","[CN]10",-,155,CAPTIVATE,IIDX RED Ending (Ryu☆Remix),Remixed by Ryu☆,BISTROVER
+-,6,10,12,-,6,10,12,-,310,BIGBAND JAZZ,innocent revolver,OSTER project,BISTROVER
+-,5,9,11,-,5,9,11,-,184,DRUMSTEP / RAGGATEK,Jungle Eater,Hommarju,BISTROVER
+-,6,9,11,-,6,9,11,-,157,PSYCHEDELIC TRANCE,LAST DAY,AJURIKA,BISTROVER
+-,"[BSS]6","[BSS]10","[BSS]12",-,"[BSS]6","[BSS]10","[BSS]12",-,175,DRUMSTEP / DnB,Level 3,Yamato,BISTROVER
+-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,182,HAPPY BISTRO CORE,LOCUS OF THE TRAVEL,CANVAS feat. Quimär & BEMANI Sound Team "L.E.D.-G",BISTROVER
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,180,HAPPY COUNTRY CORE,Lovely Howdy Cowboy!!,まろん feat. キャサリン,BISTROVER
+-,3,7,10,-,3,7,10,-,140,BALEARIC,Mars beach,さよひめぼう,BISTROVER
+-,7,10,"[CN]12",-,7,10,"[CN]12",-,206,BULGARIAN CORE,MEGAERA,fallen shepherd × cotowari ft. nayuta,BISTROVER
+-,"[CN]3","[CN]8",10,-,"[CN]3","[CN]8",10,-,90-110,HIP HOP,Midnight Drive,らっぷびと Prod. by uno,BISTROVER
+-,5,9,11,-,5,9,11,-,150,HDM,Neo Heritage,kors k vs MAD CHILD,BISTROVER
+-,4,7,10,-,4,7,10,-,145,HiTECH FUSION,Ocean Blue feat. Luschel,lapix,BISTROVER
+-,"[HCN]5","[HCN]9","[HCN]11",-,"[HCN]5","[HCN]9","[HCN]11",-,157,TRANCE,of the first magnitude,BEMANI Sound Team "Trance Liquid",BISTROVER
+-,6,9,11,-,6,9,11,-,170,DRUM'N'BASS,Overslept,PARKGOLF,BISTROVER
+-,"[CN]5","[CN]8","[CN]11",-,"[CN]5","[CN]8","[CN][BSS]11",-,180,MEXICAN DRUMSTEP,Para siempre,削除 feat. 削除,BISTROVER
+-,4,8,10,-,4,8,10,-,154,K-POP,Party Starter,ARM (IOSYS) × cotowari ft. anporin,BISTROVER
+-,5,9,12,-,5,9,12,-,205,ORBITALIC WORLD MUSIC,Pārvatī,BEMANI Sound Team "U1 overground",BISTROVER
+-,4,6,8,-,5,7,9,-,140,TECH HOUSE,Playball,sanodg,BISTROVER
+2,"[CN]5","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,160,ポルカ2020,POLꞰAMAИIA,かめりあ feat. ななひら,BISTROVER
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN]11",-,174,STYLISH FUTURE,Rejection Girl,BEMANI Sound Team "HuΣeR",BISTROVER
+-,6,9,11,-,6,9,11,-,190,ARABIC HARD RITUAL,Ritual of Anubis,KO3 & Relect,BISTROVER
+2,5,8,11,-,5,8,11,-,162,IIDX EDITION,Romanticが止まらない,"Remixed by BEMANI Sound Team "L.E.D."& IOSYS",BISTROVER
+-,6,9,12,-,6,9,11,-,208,BREAKCORE,rommmo,callasoiled,BISTROVER
+-,5,9,11,-,5,9,11,-,155,HARD LATIN,Rosa azuL,lapix,BISTROVER
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]11",-,100,DUBSTEP,Rowdy,Dazsta,BISTROVER
+-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,"[BSS]5","[BSS]8","[CN][BSS]9",-,176,LOVERS CANDY RAVE,Rub-a Dub-a,kors k,BISTROVER
+-,5,9,11,-,5,9,12,-,160,ACID LATIN JAZZ,Rubrum Piano,Xceon,BISTROVER
+-,4,7,9,-,5,7,9,-,142,DARK TECHNO,S-Bahn,BEMANI Sound Team "DARK TRAIN",BISTROVER
+-,"[CN]4","[CN]9","[CN]11",-,"[CN]4","[CN]9","[CN]11",-,160-228,PROGRESSIVE SWING,Scandal,Osamu Kubota,BISTROVER
+-,"[CN]7","[CN]11","[CN]12",-,"[CN]7","[CN]11","[CN]12",-,128-256,KAMIKURA,Sinus Iridum,神楽改,BISTROVER
+-,5,"[CN]8","[CN]10",-,5,"[CN]8","[CN]10",-,177,CANDY RAVE BASS,smooooch・∀・ (Snail's House Remix),Remixed by Snail's House,BISTROVER
+-,5,8,10,-,5,8,10,-,140,80s EUROBEAT,So Punky,Y&Co. feat. 大山愛未,BISTROVER
+-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,186,LIFE STREAM,SOLID STATE SQUAD -RISEN RELIC REMIX-,Remixed by xi,BISTROVER
+-,5,8,10,-,5,8,10,-,170,MOE CORE,Sugarplum,KOTONOHOUSE,BISTROVER
+-,"[CN]6","[CN][BSS]8","[CN][BSS]11",-,"[CN]6","[CN][BSS]8","[CN][BSS]11",-,110,HOLIC,Swarm Of Scarabs,C-Show,BISTROVER
+-,5,8,11,-,5,8,11,-,203,ROCK,Tell me what you wish feat.らっぷびと,Pizuya's Cell,BISTROVER
+-,"[CN][BSS]4","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]4","[CN][BSS]8","[CN][BSS]10",-,150,SPEED HOUSE,That Feeling,Crayvxn,BISTROVER
+-,6,10,"[CN]12",-,6,10,"[CN]12",-,170,HARD MIXTURE,THE PEERLESS UNDER HEAVEN,Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G",BISTROVER
+-,5,8,10,-,5,8,10,-,170,THE 4TH,The Wind of China Express(The 4th Mashup),The 4th,BISTROVER
+-,"[CN][BSS]5","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]5","[CN][BSS]10","[CN][BSS]12",-,180,Hi-TECH / PSY CORE,Tiempo Loco,kors k feat.Hboy,BISTROVER
+-,"[BSS]5","[CN][BSS]10",12,-,"[BSS]5","[CN][BSS]10",12,-,161,NU-NRG,Viridian,REMO-CON,BISTROVER
+-,"[CN]6","[CN]9","[CN]12",-,"[CN]6","[CN]9","[CN]12",-,146,PROGRESSIVE METAL,Vitrum,BEMANI Sound Team "Yvya",BISTROVER
+-,"[CN]5","[CN]7",9,-,"[CN]5","[CN]7",10,-,150,TROPICAL ELECTRO HOUSE,WAKE UP NOW,Maozon feat. Chica,BISTROVER
+-,4,7,10,-,4,7,10,-,145,HYBRID BASSLINE,When I Met U,LADY'S ONLY,BISTROVER
+1,"[CN][BSS]4","[CN][BSS]7","[CN][BSS]10",-,"[CN][BSS]4","[CN][BSS]7","[CN][BSS]10",-,100,THEME SONG,Winner's Proof ft. KANASA from bless4,BEMANI Sound Team "HuΣeR" & kors k,BISTROVER
+-,5,9,11,-,5,9,11,-,150,TRANCE,X-ray binary,BEMANI Sound Team "Trance Liquid",BISTROVER
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,164,PLUS ONE,Zenith,Snail's House,BISTROVER
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN][BSS]10","[CN][BSS]12",-,186,WHITE OUT,-65℃,BEMANI Sound Team "D.J.Amuro",BISTROVER
+-,6,9,12,-,6,9,12,-,96-191,THE 4TH,3!dolon Forc3,青龍×Eagle,BISTROVER
+-,7,10,12,-,7,10,12,-,280-316,SPUKWALZER,二人ノ廃城幽踊宴,上ノ瀬つかさ,BISTROVER
+-,"[CN]5","[CN][BSS]9","[HCN][HBSS]12",-,"[CN]5","[CN][BSS]9","[HCN][HBSS]12",-,220,.+:☆ BAD FUTURE ☆:+.,バッド・スイーツ、バッド・ドリーム,かめりあ feat. ななひら,BISTROVER
+-,"[CN]4","[CN]7","[CN]9",-,"[CN]4","[CN]7","[CN]9",-,240,FRENCH POP,犬に雨傘,OSTER project feat. そらこ,BISTROVER
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,171,BALKANIC ROCK,乱膳の舞姫,BEMANI Sound Team "Akhuta Works" feat. mami,BISTROVER
+-,"[HCN][HBSS]6","[HCN][HBSS]10","[HCN][HBSS]12",-,"[HCN][HBSS]6","[HCN][HBSS]10","[HCN][HBSS]12",-,180,DARKSTEP,閠槞彁の願い,DJ TECHNORCH & RoughSketch,BISTROVER
+1,3,6,9,-,3,6,9,-,135,IIDX EDITION,紅蓮華,Covered by BEMANI Sound Team "HuΣeR" feat. Mayumi Morinaga,BISTROVER
+-,5,9,11,-,5,9,11,-,162,BLOOM ROCK,儚き恋の華,BEMANI Sound Team "TAG" feat. 猫体質,BISTROVER
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]8","[CN]12",-,178-208,FANTASY TOYPOP,魔法のかくれんぼ,Snail's House,BISTROVER
+-,6,8,10,-,6,9,11,-,167,-和- EURO TRANCE,水無月の雫 ft. 小林まな,Xceon,BISTROVER
+-,"[CN]5","[CN]7","[CN]10",-,"[CN]5","[CN]7","[CN]10",-,150,LAST FRONTIER,霧幻メモリア,BEMANI Sound Team "劇団レコード" feat.Risa Yuzuki,BISTROVER
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,187,Hi-歌謡タンゴ,涙のテ・エストラーニョ・ムーチョ,LA BAILARINA☆Prim,BISTROVER
+1,4,8,10,-,4,8,10,-,184,ROCK,ここからよろしく大作戦143,BEMANI Sound Team "あさき隊",BISTROVER
+-,"[CN]6","[CN]9","[CN]12",-,"[CN]6","[CN]9","[CN]12",-,200,BRAVE ANTHEM,世界の果てに約束の凱歌を -ReUnion-,OSTER project feat. かなたん,BISTROVER
+"[CN]3","[CN]5","[CN]7","[CN]10",-,"[CN]5","[CN]7","[CN]10",-,165,IIDX EDITION,新宝島,"Remixed by BEMANI Sound Team "TAG feat. PON",BISTROVER
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]12",-,168,JAPANESE TECH BREAKS,水鏡の異界,BEMANI Sound Team "Coyaan",BISTROVER
+3,7,"[CN]10","[CN]12",-,7,"[CN]10","[CN]12",-,180,RENAISSANCE,∀,BEMANI Sound Team "HuΣeR" respect for D.J.Amuro",BISTROVER
+-,5,9,11,-,5,9,11,-,160,HARD TRANCE,無意識のフィロソフィア,BEMANI Sound Team "TAG",BISTROVER
+-,6,10,12,-,6,10,12,-,173,KUDOS CORE,伐折羅-vajra-,DJ TOTTO VS 兎々,BISTROVER
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,157-300,EXPERIMENTAL EUROBEAT,Fire Beat,kors k,BISTROVER
+-,5,9,11,-,5,9,12,-,160,OLD FASHIONED,OTOKOZAKA,BEMANI Sound Team "Trance Liquid,BISTROVER
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,185,IIDX SOUNDS,DUAL STRIKER,"Mayumi Morinaga,Fernweh by BEMANI Sound Team "L.E.D. & HuΣeR",BISTROVER
+-,5,8,11,-,5,8,11,-,190,RAVE STEP,Globe Glitter,Sana ATSUMI UEDA by BEMANI Sound Team "PON",BISTROVER
+-,6,9,11,-,5,9,11,-,276,HEAVY METAL,LIKE A VAMPIRE,koyomi 星野奏子 by BEMANI Sound Team TAKA,BISTROVER
+-,5,"[BSS]9","[BSS]11",-,5,"[BSS]9","[BSS]11",-,160,JAPANESQUE,MA・TSU・RI,"かなたん アマギセーラ ぁゅ by BEMANI Sound Team "藤森崇多",BISTROVER
+-,"[CN]4","[CN]7","[CN]10",-,"[CN]4","[CN]7","[CN]10",-,142,ORBITALIC ELECTRIC MUSIC,MOVE! (We Keep It Movin'),"Jonny Dynamite!,Lisa - paint with stars -,Rio Hiiragi by BEMANI Sound Team "U1-ASAMi",BISTROVER
+-,6,10,12,-,6,10,12,-,187,オンセン♨ヒーロー,スーパー戦湯ババンバーン,"すわひでお,秋成,かぼちゃ,藍月なくる,NU-KO by BEMANI Sound Team "八戸亀生羅",BISTROVER
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,185,SYMPHONIC SPEED SCRANZ,BLACK or WHITE?,BlackYooh vs. siromaru,BISTROVER
+-,"[CN]7","[CN]10","[CN]12",-,"[CN]7","[CN]10","[CN]12",-,180-280,CROSSOVER,ディスコルディア,"ぺのれり vs. BEMANI Sound Team "HuΣeR",BISTROVER
+-,6,10,12,-,6,10,12,-,155,PIANO TECH,Angel's Ladder,xi,CastHour
+-,4,7,10,-,4,7,10,-,198,UNSUNG REQUIEM,Ariah,satella feat.藍月なくる,CastHour
+-,4,6,8,-,4,6,8,-,134,LATIN FUSION POP,Blue Bird feat. Kanae Asaba,Nhato,CastHour
+-,5,8,11,-,5,9,11,-,200,CYBERPUNK,DISPARATE,BEMANI Sound Team "Captain Sonic",CastHour
+-,"[HCN]6","[HCN]10","[HCN]12",-,"[HCN]6","[HCN]10","[HCN]12",-,210,MIXTURE,Don't believe the hype,DJ Mass MAD Izm* feat.H14(LEONAIR),CastHour
+-,5,8,11,-,5,8,11,-,140,ABDUCTION BEAT,DREAM OF SPACE UFO ABDUCTION,BEMANI Sound Team "謎の宇宙人スペースX",CastHour
+-,4,"[CN]7","[CN]9",-,4,"[CN]7","[CN]9",-,168,DIGITAL POP,Fantastic Merry-Go-Round,SOUND HOLIC feat. Nana Takahashi,CastHour
+-,6,10,12,-,6,10,12,-,175,EURO BEAT,Fegrix,Xceon vs DJ Command (Eurobeat Union),CastHour
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,185,ENERGETIC HARDCORE,FINALLY BLAZE,BlackY,CastHour
+-,7,10,12,-,7,10,12,-,250,EXTRATONE,GiGaGaHell,"m1dy, RoughSketch",CastHour
+-,"[MSS]3","[MSS]7","[MSS]10",-,"[MSS]3","[MSS]7","[MSS]10",-,90,HEALING FUTURE,HEARTACHE,BEMANI Sound Team "HuΣeR" feat.ゆきまめ",CastHour
+-,"[CN][BSS]6","[CN]9","[CN]11",-,"[CN][BSS]6","[CN]9","[CN]11",-,160,EMOTIONAL SENTENCE -INSTRUMENTAL-,ILAYZA,BEMANI Sound Team "TAG",CastHour
+-,4,8,11,-,4,8,11,-,140,PROGRESSIVE METAL,Lawes's Parotia,BEMANI Sound Team "Yvya",CastHour
+-,7,10,12,-,7,10,12,-,190,HARD ELECTRIC POP,LIVE DRIVING!! feat. 花たん,BEMANI Sound Team "S-C-U vs L.E.D.",CastHour
+-,"[CN]5","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,150,ASTRONOMICAL TECHNO,N.O.,かめりあ,CastHour
+2,"[CN][BSS]4","[CN][BSS]7","[CN][BSS]10",-,"[CN][BSS]4","[CN][BSS]7","[CN][BSS]10",-,150,J-POP,No Day But Today!,NU-KO & yunocy,CastHour
+-,"[BSS]4","[CN][BSS]8","[CN][BSS]10",-,"[BSS]4","[CN][BSS]8","[CN][BSS]10",-,172,DRUM'N'BASS,Non Stop Rock,Masayoshi Iimori,CastHour
+-,"[CN]5","[CN]8","[CN]11",-,"[CN]5","[CN]8","[CN]11",-,44-174,STYLISH COLOUR,Onyx,BEMANI Sound Team "HuΣeR",CastHour
+-,5,8,10,-,5,8,10,-,160,RAWSTYLE,P.O.W.E.R.,Yuta Imai,CastHour
+-,5,8,10,-,5,8,10,-,160,STORMY SEA,PIRATES BLADE,BEMANI Sound Team "劇団レコード",CastHour
+-,5,8,10,-,5,8,10,-,164,VARIABLE FUTURE BASS,Prohibited Props,BEMANI Sound Team "ZAQUVA",CastHour
+-,"[CN][MSS]7","[CN][MSS]10","[CN][MSS]12",-,"[CN][BSS]6","[CN][MSS]10","[CN][MSS]12",-,150,MELODIC RIDDIM,Purple Perplex,Eagle,CastHour
+-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,200,DIGITAL HARDCORE,Skreaming for Salvation,RoughSkreamZ,CastHour
+-,6,9,11,-,6,9,11,-,165,HARDPSY,SOLID WYVERN,BEMANI Sound Team "L.E.D.",CastHour
+-,5,9,11,-,5,9,11,-,156,TRANCE,Tail Lights,BEMANI Sound Team "dj TAKA" feat.nana hatori",CastHour
+3,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,196,MUSIC GAME TRADITIONAL,Triple Cross,BEMANI Sound Team "dj TAKA & DJ YOSHITAKA & SYUNN",CastHour
+-,4,8,11,-,4,8,11,-,170,JAZZY STEP,Ventriloquist,Avans,CastHour
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]10",-,178,HARDCORE RAVE,Victory Of Ravers,DJ Shimamura,CastHour
+-,5,8,10,-,5,8,10,-,185,BEAT MUSIC,Votania Beat,まろん vs. ビートまりお,CastHour
+-,5,7,10,-,5,8,10,-,165,NU DRUM & BASS,Wonderful Escape,DÉ DÉ MOUSE,CastHour
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,195,FRENCHCORE,Xyndrome,nora2r,CastHour
+-,4,7,9,-,4,7,9,-,168,JUNGLE TERROR,808monkey,AJURIKA,CastHour
+1,5,8,11,12,5,8,11,12,140-200,J-POP,デモーニッシュ,ツユ,CastHour
+-,"[CN][MSS]6","[CN][MSS]9","[CN][MSS]11","[CN][MSS]12","[CN][MSS]6","[CN][MSS]9","[CN][MSS]11","[CN][MSS]12",165,ハイテックトキオ,ハイテックトキオ,lapix ∞ BEMANI Sound Team "Sota Fujimori",CastHour
+-,4,7,10,-,4,7,10,-,152,EURO BEAT,愛しくてラヴィンユー ft. マナ,Xceon,CastHour
+-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,150,HUMAN BEATBOX ELECTRO,口カラ凸ゲキ,SARUKANI × Blacklolita,CastHour
+3,5,7,10,-,5,7,10,-,172,J-POP,オドループ,フレデリック,CastHour
+1,3,6,9,10,3,6,9,10,128,J-POP,踊,Ado,CastHour
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,215,GALAXY QUEST,オールトの雲,OSTER Project,CastHour
+2,4,7,10,11,4,7,10,11,176,J-POP,シル・ヴ・プレジデント,P丸様。,CastHour
+-,6,9,11,-,6,9,11,-,154,ALTERNATIVE DANCE CORE,ウツシミウツシ,BEMANI Sound Team "PHQUASE" feat.ぁゅ",CastHour
+-,5,8,11,-,5,8,11,-,190,CHIPBREAK POP,月とミルク,TORIENA,CastHour
+-,"[HCN]6","[HCN]10","[HCN]12",-,"[HCN]6","[HCN]10","[HCN]12",-,200,ROCK,Aftermath,BEMANI Sound Team 猫叉Master & あさき & Yvya",CastHour
+1,4,6,10,-,4,6,10,-,170,IIDX EDITION,怪物,Remixed by Nhato feat. ricono,CastHour
+3,"[BSS]6","[BSS]9","[BSS]11",-,"[BSS]6","[BSS]9","[BSS]11",-,165,IIDX EDITION,ミュージック・アワー,Remixed by BEMANI Sound Team "PON",CastHour
+2,5,8,11,-,5,8,11,-,220,IIDX EDITION,ぐだふわエブリデー,Remixed by Xceon feat. Marcia(幽閉サテライト),CastHour
+1,3,6,9,-,3,6,9,-,131,DANCE MUSIC,VR - Virtual Reality (prod.by Snail's House),KMNZ,CastHour
+2,5,7,10,-,5,7,10,-,131,J-POP,あいつら全員同窓会,ずっと真夜中でいいのに。,CastHour
+3,5,8,11,-,5,8,11,-,170,IIDX EDITION,グッバイ宣言,Remixed by uno(IOSYS) & Liqo feat. Chiyoko,CastHour
+-,"[HCN]6","[HCN][HBSS]10","[HCN][HBSS]12",-,"[HCN]6","[HCN][HBSS]10","[HCN][HBSS]12",-,200,EUPHORIC FRENCHCORE,ABSOLUTE EVIL,Yuta Imai,CastHour
+-,"[CN]7","[CN][BSS]10","[CN][MSS]12",-,"[CN]7","[CN][BSS]10","[CN][MSS]12",-,185,IRREGULAR OMNIBUS HARDCORE,ALTERNATOR,BEMANI Sound Team "dj Hellix",CastHour
+-,5,8,10,-,5,8,10,-,158,FUTURE POP,AMICABLE,BEMANI Sound Team "Sota F.",CastHour
+-,4,7,"[CN]10",-,4,7,"[CN]10",-,174,EMOTIONAL J-POP,ANEMONE,BEMANI Sound Team "HuΣeR × Yvya" feat.紫村 花澄",CastHour
+-,5,9,12,-,5,9,12,-,180,FREEFORM HARDCORE,Arkadia,Hommarju ft.Mayumi Morinaga,CastHour
+-,5,9,11,-,6,9,11,-,190,EARLY RAVE,Banger Banger Banger Banger,nora2r,CastHour
+-,"[CN]6","[CN]10","[CN]12",-,"[CN]6","[CN]10","[CN]12",-,190,BLACK OUT,Binary Black Hole,BEMANI Sound Team "D.J.Amuro",CastHour
+-,"[CN]5","[CN]8","[CN]11",-,"[CN]5","[CN]8","[CN]11",-,161,EDM STYLE,Emera,PON,CastHour
+-,"[CN][MSS]6","[CN][MSS]10","[CN][MSS]12",-,"[CN][MSS]6","[CN][MSS]10","[CN][MSS]12",-,174,COLOUR CORE,Flying Castle,lapix,CastHour
+-,4,7,10,-,4,7,10,-,135,FUTURE BOUNCE,Get set， Go! feat.Kanae Asaba,MK,CastHour
+-,7,10,"[HCN]12",-,7,10,"[HCN]12",-,208,HIDEOUT,hard-wired,Yuta Imai ≡ Blacklolita,CastHour
+-,4,7,10,-,4,7,10,-,177,NU PRELUDE,Harmonia,ATSUMI UEDA,CastHour
+-,"[CN]5","[CN]9","[CN][BSS]11",-,"[CN]5","[CN]9","[CN]11",-,124-190,CHANNEL K,kors k's How to make OTOGE CORE,kors k,CastHour
+-,"[CN]5","[CN]8","[CN]11",-,"[CN]5","[CN]8","[CN]11",-,172,ADVENTURE TRIP,Legendary Treasures,BEMANI Sound Team "劇団レコード",CastHour
+-,"[CN][MSS]7","[CN][MSS]10","[CN][MSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,85-255,SYMPHONIC DUBSTEP,n/a,Blacklolita,CastHour
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,157,DARKSYNTH,Nocturnal 2097,Dirty Androids,CastHour
+-,6,10,12,-,6,10,12,-,178,LIGHTNING EUROBEAT,PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.,BEMANI Sound Team "L.E.D.",CastHour
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,170,FUTURE BASS,Pout,BEMANI Sound Team "SYUNN",CastHour
+-,"[CN][MSS]6","[CN][MSS]10","[CN][MSS]12",-,"[CN][MSS]6","[CN][MSS]10","[CN][MSS]12",-,166,MIXTURE,RAGE feat.H14 of LEONAIR,DJ Mass MAD Izm*,CastHour
+-,6,10,12,-,6,10,12,-,152-172,PIANO CONCERTINO + JAZZ FUSION,Silver Bullet,xi,CastHour
+-,6,10,12,-,6,10,12,-,151,TECH DANCE,Smalt #28598F,REMO-CON,CastHour
+-,"[CN]4","[CN]8","[CN][BSS]10",-,"[CN]4","[CN]8","[CN][BSS]10",-,128,DANCE MUSIC,Stepper,PSYQUI,CastHour
+-,7,"[HCN][HBSS]10","[HCN][HBSS]12",-,7,"[HCN][HBSS]10","[HCN][HBSS]12",-,108,CROSSO-WHA-R,WHA,かめりあ involving ななひら,CastHour
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,178,DRUMSTEP,10000 MILES AWAY,AJURIKA,CastHour
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,135,ROCK,アクマフカ,Pizuya's Cell,CastHour
+-,5,"[BSS]9","[BSS]12",-,5,"[BSS]9","[BSS]12",-,155,HARD DANCE,天邪鬼,Qlarabelle,CastHour
+-,4,9,11,-,4,9,11,-,175,AQUARIUM QUARTERSTEP,青の洞窟,Ujico*,CastHour
+-,6,10,12,-,6,10,12,-,105-180,HIP ROCK3,雪上断火,Des-ROW・組,CastHour
+-,"[CN]6","[CN][BSS]10","[CN][BSS]12",-,"[CN]6","[CN][BSS]10","[CN][BSS]12",-,190,CYBER TAIGA,烽火連天の刃,OSTER project,CastHour
+-,4,7,9,-,4,7,9,-,104,SHOWA RETRO,黒紅掬い,猫叉Master feat.霜月はるか,CastHour
+-,5,8,10,-,5,8,10,-,240,ハッピースピードコア,めでてえ,TORIENA,CastHour
+-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,160,HARD PSY TRANCE,禊,Nhato,CastHour
+-,4,8,10,-,4,8,10,-,163,ALTERNATIVE,ナイトフィクション,中山真斗 feat. CHAN,CastHour
+-,"[BSS]4","[CN][BSS]8","[CN][BSS]10",-,"[BSS]4","[CN][BSS]8","[CN][BSS]10",-,152,MELODIC RIDDIM,Brave Spirits,MK,CastHour
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,150,BIG ANTHEM,Divine Heaven,Absolute The 4th,CastHour
+-,"[CN]5","[CN][BSS]8","[CN][BSS]10",-,"[CN]5","[CN][BSS]8","[CN][BSS]10",-,170,ELECTRIC POP,EMOTiON TRiPPER,sky_delta,CastHour
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,170,亜空間ジャズ,Ergosphere,TOMOSUKE,CastHour
+-,4,8,11,-,4,8,11,-,105-210,HARD MIXTURE,Game Changers,Yuta Imai,CastHour
+-,6,10,12,-,6,10,12,-,185,NEUROFUNK,GRAVITON,BEMANI Sound Team "L.E.D.",CastHour
+-,4,8,11,-,4,8,11,-,180,UK HARDCORE,Hat Surprise,Hommarju,CastHour
+-,"[BSS]5","[BSS]9","[BSS]12",-,"[BSS]5","[BSS]9","[BSS]12",-,195,EUPHORIC FRENCHCORE,One for All,RoughSketch,CastHour
+-,6,9,12,-,6,9,12,-,164-172,AKIBA-POP,Push on Beats!～音ゲの国のeX-ストリーマー～,MOSAIC.WAV,CastHour
+-,"[CN][MSS]6","[CN][MSS]10","[CN][MSS]12",-,"[CN][MSS]7","[CN][MSS]10","[CN][MSS]12",-,215,SUPER HARDCORE NOVA,TOMAHAWK,かめりあ,CastHour
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,160,TRIUMPH,《GRANDMASTER》,Blacklolita,CastHour
+-,6,10,12,-,6,10,12,-,※,THRENODY,ピアノ独奏無言歌 "灰燼",BEMANI Sound Team "Virkato Wakhmaninov",CastHour
+-,4,8,10,-,4,8,10,-,160,EUPHORIC HARDSTYLE,SPARK IN THE NIGHT,BEMANI Sound Team "L.E.D.-G",CastHour
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,225,ALCHEMY POP,Souhait bleu,しーけー,CastHour
+-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,175,HARDCORE,2 Beasts Unchained,kors k vs Yooh,CastHour
+-,"[HCN]7","[HCN]10","[HCN]12",-,"[HCN]7","[HCN]10","[HCN]12",-,280,JAPANESQUE,逆月,BEMANI Sound Team "HuΣeR" feat.Fernweh",CastHour
+-,"[CN]6","[CN]9","[CN]12",-,"[CN]6","[CN]9","[CN]12",-,168,HYPER EUROBEATECHNO,anthracene,DJ Command (Eurobeat Union),RESIDENT
+-,6,"[CN][MSS]10","[CN][MSS]12",-,6,"[CN][MSS]10","[CN][MSS]12",-,157,HARD BODY MUSIC,B.O.D.Y.,BEMANI Sound Team "L.E.D. Sota F."& Starbitz",RESIDENT
+-,"[CN][BSS]7","[BSS]10","[CN][BSS]12",-,"[CN][BSS]7","[CN][BSS]10","[CN][BSS]12",-,200,NEO INDUSTRIAL,Bad Encryption,BEMANI Sound Team "ZAQUVA" respect for teranoid",RESIDENT
+-,5,9,11,-,5,9,11,-,162-180,ELECTRONICORE,C-C-C-N-N-N,RoughSkreamZ feat. Aikapin,RESIDENT
+-,5,8,10,-,5,8,10,-,160,EMERGENCY CORE,CUE CUE RESCUE,TORIENA,RESIDENT
+-,5,7,9,-,5,7,9,-,174,BIGROOM D&B,Driver,Masayoshi Iimori,RESIDENT
+2,4,7,9,-,4,7,10,-,148,IIDX EDITION,EZ DO DANCE,Remixed by kors k,RESIDENT
+-,"[CN][BSS]6","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]6","[CN][BSS]8","[CN][BSS]10",-,180,COMPETITIVE ROCKSTEP,GET UP AGAIN,Zekk feat. くらべ,RESIDENT
+-,5,7,10,-,5,7,10,-,152,HYBRID FOLK,LADS,BEMANI Sound Team "PON",RESIDENT
+-,5,8,10,-,5,8,10,-,175,MELODIC J-ROCK,Luna Plena,アオワイファイ,RESIDENT
+-,"[CN]5","[CN]9","[CN]12",-,"[CN]5","[CN]9","[CN]12",-,124-174,PROGRESSIVE DRUM'N'BASS,Meissa,BEMANI Sound Team "Yvya",RESIDENT
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,175,HAPPY HARDCORE,Move UR Body,nora2r,RESIDENT
+-,6,10,12,-,6,10,12,-,150,TRANCE,No Border,BEMANI Sound Team "dj TAKA" feat.Sana,RESIDENT
+-,5,7,10,-,5,7,10,-,194,HARD ELECTRIC POP,Peng-Ging Sky High!!,moimoi + BEMANI Sound Team "S-C-U",RESIDENT
+-,"[CN]6","[CN]9","[CN]11",-,"[CN]6","[CN]9","[CN]11",-,150,CRIME JAZZ BROKEN BEATS,Perfect Plan,Dirty Androids,RESIDENT
+-,5,8,11,-,5,8,11,-,150,PSYCHEDELIC TRANCE,Programmed Genom,kors k,RESIDENT
+-,4,7,10,-,4,7,10,-,115,GLITCH HOP,Rewind Time,Dazsta,RESIDENT
+-,5,"[CN]8","[CN][BSS]11",-,5,"[CN]8","[CN]11",-,174,DRUM & BASS,Ruler or Loser,Maozon feat. Nadia,RESIDENT
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,216,UNSUNG SHADOWS,Seraph,satella feat.棗いつき,RESIDENT
+-,4,8,11,-,4,8,11,-,180,STYLISH CONTEMPORARY,Shadow World,BEMANI Sound Team "HuΣeR × 猫叉Master" feat.Emi Evans",RESIDENT
+-,"[CN]5","[CN]8","[CN]10",-,"[CN]5","[CN]8","[CN]10",-,145,GAME MUSIC,Summerblue,Toby Fox & Camellia,RESIDENT
+-,"[CN][BSS]5","[CN][BSS]8","[CN][BSS]10",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,185,FUTURE CORE,Sunny Day Vibes,Mameyudoufu,RESIDENT
+-,5,8,12,-,5,8,12,-,152,TECH/ELECTRO,TECHNOPHOBIA,BEMANI Sound Team "HuΣeR",RESIDENT
+-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,155,HARDWAVE/STYLE,THE TIME MACHINE,Yuta Imai,RESIDENT
+-,6,9,11,-,6,9,11,-,148,TECH-BIGBEAT,VOLCANIC BIGBEAT,DJ Mass MAD Izm*,RESIDENT
+-,3,6,9,-,3,6,9,-,142,FUNK POP,wanna be a "BAD GIRL" feat. Nana Takahashi,Nhato,RESIDENT
+-,4,8,11,-,4,8,11,-,150,DANCE,With You,BANVOX,RESIDENT
+-,7,10,11,-,7,10,11,-,182,NIGHTCORE,≡+≡,Ryu☆,RESIDENT
+-,"[CN]5","[CN]9","[CN]11",-,"[CN]5","[CN]9","[CN]11",-,191,NEO DANCE SPEED,3V0,BlackY,RESIDENT
+-,4,7,9,-,4,7,10,-,178,SUNNY SKY,雨のちパノラマセカイ,BEMANI Sound Team "劇団レコード" feat.NU-KO,RESIDENT
+-,"[CN]4","[CN]8","[CN]10",-,"[CN]4","[CN]9","[CN]11",-,40-165,PIANO CONCERTO,罪過の聖堂,OSTER project,RESIDENT
+-,4,7,10,-,4,7,10,-,162,ROCK,きゅんです。,Pizuya's Cell,RESIDENT
+-,"[BSS]7","[BSS]10","[BSS]12",-,"[BSS]7","[BSS]10","[BSS]12",-,175,和風歌謡硬核音楽,儚キ戀ノ幻想譚,まろん feat. あやぽんず＊(森羅万象),RESIDENT
+3,6,9,11,-,6,9,11,-,176,J-POP,いつかオトナになれるといいね。,ツユ,RESIDENT
+-,6,9,11,-,6,9,11,-,180,HEROIC DRUM & BASS,響花水月,xi feat. Risa Yuzuki,RESIDENT
+-,"[CN]4","[CN]7","[CN]9",-,"[CN]4","[CN]7","[CN]9",-,140,HOUSE,真夜中のバベル,Len,RESIDENT
+1,4,7,10,-,4,7,10,-,177,J-ROCK,おとせサンダー,ぼっちぼろまる, RESIDENT
+2,4,7,"[CN]10",-,4,7,"[CN]10",-,252,J-POP,生きるよすが,月詠み,RESIDENT
+-,5,8,"[HCN]10",-,5,8,10,-,165,歌謡ニューウェーブ,湘南ロンリーMIDNIGHT RAIN,"Nana Takahashi & BEMANI Sound Team "T.Kakuta",RESIDENT
+-,5,8,10,-,5,8,10,-,160,J METAL×DANCE POP,月と夢の跡 ft. マナ,Xceon,RESIDENT
+"[CN]2","[CN]4","[CN]7","[CN]10",-,"[CN]4","[CN]7","[CN]10",-,175,IIDX EDITION,新時代,Remixed by Nhato feat. 花たん,RESIDENT
+2,4,8,10,-,5,8,10,-,142,IIDX EDITION,神っぽいな,Remixed by uno(IOSYS) & NUE feat. Chiyoko,RESIDENT
+2,4,9,11,-,4,9,11,-,166,IIDX EDITION,KING,Remixed by SOUND HOLIC feat. はるの,RESIDENT
+3,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,149,IIDX EDITION,マツケンサンバII,Remixed by Ryu☆ feat. BEMANI Sound Team "ショッチョー" & イオシスコーラス隊,RESIDENT
+-,5,10,12,-,5,10,12,-,198,SYMPHONIC SAVIOR,RINИE,GeMiNioИ,RESIDENT
+-,"[CN]6","[CN]10","[CN][BSS]12",-,"[CN]6","[CN]10","[CN][BSS]12",-,225,CHIP ELECTRO,I,黒魔,RESIDENT
+-,5,9,11,-,6,9,11,-,198,SPIRITUAL CORE,輪廻の鴉,BEMANI Sound Team "dj TAKA",RESIDENT
+-,"[CN][BSS]6","[CN][BSS]10","[BSS]12",-,"[CN][BSS]6","[CN][BSS]10","[CN][BSS]12",-,200,FORTUNE OVERTURE,[ ]DENTITY,BEMANI Sound Team "HuΣeR",RESIDENT
+-,"[CN?]7","[CN][BSS]10","[CN][BSS]12",-,"[CN?]7","[CN][BSS]10","[CN][BSS]12",-,212,EMPYREAL HYDRO ARTCORE,VOLAQUAS,BEMANI Sound Team "DJ TOTTO VS 兎々",RESIDENT
+-,5,8,10,-,5,8,10,-,148,TRANCE,Fading Stars,Nhato,RESIDENT
+-,5,9,11,-,5,9,11,-,115-230,ENIGMATIC BASS HARDCORE,DIAMOND JACKAL,Akira Complex,RESIDENT
+-,"[CN][BSS]4","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]4","[CN][BSS]9","[CN][BSS]11",-,236,ピコピコ電波ソング,あるビー！ feat.ころねぽち,ヒゲドライバー,RESIDENT
+-,6,10,12,-,6,10,12,-,180,RAPCORE,Peaktime Booster,らっぷびと Prod.by RoughSketch & NUE,RESIDENT
+-,"[CN][BSS]6","[CN][BSS]10","[HCN][HBSS]12",-,"[CN][BSS]6","[CN][BSS]10","[HCN][HBSS]12",-,180,MASSIVE MIXTURE,LOUDER ROLLING THUNDER,BEMANI Sound Team "Dustup Vs. L.E.D.-G",RESIDENT
+-,4,7,10,-,4,7,10,-,174,FANTASIA,昏き甲鉄のヴェルガ,arcane feat.rionos,RESIDENT
+-,5,8,10,-,5,8,10,-,239,ALTERNATIVE,楽園追放,中山真斗 feat. CHAN,RESIDENT
+-,6,10,11,-,6,10,11,-,180,ROCK,ちょえちょえまぎか,Pizuya's Cell,RESIDENT
+-,6,9,12,-,6,10,12,-,174,RAVE IN THE GAME,ONE AND ONLY,Yuta Imai,RESIDENT
+-,5,9,12,-,5,9,12,-,200,HARDCORE,Super Freak,Hommarju,RESIDENT
+-,"[CN?]6","[CN][BSS]10","[CN][BSS]12",-,"[CN?]6","[CN][BSS]10","[CN][BSS]12",-,180,DnB,Level 4,Yamato,RESIDENT
+-,"[CN][MSS]6","[CN][MSS]10","[CN][MSS]12",-,6,10,"[CN][MSS]12",-,190,CHANNEL K,kors k's How to make OTOGE CORE 「LONG」,kors k,RESIDENT
+-,"[HCN]7","[HCN]11","[HCN]12",-,7,11,"[HCN]12",-,185,CULMINATION,Beyond Evolution,Hekatoncheir,RESIDENT
+-,"[CN]4","[CN?]7","[CN?]10",-,"[CN]4","[CN]7","[CN]10",-,95-165,BOSSA NA NOKA,AWA AWA,Snail's House,RESIDENT
+-,5,8,11,-,5,8,11,-,158,COLOUR BASS BREAKS,STRAIGHT TO THE STARS,BEMANI Sound Team "Expander" feat. Starbitz,RESIDENT
+-,"[CN?]6","[CN?]9","[CN][MSS]11",-,"[CN][BSS]6","[CN?]9","[CN]11",-,150,TEAROUT BREAKS,EXODUS SIGN,Blacklolita,RESIDENT
+-,"[CN?]6","[CN?]10","[CN?]12",-,"[CN]6","[CN?]10","[CN?]12",-,186,ARTCORE,glacia,DJ TOTTO,RESIDENT
+-,5,9,12,-,5,9,12,-,180,HELETIC BREAK D'n'B,Chaotoxin,Feryquitous,RESIDENT
+-,"[CN?]7","[CN?]10","[CN?]12",-,"[CN?]7","[CN?]10","[CN?]12",-,185,TRIUMPHAL MARCH,栄冠のカンパネラ,OSTER project,RESIDENT
+-,"[CN]6","[CN][BSS]9","[CN][BSS]12",-,6,9,"[CN][BSS]12",-,177,EMOTIONAL HARDCORE SUMMERS,BIGWAVERS,BlackY,RESIDENT
+-,,,"[CN]12",-,,,"[CN]12",-,115,SUBCONSCIOUS FRAGMENT,Somnidiscotheque,夢路 歩,RESIDENT
+-,5,8,10,-,5,8,10,-,189,ALTERNATIVE SHIBUYA E-POP,■□模様,BEMANI Sound Team "PHQUASE" feat.紫崎 雪,RESIDENT
+-,4,7,10,-,4,7,10,-,156,PRISM EURO,7 Colors,kors k feat.吉河順央,RESIDENT
+-,5,9,11,-,5,9,11,-,158,ELECTRO FUSION,Ambush Ace,Xecon,RESIDENT
+-,6,9,12,-,6,9,12,-,140,MELODIC DUBSTEP,神のシナリオ,AJURIKA,RESIDENT
+-,6,10,12,-,6,10,12,-,200,バーチャルマルチコア,ぞうしょく！？マイデンティティ,DJ SHARPNEL feat.みらい,RESIDENT
+-,7,10,12,-,7,10,12,-,182,HAPPY HARDCORE,Xerulean,BEMANI Sound Team "ZAQUVA",RESIDENT
+-,"[CN]6","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]6","[CN][BSS]9","[CN][BSS]11",-,166,GODSPEED,《ORDERBREAKER》,Blacklolita,RESIDENT
+-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,"[CN][BSS]5","[CN][BSS]9","[CN][BSS]11",-,155,HYBRID TRANCE,Get On Your Feet,Nhato,RESIDENT
+-,6,"[HCN][HBSS]9","[HCN][HBSS]11",-,6,"[HCN][HBSS]9","[HCN][HBSS]11",-,160,HARDSTYLE,OVER VOLTAGE,Yuta Imai,RESIDENT
+-,5,9,12,-,5,9,12,-,180,UK HARDCORE,Hat Surprise (Season 2),Hommarju,RESIDENT
+-,"[CN]6","[CN][BSS]10","[CN][BSS]12",-,"[CN]6","[CN][BSS]10","[CN][BSS]12",-,191,TOHOKU NEURO DENSETSU,Ōu Legends,かめりあ,RESIDENT
+-,"[CN]5","[CN]8","[CN][BSS]10",-,"[CN]5","[CN]8","[CN][BSS]10",-,174,DRUM & BASS,Next Level,Maozon,RESIDENT
+-,6,9,11,-,6,9,11,-,180,HARDCORE,Red Soul,RoughSketch,RESIDENT
+-,"[CN]4","[CN][BSS]8","[CN]10",-,"[CN]4","[CN][BSS]8","[CN]10",-,158,COLOUR BASS,STAR BEAT,MK,RESIDENT
+-,5,10,12,-,5,10,12,-,175,ACID RAVE,dica dica,REMO-CON,RESIDENT
+-,4,8,"[CN]10",-,4,7,"[CN]10",-,137,BEMANI 8BIT COLLECTION,サヨナラ・ヘヴン-Celtic Chip Dance Mix-,しのりゅー,RESIDENT
+-,6,9,11,-,6,9,11,-,190,ARCADE CORE,ZEИITH,Ashrount vs polysha,RESIDENT
+-,6,10,12,-,6,10,12,-,204,DISSOCIATIVE IDENTITY DISORDER,The Clown of 24stairs,Yu_Asahina,RESIDENT
+-,"[CN?]7","[CN][MSS]10","[CN][MSS]12",-,"[CN?]7","[CN][MSS]10","[CN][MSS]12",-,3-333,HARDCORE×ソフラン×変拍子×萌え,恋愛＝精度×認識力,立秋 vs. BEMANI Sound Team "L.E.D.-G" feat.ちょこ＆ななひら,RESIDENT
+-,5,7,11,-,5,7,11,-,165,SUPER RAVE BEAT,DEEP ROAR,NAOKI&Tatsh,RESIDENT
+-,4,7,10,-,4,7,10,-,100-200,FUNK SHUFFLE,fun,Mr.T,RESIDENT
+-,6,9,11,-,6,9,11,-,172,UK HARD CORE,THE SHINING POLARIS(kors k mix),Remixed by kors k,RESIDENT`

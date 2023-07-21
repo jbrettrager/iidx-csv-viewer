@@ -1,13 +1,361 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+  box-sizing: border-box;
+  background-color: #282d35;
+  color: aliceblue;
+  font-family: "Orbitron", sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background-color: #282d35;
+  margin: 0;
+  padding: 0;
+  font-family: "Karla", sans-serif;
+}
+
+header {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+form {
+  background-color: #3b4149;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.csv-input {
+  width: 500px;
+  height: 60px;
+}
+
+.score-table {
+  width: 100%;
+}
+
+.song-info {
+  text-align: center;
+}
+
+.bar-chart {
+  display: flex;
+  flex-direction: column;
+  height: 1.25rem;
+  width: 100%;
+  background-color: #d9d9d9;
+}
+
+.the-bar-normal {
+  margin-top: 0.125rem;
+  margin-bottom:0.155rem;
+  background: linear-gradient(90deg, #555555 5%, #6147ff 50%);
+  font-size: 0.75rem;
+}
+.the-bar-hyper {
+  margin-top: 0.125rem;
+  margin-bottom:0.155rem;
+  background: linear-gradient(90deg, #555555 5%, #d2be05 100%);
+  font-size: 0.75rem;
+}
+
+.the-bar-another {
+  margin-top: 0.125rem;
+  margin-bottom:0.155rem;
+  background: linear-gradient(90deg, #555555 5%, #bd0000 100%);
+  font-size: 0.75rem;
+}
+.the-bar-leggendaria {
+  margin-top: 0.125rem;
+  margin-bottom:0.155rem;
+  background: linear-gradient(90deg, #555555 5%, #8603c3 100%);
+  font-size: 0.75rem;
+}
+
+.grade-marker {
+  background-color: black;
+  font-size: 0.1rem;
+}
+
+tr {
+  height: 100%;
+  border: 0.125rem solid white;
+}
+
+.song-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.song-artist {
+  font-size: 0.75rem;
+}
+
+.song-details {
+  width: 10rem;
+  text-align: right;
+  border-right: 1px solid white;
+}
+
+.score-percent {
+  background: rgba(0, 0, 0, 0);
+}
+
+.djlevel {
+  background: rgba(0, 0, 0, 0);
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+.score-details {
+  font-size: 0.8rem;
+  background: rgba(0, 0, 0, 0);
+  padding-right: 1.1rem;
+}
+
+.easyclear {
+  background: linear-gradient(180deg, #27c100 30.21%, rgba(28, 198, 0, 0) 100%);
+}
+
+.clear {
+  background: linear-gradient(
+    180deg,
+    #0286ff 30.21%,
+    rgba(193, 0, 0, 0) 83.85%
+  );
+}
+
+.hard {
+  background: linear-gradient(180deg, #fd0000 0%, rgba(28, 198, 0, 0) 78.12%);
+}
+
+.exhard {
+  background: linear-gradient(
+    180deg,
+    #ce760f 31.77%,
+    rgba(193, 0, 0, 0) 92.19%
+  );
+}
+
+.fullcombo {
+  background: linear-gradient(
+    180deg,
+    #9e00ff 31.77%,
+    rgba(193, 0, 0, 0) 92.19%
+  );
+}
+
+td {
+  width: 15rem;
+}
+.difficulty {
+  float: left;
+  text-align: right;
+  background: rgba(0, 0, 0, 0);
+  font-size: 0.8rem;
+}
+
+.notes-info {
+  float: right;
+  text-align: left;
+  font-size: 0.8rem;
+  background: rgba(0, 0, 0, 0);
+}
+
+.no-chart {
+  text-align: center;
+  background: linear-gradient(
+    45deg,
+    #00000000 0%,
+    #ff2f2f69 0%,
+    #ff2f2f69 1.77%,
+    #00000000 1.77%,
+    #00000000 3.54%,
+    #ff2f2f69 3.54%,
+    #ff2f2f69 5.3%,
+    #00000000 5.3%,
+    #00000000 7.07%,
+    #ff2f2f69 7.07%,
+    #ff2f2f69 8.84%,
+    #00000000 8.84%,
+    #00000000 10.61%,
+    #ff2f2f69 10.61%,
+    #ff2f2f69 12.37%,
+    #00000000 12.37%,
+    #00000000 14.14%,
+    #ff2f2f69 14.14%,
+    #ff2f2f69 15.91%,
+    #00000000 15.91%,
+    #00000000 17.68%,
+    #ff2f2f69 17.68%,
+    #ff2f2f69 19.45%,
+    #00000000 19.45%,
+    #00000000 21.21%,
+    #ff2f2f69 21.21%,
+    #ff2f2f69 22.98%,
+    #00000000 22.98%,
+    #00000000 24.75%,
+    #ff2f2f69 24.75%,
+    #ff2f2f69 26.52%,
+    #00000000 26.52%,
+    #00000000 28.28%,
+    #ff2f2f69 28.28%,
+    #ff2f2f69 30.05%,
+    #00000000 30.05%,
+    #00000000 31.82%,
+    #ff2f2f69 31.82%,
+    #ff2f2f69 33.59%,
+    #00000000 33.59%,
+    #00000000 35.36%,
+    #ff2f2f69 35.36%,
+    #ff2f2f69 37.12%,
+    #00000000 37.12%,
+    #00000000 38.89%,
+    #ff2f2f69 38.89%,
+    #ff2f2f69 40.66%,
+    #00000000 40.66%,
+    #00000000 42.43%,
+    #ff2f2f69 42.43%,
+    #ff2f2f69 44.19%,
+    #00000000 44.19%,
+    #00000000 45.96%,
+    #ff2f2f69 45.96%,
+    #ff2f2f69 47.73%,
+    #00000000 47.73%,
+    #00000000 49.5%,
+    #ff2f2f69 49.5%,
+    #ff2f2f69 51.27%,
+    #00000000 51.27%,
+    #00000000 53.03%,
+    #ff2f2f69 53.03%,
+    #ff2f2f69 54.8%,
+    #00000000 54.8%,
+    #00000000 56.57%,
+    #ff2f2f69 56.57%,
+    #ff2f2f69 58.34%,
+    #00000000 58.34%,
+    #00000000 60.1%,
+    #ff2f2f69 60.1%,
+    #ff2f2f69 61.87%,
+    #00000000 61.87%,
+    #00000000 63.64%,
+    #ff2f2f69 63.64%,
+    #ff2f2f69 65.41%,
+    #00000000 65.41%,
+    #00000000 67.18%,
+    #ff2f2f69 67.18%,
+    #ff2f2f69 68.94%,
+    #00000000 68.94%,
+    #00000000 70.71%,
+    #ff2f2f69 70.71%,
+    #ff2f2f69 72.48%,
+    #00000000 72.48%,
+    #00000000 74.25%,
+    #ff2f2f69 74.25%,
+    #ff2f2f69 76.01%,
+    #00000000 76.01%,
+    #00000000 77.78%,
+    #ff2f2f69 77.78%,
+    #ff2f2f69 79.55%,
+    #00000000 79.55%,
+    #00000000 81.32%,
+    #ff2f2f69 81.32%,
+    #ff2f2f69 83.09%,
+    #00000000 83.09%,
+    #00000000 84.85%,
+    #ff2f2f69 84.85%,
+    #ff2f2f69 86.62%,
+    #00000000 86.62%,
+    #00000000 88.39%,
+    #ff2f2f69 88.39%,
+    #ff2f2f69 90.16%,
+    #00000000 90.16%,
+    #00000000 91.92%,
+    #ff2f2f69 91.92%,
+    #ff2f2f69 93.69%,
+    #00000000 93.69%,
+    #00000000 95.46%,
+    #ff2f2f69 95.46%,
+    #ff2f2f69 97.23%,
+    #00000000 97.23%,
+    #00000000 98.99%,
+    #ff2f2f69 98.99%
+  );
+}
+.no-chart-sub {
+  background: rgba(0, 0, 0, 0);
+}
+
+.no-score {
+  background: rgba(0, 0, 0, 0);
+}
+
+.title-header {
+  text-align: right
+}
+
+.level-filter {
+  background: rgba(0, 0, 0, 0);
+}
+
+fieldset {
+  display:inline-block;
+}
+
+.title-search {
+  height: 2rem;
+  position:absolute;
+  top: 50%;
+  left: 2%;
+}
+
+.title-search-title {
+  background: rgba(0, 0, 0, 0);
+  position:absolute;
+  top: 20%;
+  left: 2%;
+}
+
+.style-filter {
+  height: 2rem;
+  position:absolute;
+  top: 50%;
+  left: 85%
+}
+
+.style-filter-title {
+  background: rgba(0, 0, 0, 0);
+  position:absolute;
+  top: 20%;
+  left: 85%
+}
+
+.search-area {
+  display: flex;
+  justify-content:center;
+  border: 1px solid aliceblue;
+  position: relative;
+  background-color: #3b4149;
+}
+
+.fix-search-area {
+  background-color: #3b4149;
+  position:sticky; 
+  width: 100%;
+  top: 0;
+  padding: 1rem;
+}
+label {
+  background: rgba(0, 0, 0, 0);
+}
+.level-filter-title {
+  background: rgba(0, 0, 0, 0);
+}
+.level-filter-sub {
+  background: rgba(0, 0, 0, 0);
+}
+h2 {
+  background-color: #3b4149;
 }
