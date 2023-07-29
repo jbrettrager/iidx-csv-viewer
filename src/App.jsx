@@ -24,13 +24,13 @@ export default function App() {
     console.log(splitDiff);
     let newDiff = "";
     for (let i = 0; i < splitDiff.length; i++) {
-      if (splitDiff[i] == "[") newDiff += splitDiff[i];
-      else if (splitDiff[i] == "C") newDiff += splitDiff[i];
-      else if (splitDiff[i] == "N") newDiff += splitDiff[i];
-      else if (splitDiff[i] == "B") newDiff += splitDiff[i];
-      else if (splitDiff[i] == "S") newDiff += splitDiff[i];
-      else if (splitDiff[i] == "]") newDiff += splitDiff[i];
-      else if (numbersRegex.test(splitDiff[i]) == true) newDiff += splitDiff[i];
+      if (splitDiff[i] === "[") newDiff += splitDiff[i];
+      else if (splitDiff[i] === "C") newDiff += splitDiff[i];
+      else if (splitDiff[i] === "N") newDiff += splitDiff[i];
+      else if (splitDiff[i] === "B") newDiff += splitDiff[i];
+      else if (splitDiff[i] === "S") newDiff += splitDiff[i];
+      else if (splitDiff[i] === "]") newDiff += splitDiff[i];
+      else if (numbersRegex.test(splitDiff[i]) === true) newDiff += splitDiff[i];
     }
     console.log(newDiff);
     return newDiff;
@@ -48,19 +48,19 @@ export default function App() {
     song.leggendariaBss = false;
     let cnRegex = new RegExp(/[CN]/);
     let bssRegex = new RegExp(/[BSS]/);
-    if (cnRegex.test(song.beginnerDiff) == true) {
+    if (cnRegex.test(song.beginnerDiff) === true) {
       song.beginnerCn = true;
     }
-    if (bssRegex.test(song.beginnerDiff) == true) {
+    if (bssRegex.test(song.beginnerDiff) === true) {
       song.beginnerBss = true;
     }
-    if (cnRegex.test(song.normalDiff) == true) {
+    if (cnRegex.test(song.normalDiff) === true) {
       song.normalCn = true;
     }
-    if (bssRegex.test(song.normalDiff) == true) {
+    if (bssRegex.test(song.normalDiff) === true) {
       song.normalBss = true;
     }
-    if (cnRegex.test(song.hyperDiff) == true) {
+    if (cnRegex.test(song.hyperDiff) === true) {
       song.hyperCn = true;
     }
     if (bssRegex.test(song.hyperDiff) == true) {
@@ -454,20 +454,22 @@ export default function App() {
     setSearchText(e.target.value);
   }
   function displayedSongData(str, levelFilters, styleFilter) {
-    const filteredSongData = songData.filter((song) => {
-      if (str === "") return songData;
-      else {
+    let filteredSongData = [...songData];
+    if (str !== "") {
+      filteredSongData = filteredSongData.filter((song) => {
         return song.title.toLowerCase().includes(str);
-      }
-    });
+      });
+    }
     let levelFilteredData = filteredSongData.filter((song) => {
       if (levelFilters.length > 0) {
         for (let i = 0; i < levelFilters.length; i++) {
-          if (song.normalDiff === levelFilters[i]) return song;
-          if (song.hyperDiff === levelFilters[i]) return song;
-          if (song.anotherDiff === levelFilters[i]) return song;
+          if (song.normalDiff === levelFilters[i]) return true;
+          if (song.hyperDiff === levelFilters[i]) return true;
+          if (song.anotherDiff === levelFilters[i]) return true;
+          if (song.leggendariaDiff === levelFilters[i]) return true;
         }
-      } else return filteredSongData;
+        return false;
+      } else return true;
     });
     if (styleFilter === "ALL VERSION") {
       return levelFilteredData.map((song) => <Song song={song} />);
@@ -536,154 +538,161 @@ export default function App() {
         </button>
       </form>
       <div className="fix-search-area">
-      <div className="search-area">
-        <div className="title-search-title">Search By Title:</div>
-        <input
-          type="text"
-          placeholder="検索"
-          onChange={searchFunction}
-          value={searchText}
-          className="title-search"
-        ></input>
-        <fieldset className="level-filter">
-          <div className="level-filter-title">Level</div>
-          <div className="level-filter-sub">
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="1"
-              name="1"
-              value="1"
-            ></input>
-            <label for="12">1</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="2"
-              name="2"
-              value="2"
-            ></input>
-            <label for="12">2</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="3"
-              name="3"
-              value="3"
-            ></input>
-            <label for="12">3</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="4"
-              name="4"
-              value="4"
-            ></input>
-            <label for="12">4</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="5"
-              name="5"
-              value="5"
-            ></input>
-            <label for="12">5</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="6"
-              name="6"
-              value="6"
-            ></input>
-            <label for="12">6</label>
-          </div>
-          <div className="level-filter-sub">
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="7"
-              name="7"
-              value="7"
-            ></input>
-            <label for="12">7</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="8"
-              name="8"
-              value="8"
-            ></input>
-            <label for="12">8</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="9"
-              name="9"
-              value="9"
-            ></input>
-            <label for="12">9</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="10"
-              name="10"
-              value="10"
-            ></input>
-            <label for="12">10</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="11"
-              name="11"
-              value="11"
-            ></input>
-            <label for="12">11</label>
-            <input
-              type="checkbox"
-              onChange={checkHandler}
-              id="12"
-              name="12"
-              value="12"
-            ></input>
-            <label for="12">12</label>
-          </div>
-          <button type="button">Reset Labels</button>
-        </fieldset>
-        <label for="style" className="style-filter-title">Style:</label>
-        <select name="style" value={styleFilter} onChange={styleHandler} className="style-filter">
-          <option value="ALL VERSION">ALL VERSION</option>
-          <option value="1st Style">1st&substream</option>
-          <option value="2nd Style">2nd style</option>
-          <option value="3rd Style">3rd style</option>
-          <option value="4th Style">4th style</option>
-          <option value="5th Style">5th style</option>
-          <option value="6th Style">6th style</option>
-          <option value="7th Style">7th style</option>
-          <option value="8th Style">8th style</option>
-          <option value="9th Style">9th style</option>
-          <option value="10th Style">10th style</option>
-          <option value="IIDX RED">IIDX RED</option>
-          <option value="HAPPY SKY">HAPPY SKY</option>
-          <option value="DistorteD">DistorteD</option>
-          <option value="GOLD">GOLD</option>
-          <option value="DJ TROOPERS">DJ TROOPERS</option>
-          <option value="EMPRESS">EMPRESS</option>
-          <option value="SIRIUS">SIRIUS</option>
-          <option value="Resort Anthem">Resort Anthem</option>
-          <option value="Lincle">Lincle</option>
-          <option value="tricoro">tricoro</option>
-          <option value="SPADA">SPADA</option>
-          <option value="PENDUAL">PENDUAL</option>
-          <option value="copula">copula</option>
-          <option value="SINOBUZ">SINOBUZ</option>
-          <option value="CANNON BALLERS">CANNON BALLERS</option>
-          <option value="Rootage">Rootage</option>
-          <option value="HEROIC VERSE">HEROIC VERSE</option>
-          <option value="BISTROVER">BISTROVER</option>
-          <option value="CastHour">CastHour</option>
-          <option value="RESIDENT">RESIDENT</option>
-        </select>
-      </div>
+        <div className="search-area">
+          <div className="title-search-title">Search By Title:</div>
+          <input
+            type="text"
+            placeholder="検索"
+            onChange={searchFunction}
+            value={searchText}
+            className="title-search"
+          ></input>
+          <fieldset className="level-filter">
+            <div className="level-filter-title">Level</div>
+            <div className="level-filter-sub">
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="1"
+                name="1"
+                value="1"
+              ></input>
+              <label for="12">1</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="2"
+                name="2"
+                value="2"
+              ></input>
+              <label for="12">2</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="3"
+                name="3"
+                value="3"
+              ></input>
+              <label for="12">3</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="4"
+                name="4"
+                value="4"
+              ></input>
+              <label for="12">4</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="5"
+                name="5"
+                value="5"
+              ></input>
+              <label for="12">5</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="6"
+                name="6"
+                value="6"
+              ></input>
+              <label for="12">6</label>
+            </div>
+            <div className="level-filter-sub">
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="7"
+                name="7"
+                value="7"
+              ></input>
+              <label for="12">7</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="8"
+                name="8"
+                value="8"
+              ></input>
+              <label for="12">8</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="9"
+                name="9"
+                value="9"
+              ></input>
+              <label for="12">9</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="10"
+                name="10"
+                value="10"
+              ></input>
+              <label for="12">10</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="11"
+                name="11"
+                value="11"
+              ></input>
+              <label for="12">11</label>
+              <input
+                type="checkbox"
+                onChange={checkHandler}
+                id="12"
+                name="12"
+                value="12"
+              ></input>
+              <label for="12">12</label>
+            </div>
+            <button type="button">Reset Labels</button>
+          </fieldset>
+          <label for="style" className="style-filter-title">
+            Style:
+          </label>
+          <select
+            name="style"
+            value={styleFilter}
+            onChange={styleHandler}
+            className="style-filter"
+          >
+            <option value="ALL VERSION">ALL VERSION</option>
+            <option value="1st Style">1st&substream</option>
+            <option value="2nd Style">2nd style</option>
+            <option value="3rd Style">3rd style</option>
+            <option value="4th Style">4th style</option>
+            <option value="5th Style">5th style</option>
+            <option value="6th Style">6th style</option>
+            <option value="7th Style">7th style</option>
+            <option value="8th Style">8th style</option>
+            <option value="9th Style">9th style</option>
+            <option value="10th Style">10th style</option>
+            <option value="IIDX RED">IIDX RED</option>
+            <option value="HAPPY SKY">HAPPY SKY</option>
+            <option value="DistorteD">DistorteD</option>
+            <option value="GOLD">GOLD</option>
+            <option value="DJ TROOPERS">DJ TROOPERS</option>
+            <option value="EMPRESS">EMPRESS</option>
+            <option value="SIRIUS">SIRIUS</option>
+            <option value="Resort Anthem">Resort Anthem</option>
+            <option value="Lincle">Lincle</option>
+            <option value="tricoro">tricoro</option>
+            <option value="SPADA">SPADA</option>
+            <option value="PENDUAL">PENDUAL</option>
+            <option value="copula">copula</option>
+            <option value="SINOBUZ">SINOBUZ</option>
+            <option value="CANNON BALLERS">CANNON BALLERS</option>
+            <option value="Rootage">Rootage</option>
+            <option value="HEROIC VERSE">HEROIC VERSE</option>
+            <option value="BISTROVER">BISTROVER</option>
+            <option value="CastHour">CastHour</option>
+            <option value="RESIDENT">RESIDENT</option>
+          </select>
+        </div>
       </div>
       <table className="score-table">
         <tr className="table-title">
